@@ -1,0 +1,289 @@
+,geography,state,census race ACS5Y,Estimate race ACS5Y,Percent race ACS5Y,census ethnicity ACS5Y,Estimate ethnicity ACS5Y,Percent ethnicity ACS5Y,census year
+0,Alameda County,California,    Total population,"1,661,584","1,661,584",        Hispanic or Latino (of any race),"369,546",22.2%,2020
+1,Alameda County,California,    Total population,"1,661,584","1,661,584",        Not Hispanic or Latino,"1,292,038",77.8%,2020
+2,Alameda County,California,        American Indian and Alaska Native,"28,833",1.7%,        Hispanic or Latino (of any race),"369,546",22.2%,2020
+3,Alameda County,California,        American Indian and Alaska Native,"28,833",1.7%,        Not Hispanic or Latino,"1,292,038",77.8%,2020
+4,Alameda County,California,        Asian,"578,885",34.8%,        Hispanic or Latino (of any race),"369,546",22.2%,2020
+5,Alameda County,California,        Asian,"578,885",34.8%,        Not Hispanic or Latino,"1,292,038",77.8%,2020
+6,Alameda County,California,        Black or African American,"204,606",12.3%,        Hispanic or Latino (of any race),"369,546",22.2%,2020
+7,Alameda County,California,        Black or African American,"204,606",12.3%,        Not Hispanic or Latino,"1,292,038",77.8%,2020
+8,Alameda County,California,        Native Hawaiian and Other Pacific Islander,"25,897",1.6%,        Hispanic or Latino (of any race),"369,546",22.2%,2020
+9,Alameda County,California,        Native Hawaiian and Other Pacific Islander,"25,897",1.6%,        Not Hispanic or Latino,"1,292,038",77.8%,2020
+10,Alameda County,California,        Some other race,"231,659",13.9%,        Hispanic or Latino (of any race),"369,546",22.2%,2020
+11,Alameda County,California,        Some other race,"231,659",13.9%,        Not Hispanic or Latino,"1,292,038",77.8%,2020
+12,Alameda County,California,        White,"738,232",44.4%,        Hispanic or Latino (of any race),"369,546",22.2%,2020
+13,Alameda County,California,        White,"738,232",44.4%,        Not Hispanic or Latino,"1,292,038",77.8%,2020
+14,Alameda County,California,            White alone,"508,583",30.6%,        Hispanic or Latino (of any race),"369,546",22.2%,2020
+15,Alameda County,California,            White alone,"508,583",30.6%,        Not Hispanic or Latino,"1,292,038",77.8%,2020
+16,King County,Washington,    Total population,"2,225,064","2,225,064",        Hispanic or Latino (of any race),"218,763",9.8%,2020
+17,King County,Washington,    Total population,"2,225,064","2,225,064",        Not Hispanic or Latino,"2,006,301",90.2%,2020
+18,King County,Washington,        American Indian and Alaska Native,"44,933",2.0%,        Hispanic or Latino (of any race),"218,763",9.8%,2020
+19,King County,Washington,        American Indian and Alaska Native,"44,933",2.0%,        Not Hispanic or Latino,"2,006,301",90.2%,2020
+20,King County,Washington,        Asian,"485,570",21.8%,        Hispanic or Latino (of any race),"218,763",9.8%,2020
+21,King County,Washington,        Asian,"485,570",21.8%,        Not Hispanic or Latino,"2,006,301",90.2%,2020
+22,King County,Washington,        Black or African American,"188,483",8.5%,        Hispanic or Latino (of any race),"218,763",9.8%,2020
+23,King County,Washington,        Black or African American,"188,483",8.5%,        Not Hispanic or Latino,"2,006,301",90.2%,2020
+24,King County,Washington,        Native Hawaiian and Other Pacific Islander,"29,141",1.3%,        Hispanic or Latino (of any race),"218,763",9.8%,2020
+25,King County,Washington,        Native Hawaiian and Other Pacific Islander,"29,141",1.3%,        Not Hispanic or Latino,"2,006,301",90.2%,2020
+26,King County,Washington,        Some other race,"130,273",5.9%,        Hispanic or Latino (of any race),"218,763",9.8%,2020
+27,King County,Washington,        Some other race,"130,273",5.9%,        Not Hispanic or Latino,"2,006,301",90.2%,2020
+28,King County,Washington,        White,"1,525,759",68.6%,        Hispanic or Latino (of any race),"218,763",9.8%,2020
+29,King County,Washington,        White,"1,525,759",68.6%,        Not Hispanic or Latino,"2,006,301",90.2%,2020
+30,King County,Washington,            White alone,"1,295,401",58.2%,        Hispanic or Latino (of any race),"218,763",9.8%,2020
+31,King County,Washington,            White alone,"1,295,401",58.2%,        Not Hispanic or Latino,"2,006,301",90.2%,2020
+32,Los Angeles County,California,    Total population,"10,040,682","10,040,682",        Hispanic or Latino (of any race),"4,851,344",48.3%,2020
+33,Los Angeles County,California,    Total population,"10,040,682","10,040,682",        Not Hispanic or Latino,"5,189,338",51.7%,2020
+34,Los Angeles County,California,        American Indian and Alaska Native,"176,427",1.8%,        Hispanic or Latino (of any race),"4,851,344",48.3%,2020
+35,Los Angeles County,California,        American Indian and Alaska Native,"176,427",1.8%,        Not Hispanic or Latino,"5,189,338",51.7%,2020
+36,Los Angeles County,California,        Asian,"1,678,734",16.7%,        Hispanic or Latino (of any race),"4,851,344",48.3%,2020
+37,Los Angeles County,California,        Asian,"1,678,734",16.7%,        Not Hispanic or Latino,"5,189,338",51.7%,2020
+38,Los Angeles County,California,        Black or African American,"936,285",9.3%,        Hispanic or Latino (of any race),"4,851,344",48.3%,2020
+39,Los Angeles County,California,        Black or African American,"936,285",9.3%,        Not Hispanic or Latino,"5,189,338",51.7%,2020
+40,Los Angeles County,California,        Native Hawaiian and Other Pacific Islander,"58,104",0.6%,        Hispanic or Latino (of any race),"4,851,344",48.3%,2020
+41,Los Angeles County,California,        Native Hawaiian and Other Pacific Islander,"58,104",0.6%,        Not Hispanic or Latino,"5,189,338",51.7%,2020
+42,Los Angeles County,California,        Some other race,"2,546,006",25.4%,        Hispanic or Latino (of any race),"4,851,344",48.3%,2020
+43,Los Angeles County,California,        Some other race,"2,546,006",25.4%,        Not Hispanic or Latino,"5,189,338",51.7%,2020
+44,Los Angeles County,California,        White,"5,431,218",54.1%,        Hispanic or Latino (of any race),"4,851,344",48.3%,2020
+45,Los Angeles County,California,        White,"5,431,218",54.1%,        Not Hispanic or Latino,"5,189,338",51.7%,2020
+46,Los Angeles County,California,            White alone,"2,603,280",25.9%,        Hispanic or Latino (of any race),"4,851,344",48.3%,2020
+47,Los Angeles County,California,            White alone,"2,603,280",25.9%,        Not Hispanic or Latino,"5,189,338",51.7%,2020
+64,Multnomah County,Oregon,    Total population,"809,869","809,869",        Hispanic or Latino (of any race),"95,432",11.8%,2020
+65,Multnomah County,Oregon,    Total population,"809,869","809,869",        Not Hispanic or Latino,"714,437",88.2%,2020
+66,Multnomah County,Oregon,        American Indian and Alaska Native,"19,199",2.4%,        Hispanic or Latino (of any race),"95,432",11.8%,2020
+67,Multnomah County,Oregon,        American Indian and Alaska Native,"19,199",2.4%,        Not Hispanic or Latino,"714,437",88.2%,2020
+68,Multnomah County,Oregon,        Asian,"80,146",9.9%,        Hispanic or Latino (of any race),"95,432",11.8%,2020
+69,Multnomah County,Oregon,        Asian,"80,146",9.9%,        Not Hispanic or Latino,"714,437",88.2%,2020
+70,Multnomah County,Oregon,        Black or African American,"60,106",7.4%,        Hispanic or Latino (of any race),"95,432",11.8%,2020
+71,Multnomah County,Oregon,        Black or African American,"60,106",7.4%,        Not Hispanic or Latino,"714,437",88.2%,2020
+72,Multnomah County,Oregon,        Native Hawaiian and Other Pacific Islander,"8,875",1.1%,        Hispanic or Latino (of any race),"95,432",11.8%,2020
+73,Multnomah County,Oregon,        Native Hawaiian and Other Pacific Islander,"8,875",1.1%,        Not Hispanic or Latino,"714,437",88.2%,2020
+74,Multnomah County,Oregon,        Some other race,"34,438",4.3%,        Hispanic or Latino (of any race),"95,432",11.8%,2020
+75,Multnomah County,Oregon,        Some other race,"34,438",4.3%,        Not Hispanic or Latino,"714,437",88.2%,2020
+76,Multnomah County,Oregon,        White,"664,873",82.1%,        Hispanic or Latino (of any race),"95,432",11.8%,2020
+77,Multnomah County,Oregon,        White,"664,873",82.1%,        Not Hispanic or Latino,"714,437",88.2%,2020
+78,Multnomah County,Oregon,            White alone,"558,225",68.9%,        Hispanic or Latino (of any race),"95,432",11.8%,2020
+79,Multnomah County,Oregon,            White alone,"558,225",68.9%,        Not Hispanic or Latino,"714,437",88.2%,2020
+112,Sacramento County,California,    Total population,"1,537,948","1,537,948",        Hispanic or Latino (of any race),"360,204",23.4%,2020
+113,Sacramento County,California,    Total population,"1,537,948","1,537,948",        Not Hispanic or Latino,"1,177,744",76.6%,2020
+114,Sacramento County,California,        American Indian and Alaska Native,"35,536",2.3%,        Hispanic or Latino (of any race),"360,204",23.4%,2020
+115,Sacramento County,California,        American Indian and Alaska Native,"35,536",2.3%,        Not Hispanic or Latino,"1,177,744",76.6%,2020
+116,Sacramento County,California,        Asian,"305,142",19.8%,        Hispanic or Latino (of any race),"360,204",23.4%,2020
+117,Sacramento County,California,        Asian,"305,142",19.8%,        Not Hispanic or Latino,"1,177,744",76.6%,2020
+118,Sacramento County,California,        Black or African American,"196,664",12.8%,        Hispanic or Latino (of any race),"360,204",23.4%,2020
+119,Sacramento County,California,        Black or African American,"196,664",12.8%,        Not Hispanic or Latino,"1,177,744",76.6%,2020
+120,Sacramento County,California,        Native Hawaiian and Other Pacific Islander,"28,487",1.9%,        Hispanic or Latino (of any race),"360,204",23.4%,2020
+121,Sacramento County,California,        Native Hawaiian and Other Pacific Islander,"28,487",1.9%,        Not Hispanic or Latino,"1,177,744",76.6%,2020
+122,Sacramento County,California,        Some other race,"171,810",11.2%,        Hispanic or Latino (of any race),"360,204",23.4%,2020
+123,Sacramento County,California,        Some other race,"171,810",11.2%,        Not Hispanic or Latino,"1,177,744",76.6%,2020
+124,Sacramento County,California,        White,"958,106",62.3%,        Hispanic or Latino (of any race),"360,204",23.4%,2020
+125,Sacramento County,California,        White,"958,106",62.3%,        Not Hispanic or Latino,"1,177,744",76.6%,2020
+126,Sacramento County,California,            White alone,"671,965",43.7%,        Hispanic or Latino (of any race),"360,204",23.4%,2020
+127,Sacramento County,California,            White alone,"671,965",43.7%,        Not Hispanic or Latino,"1,177,744",76.6%,2020
+144,San Diego County,California,    Total population,"3,323,970","3,323,970",        Hispanic or Latino (of any race),"1,126,266",33.9%,2020
+145,San Diego County,California,    Total population,"3,323,970","3,323,970",        Not Hispanic or Latino,"2,197,704",66.1%,2020
+146,San Diego County,California,        American Indian and Alaska Native,"58,175",1.8%,        Hispanic or Latino (of any race),"1,126,266",33.9%,2020
+147,San Diego County,California,        American Indian and Alaska Native,"58,175",1.8%,        Not Hispanic or Latino,"2,197,704",66.1%,2020
+148,San Diego County,California,        Asian,"496,937",15.0%,        Hispanic or Latino (of any race),"1,126,266",33.9%,2020
+149,San Diego County,California,        Asian,"496,937",15.0%,        Not Hispanic or Latino,"2,197,704",66.1%,2020
+150,San Diego County,California,        Black or African American,"215,223",6.5%,        Hispanic or Latino (of any race),"1,126,266",33.9%,2020
+151,San Diego County,California,        Black or African American,"215,223",6.5%,        Not Hispanic or Latino,"2,197,704",66.1%,2020
+152,San Diego County,California,        Native Hawaiian and Other Pacific Islander,"34,446",1.0%,        Hispanic or Latino (of any race),"1,126,266",33.9%,2020
+153,San Diego County,California,        Native Hawaiian and Other Pacific Islander,"34,446",1.0%,        Not Hispanic or Latino,"2,197,704",66.1%,2020
+154,San Diego County,California,        Some other race,"356,278",10.7%,        Hispanic or Latino (of any race),"1,126,266",33.9%,2020
+155,San Diego County,California,        Some other race,"356,278",10.7%,        Not Hispanic or Latino,"2,197,704",66.1%,2020
+156,San Diego County,California,        White,"2,473,828",74.4%,        Hispanic or Latino (of any race),"1,126,266",33.9%,2020
+157,San Diego County,California,        White,"2,473,828",74.4%,        Not Hispanic or Latino,"2,197,704",66.1%,2020
+158,San Diego County,California,            White alone,"1,492,165",44.9%,        Hispanic or Latino (of any race),"1,126,266",33.9%,2020
+159,San Diego County,California,            White alone,"1,492,165",44.9%,        Not Hispanic or Latino,"2,197,704",66.1%,2020
+0,Alameda County,California,    American Indian and Alaska Native,"24,107",1.6%,    Hispanic or Latino (of any race),"323,307",21.9%,2010
+1,Alameda County,California,    American Indian and Alaska Native,"24,107",1.6%,    Not Hispanic or Latino,"1,154,673",78.1%,2010
+2,Alameda County,California,    Asian,"416,276",28.2%,    Hispanic or Latino (of any race),"323,307",21.9%,2010
+3,Alameda County,California,    Asian,"416,276",28.2%,    Not Hispanic or Latino,"1,154,673",78.1%,2010
+4,Alameda County,California,    Black or African American,"208,983",14.1%,    Hispanic or Latino (of any race),"323,307",21.9%,2010
+5,Alameda County,California,    Black or African American,"208,983",14.1%,    Not Hispanic or Latino,"1,154,673",78.1%,2010
+6,Alameda County,California,    Native Hawaiian and Other Pacific Islander,"18,642",1.3%,    Hispanic or Latino (of any race),"323,307",21.9%,2010
+7,Alameda County,California,    Native Hawaiian and Other Pacific Islander,"18,642",1.3%,    Not Hispanic or Latino,"1,154,673",78.1%,2010
+8,Alameda County,California,    Some other race,"157,966",10.7%,    Hispanic or Latino (of any race),"323,307",21.9%,2010
+9,Alameda County,California,    Some other race,"157,966",10.7%,    Not Hispanic or Latino,"1,154,673",78.1%,2010
+10,Alameda County,California,    White,"730,054",49.4%,    Hispanic or Latino (of any race),"323,307",21.9%,2010
+11,Alameda County,California,    White,"730,054",49.4%,    Not Hispanic or Latino,"1,154,673",78.1%,2010
+12,Alameda County,California,        Total population,"1,477,980","1,477,980",    Hispanic or Latino (of any race),"323,307",21.9%,2010
+13,Alameda County,California,        Total population,"1,477,980","1,477,980",    Not Hispanic or Latino,"1,154,673",78.1%,2010
+14,Alameda County,California,        White alone,"519,461",35.1%,    Hispanic or Latino (of any race),"323,307",21.9%,2010
+15,Alameda County,California,        White alone,"519,461",35.1%,    Not Hispanic or Latino,"1,154,673",78.1%,2010
+16,King County,Washington,    American Indian and Alaska Native,"36,342",1.9%,    Hispanic or Latino (of any race),"156,207",8.3%,2010
+17,King County,Washington,    American Indian and Alaska Native,"36,342",1.9%,    Not Hispanic or Latino,"1,722,982",91.7%,2010
+18,King County,Washington,    Asian,"305,613",16.3%,    Hispanic or Latino (of any race),"156,207",8.3%,2010
+19,King County,Washington,    Asian,"305,613",16.3%,    Not Hispanic or Latino,"1,722,982",91.7%,2010
+20,King County,Washington,    Black or African American,"137,606",7.3%,    Hispanic or Latino (of any race),"156,207",8.3%,2010
+21,King County,Washington,    Black or African American,"137,606",7.3%,    Not Hispanic or Latino,"1,722,982",91.7%,2010
+22,King County,Washington,    Native Hawaiian and Other Pacific Islander,"20,934",1.1%,    Hispanic or Latino (of any race),"156,207",8.3%,2010
+23,King County,Washington,    Native Hawaiian and Other Pacific Islander,"20,934",1.1%,    Not Hispanic or Latino,"1,722,982",91.7%,2010
+24,King County,Washington,    Some other race,"67,633",3.6%,    Hispanic or Latino (of any race),"156,207",8.3%,2010
+25,King County,Washington,    Some other race,"67,633",3.6%,    Not Hispanic or Latino,"1,722,982",91.7%,2010
+26,King County,Washington,    White,"1,404,150",74.7%,    Hispanic or Latino (of any race),"156,207",8.3%,2010
+27,King County,Washington,    White,"1,404,150",74.7%,    Not Hispanic or Latino,"1,722,982",91.7%,2010
+28,King County,Washington,        Total population,"1,879,189","1,879,189",    Hispanic or Latino (of any race),"156,207",8.3%,2010
+29,King County,Washington,        Total population,"1,879,189","1,879,189",    Not Hispanic or Latino,"1,722,982",91.7%,2010
+30,King County,Washington,        White alone,"1,244,837",66.2%,    Hispanic or Latino (of any race),"156,207",8.3%,2010
+31,King County,Washington,        White alone,"1,244,837",66.2%,    Not Hispanic or Latino,"1,722,982",91.7%,2010
+32,Los Angeles County,California,    American Indian and Alaska Native,"114,698",1.2%,    Hispanic or Latino (of any race),"4,599,258",47.1%,2010
+33,Los Angeles County,California,    American Indian and Alaska Native,"114,698",1.2%,    Not Hispanic or Latino,"5,158,998",52.9%,2010
+34,Los Angeles County,California,    Asian,"1,448,879",14.8%,    Hispanic or Latino (of any race),"4,599,258",47.1%,2010
+35,Los Angeles County,California,    Asian,"1,448,879",14.8%,    Not Hispanic or Latino,"5,158,998",52.9%,2010
+36,Los Angeles County,California,    Black or African American,"934,619",9.6%,    Hispanic or Latino (of any race),"4,599,258",47.1%,2010
+37,Los Angeles County,California,    Black or African American,"934,619",9.6%,    Not Hispanic or Latino,"5,158,998",52.9%,2010
+38,Los Angeles County,California,    Native Hawaiian and Other Pacific Islander,"43,595",0.4%,    Hispanic or Latino (of any race),"4,599,258",47.1%,2010
+39,Los Angeles County,California,    Native Hawaiian and Other Pacific Islander,"43,595",0.4%,    Not Hispanic or Latino,"5,158,998",52.9%,2010
+40,Los Angeles County,California,    Some other race,"2,335,704",23.9%,    Hispanic or Latino (of any race),"4,599,258",47.1%,2010
+41,Los Angeles County,California,    Some other race,"2,335,704",23.9%,    Not Hispanic or Latino,"5,158,998",52.9%,2010
+42,Los Angeles County,California,    White,"5,214,166",53.4%,    Hispanic or Latino (of any race),"4,599,258",47.1%,2010
+43,Los Angeles County,California,    White,"5,214,166",53.4%,    Not Hispanic or Latino,"5,158,998",52.9%,2010
+44,Los Angeles County,California,        Total population,"9,758,256","9,758,256",    Hispanic or Latino (of any race),"4,599,258",47.1%,2010
+45,Los Angeles County,California,        Total population,"9,758,256","9,758,256",    Not Hispanic or Latino,"5,158,998",52.9%,2010
+46,Los Angeles County,California,        White alone,"2,772,785",28.4%,    Hispanic or Latino (of any race),"4,599,258",47.1%,2010
+47,Los Angeles County,California,        White alone,"2,772,785",28.4%,    Not Hispanic or Latino,"5,158,998",52.9%,2010
+64,Multnomah County,Oregon,    American Indian and Alaska Native,"20,268",2.8%,    Hispanic or Latino (of any race),"73,952",10.4%,2010
+65,Multnomah County,Oregon,    American Indian and Alaska Native,"20,268",2.8%,    Not Hispanic or Latino,"638,084",89.6%,2010
+66,Multnomah County,Oregon,    Asian,"56,890",8.0%,    Hispanic or Latino (of any race),"73,952",10.4%,2010
+67,Multnomah County,Oregon,    Asian,"56,890",8.0%,    Not Hispanic or Latino,"638,084",89.6%,2010
+68,Multnomah County,Oregon,    Black or African American,"49,308",6.9%,    Hispanic or Latino (of any race),"73,952",10.4%,2010
+69,Multnomah County,Oregon,    Black or African American,"49,308",6.9%,    Not Hispanic or Latino,"638,084",89.6%,2010
+70,Multnomah County,Oregon,    Native Hawaiian and Other Pacific Islander,"5,266",0.7%,    Hispanic or Latino (of any race),"73,952",10.4%,2010
+71,Multnomah County,Oregon,    Native Hawaiian and Other Pacific Islander,"5,266",0.7%,    Not Hispanic or Latino,"638,084",89.6%,2010
+72,Multnomah County,Oregon,    Some other race,"26,915",3.8%,    Hispanic or Latino (of any race),"73,952",10.4%,2010
+73,Multnomah County,Oregon,    Some other race,"26,915",3.8%,    Not Hispanic or Latino,"638,084",89.6%,2010
+74,Multnomah County,Oregon,    White,"583,806",82.0%,    Hispanic or Latino (of any race),"73,952",10.4%,2010
+75,Multnomah County,Oregon,    White,"583,806",82.0%,    Not Hispanic or Latino,"638,084",89.6%,2010
+76,Multnomah County,Oregon,        Total population,"712,036","712,036",    Hispanic or Latino (of any race),"73,952",10.4%,2010
+77,Multnomah County,Oregon,        Total population,"712,036","712,036",    Not Hispanic or Latino,"638,084",89.6%,2010
+78,Multnomah County,Oregon,        White alone,"518,801",72.9%,    Hispanic or Latino (of any race),"73,952",10.4%,2010
+79,Multnomah County,Oregon,        White alone,"518,801",72.9%,    Not Hispanic or Latino,"638,084",89.6%,2010
+112,Sacramento County,California,    American Indian and Alaska Native,"32,477",2.3%,    Hispanic or Latino (of any race),"289,636",20.8%,2010
+113,Sacramento County,California,    American Indian and Alaska Native,"32,477",2.3%,    Not Hispanic or Latino,"1,105,508",79.2%,2010
+114,Sacramento County,California,    Asian,"227,146",16.3%,    Hispanic or Latino (of any race),"289,636",20.8%,2010
+115,Sacramento County,California,    Asian,"227,146",16.3%,    Not Hispanic or Latino,"1,105,508",79.2%,2010
+116,Sacramento County,California,    Black or African American,"168,362",12.1%,    Hispanic or Latino (of any race),"289,636",20.8%,2010
+117,Sacramento County,California,    Black or African American,"168,362",12.1%,    Not Hispanic or Latino,"1,105,508",79.2%,2010
+118,Sacramento County,California,    Native Hawaiian and Other Pacific Islander,"19,139",1.4%,    Hispanic or Latino (of any race),"289,636",20.8%,2010
+119,Sacramento County,California,    Native Hawaiian and Other Pacific Islander,"19,139",1.4%,    Not Hispanic or Latino,"1,105,508",79.2%,2010
+120,Sacramento County,California,    Some other race,"130,175",9.3%,    Hispanic or Latino (of any race),"289,636",20.8%,2010
+121,Sacramento County,California,    Some other race,"130,175",9.3%,    Not Hispanic or Latino,"1,105,508",79.2%,2010
+122,Sacramento County,California,    White,"897,331",64.3%,    Hispanic or Latino (of any race),"289,636",20.8%,2010
+123,Sacramento County,California,    White,"897,331",64.3%,    Not Hispanic or Latino,"1,105,508",79.2%,2010
+124,Sacramento County,California,        Total population,"1,395,144","1,395,144",    Hispanic or Latino (of any race),"289,636",20.8%,2010
+125,Sacramento County,California,        Total population,"1,395,144","1,395,144",    Not Hispanic or Latino,"1,105,508",79.2%,2010
+126,Sacramento County,California,        White alone,"693,823",49.7%,    Hispanic or Latino (of any race),"289,636",20.8%,2010
+127,Sacramento County,California,        White alone,"693,823",49.7%,    Not Hispanic or Latino,"1,105,508",79.2%,2010
+144,San Diego County,California,    American Indian and Alaska Native,"48,168",1.6%,    Hispanic or Latino (of any race),"940,777",31.1%,2010
+145,San Diego County,California,    American Indian and Alaska Native,"48,168",1.6%,    Not Hispanic or Latino,"2,081,691",68.9%,2010
+146,San Diego County,California,    Asian,"381,426",12.6%,    Hispanic or Latino (of any race),"940,777",31.1%,2010
+147,San Diego County,California,    Asian,"381,426",12.6%,    Not Hispanic or Latino,"2,081,691",68.9%,2010
+148,San Diego County,California,    Black or African American,"181,287",6.0%,    Hispanic or Latino (of any race),"940,777",31.1%,2010
+149,San Diego County,California,    Black or African American,"181,287",6.0%,    Not Hispanic or Latino,"2,081,691",68.9%,2010
+150,San Diego County,California,    Native Hawaiian and Other Pacific Islander,"25,533",0.8%,    Hispanic or Latino (of any race),"940,777",31.1%,2010
+151,San Diego County,California,    Native Hawaiian and Other Pacific Islander,"25,533",0.8%,    Not Hispanic or Latino,"2,081,691",68.9%,2010
+152,San Diego County,California,    Some other race,"264,849",8.8%,    Hispanic or Latino (of any race),"940,777",31.1%,2010
+153,San Diego County,California,    Some other race,"264,849",8.8%,    Not Hispanic or Latino,"2,081,691",68.9%,2010
+154,San Diego County,California,    White,"2,255,026",74.6%,    Hispanic or Latino (of any race),"940,777",31.1%,2010
+155,San Diego County,California,    White,"2,255,026",74.6%,    Not Hispanic or Latino,"2,081,691",68.9%,2010
+156,San Diego County,California,        Total population,"3,022,468","3,022,468",    Hispanic or Latino (of any race),"940,777",31.1%,2010
+157,San Diego County,California,        Total population,"3,022,468","3,022,468",    Not Hispanic or Latino,"2,081,691",68.9%,2010
+158,San Diego County,California,        White alone,"1,500,807",49.7%,    Hispanic or Latino (of any race),"940,777",31.1%,2010
+159,San Diego County,California,        White alone,"1,500,807",49.7%,    Not Hispanic or Latino,"2,081,691",68.9%,2010
+0,Alameda County,California,        Total population,"1,584,983","1,584,983",        Hispanic or Latino (of any race),"358,168",22.6%,2015
+1,Alameda County,California,        Total population,"1,584,983","1,584,983",        Not Hispanic or Latino,"1,226,815",77.4%,2015
+2,Alameda County,California,            American Indian and Alaska Native,"26,132",1.6%,        Hispanic or Latino (of any race),"358,168",22.6%,2015
+3,Alameda County,California,            American Indian and Alaska Native,"26,132",1.6%,        Not Hispanic or Latino,"1,226,815",77.4%,2015
+4,Alameda County,California,            Asian,"491,276",31.0%,        Hispanic or Latino (of any race),"358,168",22.6%,2015
+5,Alameda County,California,            Asian,"491,276",31.0%,        Not Hispanic or Latino,"1,226,815",77.4%,2015
+6,Alameda County,California,            Black or African American,"213,949",13.5%,        Hispanic or Latino (of any race),"358,168",22.6%,2015
+7,Alameda County,California,            Black or African American,"213,949",13.5%,        Not Hispanic or Latino,"1,226,815",77.4%,2015
+8,Alameda County,California,            Native Hawaiian and Other Pacific Islander,"24,048",1.5%,        Hispanic or Latino (of any race),"358,168",22.6%,2015
+9,Alameda County,California,            Native Hawaiian and Other Pacific Islander,"24,048",1.5%,        Not Hispanic or Latino,"1,226,815",77.4%,2015
+10,Alameda County,California,            Some other race,"153,383",9.7%,        Hispanic or Latino (of any race),"358,168",22.6%,2015
+11,Alameda County,California,            Some other race,"153,383",9.7%,        Not Hispanic or Latino,"1,226,815",77.4%,2015
+12,Alameda County,California,            White,"784,501",49.5%,        Hispanic or Latino (of any race),"358,168",22.6%,2015
+13,Alameda County,California,            White,"784,501",49.5%,        Not Hispanic or Latino,"1,226,815",77.4%,2015
+14,Alameda County,California,            White alone,"522,707",33.0%,        Hispanic or Latino (of any race),"358,168",22.6%,2015
+15,Alameda County,California,            White alone,"522,707",33.0%,        Not Hispanic or Latino,"1,226,815",77.4%,2015
+16,King County,Washington,        Total population,"2,045,756","2,045,756",        Hispanic or Latino (of any race),"189,808",9.3%,2015
+17,King County,Washington,        Total population,"2,045,756","2,045,756",        Not Hispanic or Latino,"1,855,948",90.7%,2015
+18,King County,Washington,            American Indian and Alaska Native,"45,053",2.2%,        Hispanic or Latino (of any race),"189,808",9.3%,2015
+19,King County,Washington,            American Indian and Alaska Native,"45,053",2.2%,        Not Hispanic or Latino,"1,855,948",90.7%,2015
+20,King County,Washington,            Asian,"376,657",18.4%,        Hispanic or Latino (of any race),"189,808",9.3%,2015
+21,King County,Washington,            Asian,"376,657",18.4%,        Not Hispanic or Latino,"1,855,948",90.7%,2015
+22,King County,Washington,            Black or African American,"163,756",8.0%,        Hispanic or Latino (of any race),"189,808",9.3%,2015
+23,King County,Washington,            Black or African American,"163,756",8.0%,        Not Hispanic or Latino,"1,855,948",90.7%,2015
+24,King County,Washington,            Native Hawaiian and Other Pacific Islander,"26,723",1.3%,        Hispanic or Latino (of any race),"189,808",9.3%,2015
+25,King County,Washington,            Native Hawaiian and Other Pacific Islander,"26,723",1.3%,        Not Hispanic or Latino,"1,855,948",90.7%,2015
+26,King County,Washington,            Some other race,"71,011",3.5%,        Hispanic or Latino (of any race),"189,808",9.3%,2015
+27,King County,Washington,            Some other race,"71,011",3.5%,        Not Hispanic or Latino,"1,855,948",90.7%,2015
+28,King County,Washington,            White,"1,495,137",73.1%,        Hispanic or Latino (of any race),"189,808",9.3%,2015
+29,King County,Washington,            White,"1,495,137",73.1%,        Not Hispanic or Latino,"1,855,948",90.7%,2015
+30,King County,Washington,            White alone,"1,284,684",62.8%,        Hispanic or Latino (of any race),"189,808",9.3%,2015
+31,King County,Washington,            White alone,"1,284,684",62.8%,        Not Hispanic or Latino,"1,855,948",90.7%,2015
+32,Los Angeles County,California,        Total population,"10,038,388","10,038,388",        Hispanic or Latino (of any race),"4,842,319",48.2%,2015
+33,Los Angeles County,California,        Total population,"10,038,388","10,038,388",        Not Hispanic or Latino,"5,196,069",51.8%,2015
+34,Los Angeles County,California,            American Indian and Alaska Native,"156,646",1.6%,        Hispanic or Latino (of any race),"4,842,319",48.2%,2015
+35,Los Angeles County,California,            American Indian and Alaska Native,"156,646",1.6%,        Not Hispanic or Latino,"5,196,069",51.8%,2015
+36,Los Angeles County,California,            Asian,"1,574,316",15.7%,        Hispanic or Latino (of any race),"4,842,319",48.2%,2015
+37,Los Angeles County,California,            Asian,"1,574,316",15.7%,        Not Hispanic or Latino,"5,196,069",51.8%,2015
+38,Los Angeles County,California,            Black or African American,"939,305",9.4%,        Hispanic or Latino (of any race),"4,842,319",48.2%,2015
+39,Los Angeles County,California,            Black or African American,"939,305",9.4%,        Not Hispanic or Latino,"5,196,069",51.8%,2015
+40,Los Angeles County,California,            Native Hawaiian and Other Pacific Islander,"52,506",0.5%,        Hispanic or Latino (of any race),"4,842,319",48.2%,2015
+41,Los Angeles County,California,            Native Hawaiian and Other Pacific Islander,"52,506",0.5%,        Not Hispanic or Latino,"5,196,069",51.8%,2015
+42,Los Angeles County,California,            Some other race,"2,087,587",20.8%,        Hispanic or Latino (of any race),"4,842,319",48.2%,2015
+43,Los Angeles County,California,            Some other race,"2,087,587",20.8%,        Not Hispanic or Latino,"5,196,069",51.8%,2015
+44,Los Angeles County,California,            White,"5,658,213",56.4%,        Hispanic or Latino (of any race),"4,842,319",48.2%,2015
+45,Los Angeles County,California,            White,"5,658,213",56.4%,        Not Hispanic or Latino,"5,196,069",51.8%,2015
+46,Los Angeles County,California,            White alone,"2,703,547",26.9%,        Hispanic or Latino (of any race),"4,842,319",48.2%,2015
+47,Los Angeles County,California,            White alone,"2,703,547",26.9%,        Not Hispanic or Latino,"5,196,069",51.8%,2015
+64,Multnomah County,Oregon,        Total population,"768,418","768,418",        Hispanic or Latino (of any race),"85,202",11.1%,2015
+65,Multnomah County,Oregon,        Total population,"768,418","768,418",        Not Hispanic or Latino,"683,216",88.9%,2015
+66,Multnomah County,Oregon,            American Indian and Alaska Native,"18,859",2.5%,        Hispanic or Latino (of any race),"85,202",11.1%,2015
+67,Multnomah County,Oregon,            American Indian and Alaska Native,"18,859",2.5%,        Not Hispanic or Latino,"683,216",88.9%,2015
+68,Multnomah County,Oregon,            Asian,"67,810",8.8%,        Hispanic or Latino (of any race),"85,202",11.1%,2015
+69,Multnomah County,Oregon,            Asian,"67,810",8.8%,        Not Hispanic or Latino,"683,216",88.9%,2015
+70,Multnomah County,Oregon,            Black or African American,"53,688",7.0%,        Hispanic or Latino (of any race),"85,202",11.1%,2015
+71,Multnomah County,Oregon,            Black or African American,"53,688",7.0%,        Not Hispanic or Latino,"683,216",88.9%,2015
+72,Multnomah County,Oregon,            Native Hawaiian and Other Pacific Islander,"8,083",1.1%,        Hispanic or Latino (of any race),"85,202",11.1%,2015
+73,Multnomah County,Oregon,            Native Hawaiian and Other Pacific Islander,"8,083",1.1%,        Not Hispanic or Latino,"683,216",88.9%,2015
+74,Multnomah County,Oregon,            Some other race,"28,108",3.7%,        Hispanic or Latino (of any race),"85,202",11.1%,2015
+75,Multnomah County,Oregon,            Some other race,"28,108",3.7%,        Not Hispanic or Latino,"683,216",88.9%,2015
+76,Multnomah County,Oregon,            White,"634,925",82.6%,        Hispanic or Latino (of any race),"85,202",11.1%,2015
+77,Multnomah County,Oregon,            White,"634,925",82.6%,        Not Hispanic or Latino,"683,216",88.9%,2015
+78,Multnomah County,Oregon,            White alone,"547,919",71.3%,        Hispanic or Latino (of any race),"85,202",11.1%,2015
+79,Multnomah County,Oregon,            White alone,"547,919",71.3%,        Not Hispanic or Latino,"683,216",88.9%,2015
+112,Sacramento County,California,        Total population,"1,465,832","1,465,832",        Hispanic or Latino (of any race),"326,742",22.3%,2015
+113,Sacramento County,California,        Total population,"1,465,832","1,465,832",        Not Hispanic or Latino,"1,139,090",77.7%,2015
+114,Sacramento County,California,            American Indian and Alaska Native,"34,640",2.4%,        Hispanic or Latino (of any race),"326,742",22.3%,2015
+115,Sacramento County,California,            American Indian and Alaska Native,"34,640",2.4%,        Not Hispanic or Latino,"1,139,090",77.7%,2015
+116,Sacramento County,California,            Asian,"261,225",17.8%,        Hispanic or Latino (of any race),"326,742",22.3%,2015
+117,Sacramento County,California,            Asian,"261,225",17.8%,        Not Hispanic or Latino,"1,139,090",77.7%,2015
+118,Sacramento County,California,            Black or African American,"182,479",12.4%,        Hispanic or Latino (of any race),"326,742",22.3%,2015
+119,Sacramento County,California,            Black or African American,"182,479",12.4%,        Not Hispanic or Latino,"1,139,090",77.7%,2015
+120,Sacramento County,California,            Native Hawaiian and Other Pacific Islander,"26,841",1.8%,        Hispanic or Latino (of any race),"326,742",22.3%,2015
+121,Sacramento County,California,            Native Hawaiian and Other Pacific Islander,"26,841",1.8%,        Not Hispanic or Latino,"1,139,090",77.7%,2015
+122,Sacramento County,California,            Some other race,"119,835",8.2%,        Hispanic or Latino (of any race),"326,742",22.3%,2015
+123,Sacramento County,California,            Some other race,"119,835",8.2%,        Not Hispanic or Latino,"1,139,090",77.7%,2015
+124,Sacramento County,California,            White,"950,502",64.8%,        Hispanic or Latino (of any race),"326,742",22.3%,2015
+125,Sacramento County,California,            White,"950,502",64.8%,        Not Hispanic or Latino,"1,139,090",77.7%,2015
+126,Sacramento County,California,            White alone,"686,399",46.8%,        Hispanic or Latino (of any race),"326,742",22.3%,2015
+127,Sacramento County,California,            White alone,"686,399",46.8%,        Not Hispanic or Latino,"1,139,090",77.7%,2015
+144,San Diego County,California,        Total population,"3,223,096","3,223,096",        Hispanic or Latino (of any race),"1,060,995",32.9%,2015
+145,San Diego County,California,        Total population,"3,223,096","3,223,096",        Not Hispanic or Latino,"2,162,101",67.1%,2015
+146,San Diego County,California,            American Indian and Alaska Native,"53,253",1.7%,        Hispanic or Latino (of any race),"1,060,995",32.9%,2015
+147,San Diego County,California,            American Indian and Alaska Native,"53,253",1.7%,        Not Hispanic or Latino,"2,162,101",67.1%,2015
+148,San Diego County,California,            Asian,"443,075",13.7%,        Hispanic or Latino (of any race),"1,060,995",32.9%,2015
+149,San Diego County,California,            Asian,"443,075",13.7%,        Not Hispanic or Latino,"2,162,101",67.1%,2015
+150,San Diego County,California,            Black or African American,"204,183",6.3%,        Hispanic or Latino (of any race),"1,060,995",32.9%,2015
+151,San Diego County,California,            Black or African American,"204,183",6.3%,        Not Hispanic or Latino,"2,162,101",67.1%,2015
+152,San Diego County,California,            Native Hawaiian and Other Pacific Islander,"29,759",0.9%,        Hispanic or Latino (of any race),"1,060,995",32.9%,2015
+153,San Diego County,California,            Native Hawaiian and Other Pacific Islander,"29,759",0.9%,        Not Hispanic or Latino,"2,162,101",67.1%,2015
+154,San Diego County,California,            Some other race,"248,685",7.7%,        Hispanic or Latino (of any race),"1,060,995",32.9%,2015
+155,San Diego County,California,            Some other race,"248,685",7.7%,        Not Hispanic or Latino,"2,162,101",67.1%,2015
+156,San Diego County,California,            White,"2,414,382",74.9%,        Hispanic or Latino (of any race),"1,060,995",32.9%,2015
+157,San Diego County,California,            White,"2,414,382",74.9%,        Not Hispanic or Latino,"2,162,101",67.1%,2015
+158,San Diego County,California,            White alone,"1,515,316",47.0%,        Hispanic or Latino (of any race),"1,060,995",32.9%,2015
+159,San Diego County,California,            White alone,"1,515,316",47.0%,        Not Hispanic or Latino,"2,162,101",67.1%,2015

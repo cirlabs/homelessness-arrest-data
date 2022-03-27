@@ -10,29 +10,15 @@ The population of unhoused people who sleep outside (e.g. unsheltered) has boome
 
 ## Folder structure
 
-For each state, you can expect the following, either root-level or by jurisdiction.
+For each jurisdiction, you can expect the following:
 
-- `01_inputs/`
-- `02_clean/`
-- `03_analysis/`
-- `04_outputs/`
+[![](https://mermaid.ink/img/pako:eNqFz8FqwzAMBuBXMdplhQaSJlDIoIeynQdbb3MxwvZWjcQuiswIIe--NKGlt94k8elHGsBG56GG7yb-2ROyqMNeB6XePwzHKMOg4TcxdY6sUAxP1fZFwziqLMt2yhGbvHj-0pAXhsI5SbeA4-qScUu505tZb4xtPIZHuJxxaTBg03f0MLyafWVikvtbYA2t5xbJTY8Ol2UNcvKt11BPZfBJGBsNOowTTWeH4t8cSWSohZNfAyaJn32w134xr4Q_jO0yHP8BsaNoyw)](https://mermaid.live/edit/#pako:eNqFz8FqwzAMBuBXMdplhQaSJlDIoIeynQdbb3MxwvZWjcQuiswIIe--NKGlt94k8elHGsBG56GG7yb-2ROyqMNeB6XePwzHKMOg4TcxdY6sUAxP1fZFwziqLMt2yhGbvHj-0pAXhsI5SbeA4-qScUu505tZb4xtPIZHuJxxaTBg03f0MLyafWVikvtbYA2t5xbJTY8Ol2UNcvKt11BPZfBJGBsNOowTTWeH4t8cSWSohZNfAyaJn32w134xr4Q_jO0yHP8BsaNoyw)
 
-Jurisdictions so far:
+### California
 
-- `CA/`
+California has `01_inputs` etc. both at the state level and for each city within the state.
 
-  - `Los Angeles/`
-  - `Oakland/`
-  - `Sacramento/`
-  - `San Diego/`
-
-  - `OR/`
-
-  The data is only for Portland, so there is no jurisdiction subdirectory.
-
-  - `WA/`
-
-  The data is only for Seattle, so there is no jurisdiction subdirectory.
+[![](https://mermaid.ink/img/pako:eNqVk99r2zAQgP8Vobx04Aw7yVpwIZA1eysUmo09VMVc5XOiRj4ZSV5XTP73SXLadS2s9EWcdJ8-6fRj4NLUyEveaPMgd2A9-_5VkDXGD7E5sOl0ebGqYizI9XdbC92OOQ8eb1LLNP5CfSuIsSM3DIJfrCaLs3PBD1EwXbJa2SovTm4Ez4tKUdd7NwK3n-LM57kv6FmiZ5XUCPQePE_wvAIC_ejUu_JF4heV6f3bvQhCqgUFEKVXhtjltaC_jmX0neZ5rPPSOLaiLWp0TwUnNKQTqd6UzNDLz-Nar5Rf8llUXsFeA9X_6EIqUfcf0s2jbgPSQovkzSvjPIH7DxhP82I0Elsr3D4L2bHkIoH6f0ZBUoNza2xYTy4cm_RYs0ZpXU6apsmct2aP5QQAjvH0QdV-Vxbd70wabWzKnR89rLPmPjjSNrMfm-zqOvu5eqHmGW_RtqDq8MaHeL2C-x22KHgZQsLeW9CCCzoEtO_q8KK_1coby0tve8w49N5sHkk-9UdmrSD8hHYcPPwBg2ILYA)](https://mermaid.live/edit/#pako:eNqVk99r2zAQgP8Vobx04Aw7yVpwIZA1eysUmo09VMVc5XOiRj4ZSV5XTP73SXLadS2s9EWcdJ8-6fRj4NLUyEveaPMgd2A9-_5VkDXGD7E5sOl0ebGqYizI9XdbC92OOQ8eb1LLNP5CfSuIsSM3DIJfrCaLs3PBD1EwXbJa2SovTm4Ez4tKUdd7NwK3n-LM57kv6FmiZ5XUCPQePE_wvAIC_ejUu_JF4heV6f3bvQhCqgUFEKVXhtjltaC_jmX0neZ5rPPSOLaiLWp0TwUnNKQTqd6UzNDLz-Nar5Rf8llUXsFeA9X_6EIqUfcf0s2jbgPSQovkzSvjPIH7DxhP82I0Elsr3D4L2bHkIoH6f0ZBUoNza2xYTy4cm_RYs0ZpXU6apsmct2aP5QQAjvH0QdV-Vxbd70wabWzKnR89rLPmPjjSNrMfm-zqOvu5eqHmGW_RtqDq8MaHeL2C-x22KHgZQsLeW9CCCzoEtO_q8KK_1coby0tve8w49N5sHkk-9UdmrSD8hHYcPPwBg2ILYA)
 
 ## Requirements
 
