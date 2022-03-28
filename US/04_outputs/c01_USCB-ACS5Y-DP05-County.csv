@@ -35,12 +35,6 @@ census year,demographic,Estimate,variable,total_population,Percent,geography,sta
 2020,Native Hawaiian and Other Pacific Islander,29141,race,2225064,0.013000000000000001,King County,Washington
 2020,Some other race,130273,race,2225064,0.059000000000000004,King County,Washington
 2020,White,1525759,race,2225064,0.6859999999999999,King County,Washington
-2020,American Indian and Alaska Native,176427,race,10040682,0.018000000000000002,Los Angeles County,California
-2020,Asian,1678734,race,10040682,0.16699999999999998,Los Angeles County,California
-2020,Black or African American,936285,race,10040682,0.09300000000000001,Los Angeles County,California
-2020,Native Hawaiian and Other Pacific Islander,58104,race,10040682,0.006,Los Angeles County,California
-2020,Some other race,2546006,race,10040682,0.254,Los Angeles County,California
-2020,White,5431218,race,10040682,0.541,Los Angeles County,California
 2020,American Indian and Alaska Native,19199,race,809869,0.024,Multnomah County,Oregon
 2020,Asian,80146,race,809869,0.099,Multnomah County,Oregon
 2020,Black or African American,60106,race,809869,0.07400000000000001,Multnomah County,Oregon
@@ -71,12 +65,6 @@ census year,demographic,Estimate,variable,total_population,Percent,geography,sta
 2010,Native Hawaiian and Other Pacific Islander,20934,race,1879189,0.011000000000000001,King County,Washington
 2010,Some other race,67633,race,1879189,0.036000000000000004,King County,Washington
 2010,White,1404150,race,1879189,0.747,King County,Washington
-2010,American Indian and Alaska Native,114698,race,9758256,0.012,Los Angeles County,California
-2010,Asian,1448879,race,9758256,0.14800000000000002,Los Angeles County,California
-2010,Black or African American,934619,race,9758256,0.096,Los Angeles County,California
-2010,Native Hawaiian and Other Pacific Islander,43595,race,9758256,0.004,Los Angeles County,California
-2010,Some other race,2335704,race,9758256,0.239,Los Angeles County,California
-2010,White,5214166,race,9758256,0.534,Los Angeles County,California
 2010,American Indian and Alaska Native,20268,race,712036,0.027999999999999997,Multnomah County,Oregon
 2010,Asian,56890,race,712036,0.08,Multnomah County,Oregon
 2010,Black or African American,49308,race,712036,0.069,Multnomah County,Oregon
@@ -107,12 +95,6 @@ census year,demographic,Estimate,variable,total_population,Percent,geography,sta
 2015,Native Hawaiian and Other Pacific Islander,26723,race,2045756,0.013000000000000001,King County,Washington
 2015,Some other race,71011,race,2045756,0.035,King County,Washington
 2015,White,1495137,race,2045756,0.731,King County,Washington
-2015,American Indian and Alaska Native,156646,race,10038388,0.016,Los Angeles County,California
-2015,Asian,1574316,race,10038388,0.157,Los Angeles County,California
-2015,Black or African American,939305,race,10038388,0.094,Los Angeles County,California
-2015,Native Hawaiian and Other Pacific Islander,52506,race,10038388,0.005,Los Angeles County,California
-2015,Some other race,2087587,race,10038388,0.20800000000000002,Los Angeles County,California
-2015,White,5658213,race,10038388,0.564,Los Angeles County,California
 2015,American Indian and Alaska Native,18859,race,768418,0.025,Multnomah County,Oregon
 2015,Asian,67810,race,768418,0.08800000000000001,Multnomah County,Oregon
 2015,Black or African American,53688,race,768418,0.07,Multnomah County,Oregon
