@@ -1,289 +1,109 @@
-geography,state,census race ACS5Y,Estimate race ACS5Y,Percent race ACS5Y,census ethnicity ACS5Y,Estimate ethnicity ACS5Y,Percent ethnicity ACS5Y,census year
-Los Angeles city,California,    Total population,"3,973,278","3,973,278",        Hispanic or Latino (of any race),"1,909,808",48.1%,2020
-Los Angeles city,California,    Total population,"3,973,278","3,973,278",        Not Hispanic or Latino,"2,063,470",51.9%,2020
-Los Angeles city,California,        American Indian and Alaska Native,"62,817",1.6%,        Hispanic or Latino (of any race),"1,909,808",48.1%,2020
-Los Angeles city,California,        American Indian and Alaska Native,"62,817",1.6%,        Not Hispanic or Latino,"2,063,470",51.9%,2020
-Los Angeles city,California,        Asian,"541,935",13.6%,        Hispanic or Latino (of any race),"1,909,808",48.1%,2020
-Los Angeles city,California,        Asian,"541,935",13.6%,        Not Hispanic or Latino,"2,063,470",51.9%,2020
-Los Angeles city,California,        Black or African American,"401,039",10.1%,        Hispanic or Latino (of any race),"1,909,808",48.1%,2020
-Los Angeles city,California,        Black or African American,"401,039",10.1%,        Not Hispanic or Latino,"2,063,470",51.9%,2020
-Los Angeles city,California,        Native Hawaiian and Other Pacific Islander,"18,525",0.5%,        Hispanic or Latino (of any race),"1,909,808",48.1%,2020
-Los Angeles city,California,        Native Hawaiian and Other Pacific Islander,"18,525",0.5%,        Not Hispanic or Latino,"2,063,470",51.9%,2020
-Los Angeles city,California,        Some other race,"1,058,349",26.6%,        Hispanic or Latino (of any race),"1,909,808",48.1%,2020
-Los Angeles city,California,        Some other race,"1,058,349",26.6%,        Not Hispanic or Latino,"2,063,470",51.9%,2020
-Los Angeles city,California,        White,"2,187,180",55.0%,        Hispanic or Latino (of any race),"1,909,808",48.1%,2020
-Los Angeles city,California,        White,"2,187,180",55.0%,        Not Hispanic or Latino,"2,063,470",51.9%,2020
-Los Angeles city,California,            White alone,"1,132,606",28.5%,        Hispanic or Latino (of any race),"1,909,808",48.1%,2020
-Los Angeles city,California,            White alone,"1,132,606",28.5%,        Not Hispanic or Latino,"2,063,470",51.9%,2020
-Oakland city,California,    Total population,"422,575","422,575",        Hispanic or Latino (of any race),"113,901",27.0%,2020
-Oakland city,California,    Total population,"422,575","422,575",        Not Hispanic or Latino,"308,674",73.0%,2020
-Oakland city,California,        American Indian and Alaska Native,"10,103",2.4%,        Hispanic or Latino (of any race),"113,901",27.0%,2020
-Oakland city,California,        American Indian and Alaska Native,"10,103",2.4%,        Not Hispanic or Latino,"308,674",73.0%,2020
-Oakland city,California,        Asian,"79,293",18.8%,        Hispanic or Latino (of any race),"113,901",27.0%,2020
-Oakland city,California,        Asian,"79,293",18.8%,        Not Hispanic or Latino,"308,674",73.0%,2020
-Oakland city,California,        Black or African American,"110,160",26.1%,        Hispanic or Latino (of any race),"113,901",27.0%,2020
-Oakland city,California,        Black or African American,"110,160",26.1%,        Not Hispanic or Latino,"308,674",73.0%,2020
-Oakland city,California,        Native Hawaiian and Other Pacific Islander,"4,817",1.1%,        Hispanic or Latino (of any race),"113,901",27.0%,2020
-Oakland city,California,        Native Hawaiian and Other Pacific Islander,"4,817",1.1%,        Not Hispanic or Latino,"308,674",73.0%,2020
-Oakland city,California,        Some other race,"85,214",20.2%,        Hispanic or Latino (of any race),"113,901",27.0%,2020
-Oakland city,California,        Some other race,"85,214",20.2%,        Not Hispanic or Latino,"308,674",73.0%,2020
-Oakland city,California,        White,"173,784",41.1%,        Hispanic or Latino (of any race),"113,901",27.0%,2020
-Oakland city,California,        White,"173,784",41.1%,        Not Hispanic or Latino,"308,674",73.0%,2020
-Oakland city,California,            White alone,"120,547",28.5%,        Hispanic or Latino (of any race),"113,901",27.0%,2020
-Oakland city,California,            White alone,"120,547",28.5%,        Not Hispanic or Latino,"308,674",73.0%,2020
-Portland city,Oregon,    Total population,"650,380","650,380",        Hispanic or Latino (of any race),"63,809",9.8%,2020
-Portland city,Oregon,    Total population,"650,380","650,380",        Not Hispanic or Latino,"586,571",90.2%,2020
-Portland city,Oregon,        American Indian and Alaska Native,"14,064",2.2%,        Hispanic or Latino (of any race),"63,809",9.8%,2020
-Portland city,Oregon,        American Indian and Alaska Native,"14,064",2.2%,        Not Hispanic or Latino,"586,571",90.2%,2020
-Portland city,Oregon,        Asian,"70,831",10.9%,        Hispanic or Latino (of any race),"63,809",9.8%,2020
-Portland city,Oregon,        Asian,"70,831",10.9%,        Not Hispanic or Latino,"586,571",90.2%,2020
-Portland city,Oregon,        Black or African American,"50,448",7.8%,        Hispanic or Latino (of any race),"63,809",9.8%,2020
-Portland city,Oregon,        Black or African American,"50,448",7.8%,        Not Hispanic or Latino,"586,571",90.2%,2020
-Portland city,Oregon,        Native Hawaiian and Other Pacific Islander,"7,175",1.1%,        Hispanic or Latino (of any race),"63,809",9.8%,2020
-Portland city,Oregon,        Native Hawaiian and Other Pacific Islander,"7,175",1.1%,        Not Hispanic or Latino,"586,571",90.2%,2020
-Portland city,Oregon,        Some other race,"24,983",3.8%,        Hispanic or Latino (of any race),"63,809",9.8%,2020
-Portland city,Oregon,        Some other race,"24,983",3.8%,        Not Hispanic or Latino,"586,571",90.2%,2020
-Portland city,Oregon,        White,"527,845",81.2%,        Hispanic or Latino (of any race),"63,809",9.8%,2020
-Portland city,Oregon,        White,"527,845",81.2%,        Not Hispanic or Latino,"586,571",90.2%,2020
-Portland city,Oregon,            White alone,"451,999",69.5%,        Hispanic or Latino (of any race),"63,809",9.8%,2020
-Portland city,Oregon,            White alone,"451,999",69.5%,        Not Hispanic or Latino,"586,571",90.2%,2020
-Sacramento city,California,    Total population,"503,482","503,482",        Hispanic or Latino (of any race),"142,417",28.3%,2020
-Sacramento city,California,    Total population,"503,482","503,482",        Not Hispanic or Latino,"361,065",71.7%,2020
-Sacramento city,California,        American Indian and Alaska Native,"11,940",2.4%,        Hispanic or Latino (of any race),"142,417",28.3%,2020
-Sacramento city,California,        American Indian and Alaska Native,"11,940",2.4%,        Not Hispanic or Latino,"361,065",71.7%,2020
-Sacramento city,California,        Asian,"113,615",22.6%,        Hispanic or Latino (of any race),"142,417",28.3%,2020
-Sacramento city,California,        Asian,"113,615",22.6%,        Not Hispanic or Latino,"361,065",71.7%,2020
-Sacramento city,California,        Black or African American,"86,942",17.3%,        Hispanic or Latino (of any race),"142,417",28.3%,2020
-Sacramento city,California,        Black or African American,"86,942",17.3%,        Not Hispanic or Latino,"361,065",71.7%,2020
-Sacramento city,California,        Native Hawaiian and Other Pacific Islander,"13,100",2.6%,        Hispanic or Latino (of any race),"142,417",28.3%,2020
-Sacramento city,California,        Native Hawaiian and Other Pacific Islander,"13,100",2.6%,        Not Hispanic or Latino,"361,065",71.7%,2020
-Sacramento city,California,        Some other race,"75,428",15.0%,        Hispanic or Latino (of any race),"142,417",28.3%,2020
-Sacramento city,California,        Some other race,"75,428",15.0%,        Not Hispanic or Latino,"361,065",71.7%,2020
-Sacramento city,California,        White,"257,698",51.2%,        Hispanic or Latino (of any race),"142,417",28.3%,2020
-Sacramento city,California,        White,"257,698",51.2%,        Not Hispanic or Latino,"361,065",71.7%,2020
-Sacramento city,California,            White alone,"160,986",32.0%,        Hispanic or Latino (of any race),"142,417",28.3%,2020
-Sacramento city,California,            White alone,"160,986",32.0%,        Not Hispanic or Latino,"361,065",71.7%,2020
-San Diego city,California,    Total population,"1,414,545","1,414,545",        Hispanic or Latino (of any race),"425,269",30.1%,2020
-San Diego city,California,    Total population,"1,414,545","1,414,545",        Not Hispanic or Latino,"989,276",69.9%,2020
-San Diego city,California,        American Indian and Alaska Native,"19,910",1.4%,        Hispanic or Latino (of any race),"425,269",30.1%,2020
-San Diego city,California,        American Indian and Alaska Native,"19,910",1.4%,        Not Hispanic or Latino,"989,276",69.9%,2020
-San Diego city,California,        Asian,"287,949",20.4%,        Hispanic or Latino (of any race),"425,269",30.1%,2020
-San Diego city,California,        Asian,"287,949",20.4%,        Not Hispanic or Latino,"989,276",69.9%,2020
-San Diego city,California,        Black or African American,"107,613",7.6%,        Hispanic or Latino (of any race),"425,269",30.1%,2020
-San Diego city,California,        Black or African American,"107,613",7.6%,        Not Hispanic or Latino,"989,276",69.9%,2020
-San Diego city,California,        Native Hawaiian and Other Pacific Islander,"14,271",1.0%,        Hispanic or Latino (of any race),"425,269",30.1%,2020
-San Diego city,California,        Native Hawaiian and Other Pacific Islander,"14,271",1.0%,        Not Hispanic or Latino,"989,276",69.9%,2020
-San Diego city,California,        Some other race,"130,017",9.2%,        Hispanic or Latino (of any race),"425,269",30.1%,2020
-San Diego city,California,        Some other race,"130,017",9.2%,        Not Hispanic or Latino,"989,276",69.9%,2020
-San Diego city,California,        White,"973,601",68.8%,        Hispanic or Latino (of any race),"425,269",30.1%,2020
-San Diego city,California,        White,"973,601",68.8%,        Not Hispanic or Latino,"989,276",69.9%,2020
-San Diego city,California,            White alone,"598,293",42.3%,        Hispanic or Latino (of any race),"425,269",30.1%,2020
-San Diego city,California,            White alone,"598,293",42.3%,        Not Hispanic or Latino,"989,276",69.9%,2020
-Seattle city,Washington,    Total population,"741,251","741,251",        Hispanic or Latino (of any race),"52,767",7.1%,2020
-Seattle city,Washington,    Total population,"741,251","741,251",        Not Hispanic or Latino,"688,484",92.9%,2020
-Seattle city,Washington,        American Indian and Alaska Native,"15,219",2.1%,        Hispanic or Latino (of any race),"52,767",7.1%,2020
-Seattle city,Washington,        American Indian and Alaska Native,"15,219",2.1%,        Not Hispanic or Latino,"688,484",92.9%,2020
-Seattle city,Washington,        Asian,"150,377",20.3%,        Hispanic or Latino (of any race),"52,767",7.1%,2020
-Seattle city,Washington,        Asian,"150,377",20.3%,        Not Hispanic or Latino,"688,484",92.9%,2020
-Seattle city,Washington,        Black or African American,"66,903",9.0%,        Hispanic or Latino (of any race),"52,767",7.1%,2020
-Seattle city,Washington,        Black or African American,"66,903",9.0%,        Not Hispanic or Latino,"688,484",92.9%,2020
-Seattle city,Washington,        Native Hawaiian and Other Pacific Islander,"5,357",0.7%,        Hispanic or Latino (of any race),"52,767",7.1%,2020
-Seattle city,Washington,        Native Hawaiian and Other Pacific Islander,"5,357",0.7%,        Not Hispanic or Latino,"688,484",92.9%,2020
-Seattle city,Washington,        Some other race,"26,571",3.6%,        Hispanic or Latino (of any race),"52,767",7.1%,2020
-Seattle city,Washington,        Some other race,"26,571",3.6%,        Not Hispanic or Latino,"688,484",92.9%,2020
-Seattle city,Washington,        White,"539,389",72.8%,        Hispanic or Latino (of any race),"52,767",7.1%,2020
-Seattle city,Washington,        White,"539,389",72.8%,        Not Hispanic or Latino,"688,484",92.9%,2020
-Seattle city,Washington,            White alone,"463,833",62.6%,        Hispanic or Latino (of any race),"52,767",7.1%,2020
-Seattle city,Washington,            White alone,"463,833",62.6%,        Not Hispanic or Latino,"688,484",92.9%,2020
-Los Angeles city,California,    American Indian and Alaska Native,"40,267",1.1%,    Hispanic or Latino (of any race),"1,813,852",48.1%,2010
-Los Angeles city,California,    American Indian and Alaska Native,"40,267",1.1%,    Not Hispanic or Latino,"1,958,634",51.9%,2010
-Los Angeles city,California,    Asian,"465,221",12.3%,    Hispanic or Latino (of any race),"1,813,852",48.1%,2010
-Los Angeles city,California,    Asian,"465,221",12.3%,    Not Hispanic or Latino,"1,958,634",51.9%,2010
-Los Angeles city,California,    Black or African American,"396,920",10.5%,    Hispanic or Latino (of any race),"1,813,852",48.1%,2010
-Los Angeles city,California,    Black or African American,"396,920",10.5%,    Not Hispanic or Latino,"1,958,634",51.9%,2010
-Los Angeles city,California,    Native Hawaiian and Other Pacific Islander,"12,556",0.3%,    Hispanic or Latino (of any race),"1,813,852",48.1%,2010
-Los Angeles city,California,    Native Hawaiian and Other Pacific Islander,"12,556",0.3%,    Not Hispanic or Latino,"1,958,634",51.9%,2010
-Los Angeles city,California,    Some other race,"976,306",25.9%,    Hispanic or Latino (of any race),"1,813,852",48.1%,2010
-Los Angeles city,California,    Some other race,"976,306",25.9%,    Not Hispanic or Latino,"1,958,634",51.9%,2010
-Los Angeles city,California,    White,"2,000,380",53.0%,    Hispanic or Latino (of any race),"1,813,852",48.1%,2010
-Los Angeles city,California,    White,"2,000,380",53.0%,    Not Hispanic or Latino,"1,958,634",51.9%,2010
-Los Angeles city,California,        Total population,"3,772,486","3,772,486",    Hispanic or Latino (of any race),"1,813,852",48.1%,2010
-Los Angeles city,California,        Total population,"3,772,486","3,772,486",    Not Hispanic or Latino,"1,958,634",51.9%,2010
-Los Angeles city,California,        White alone,"1,094,791",29.0%,    Hispanic or Latino (of any race),"1,813,852",48.1%,2010
-Los Angeles city,California,        White alone,"1,094,791",29.0%,    Not Hispanic or Latino,"1,958,634",51.9%,2010
-Oakland city,California,    American Indian and Alaska Native,"7,858",2.0%,    Hispanic or Latino (of any race),"97,393",25.2%,2010
-Oakland city,California,    American Indian and Alaska Native,"7,858",2.0%,    Not Hispanic or Latino,"289,516",74.8%,2010
-Oakland city,California,    Asian,"67,513",17.4%,    Hispanic or Latino (of any race),"97,393",25.2%,2010
-Oakland city,California,    Asian,"67,513",17.4%,    Not Hispanic or Latino,"289,516",74.8%,2010
-Oakland city,California,    Black or African American,"118,488",30.6%,    Hispanic or Latino (of any race),"97,393",25.2%,2010
-Oakland city,California,    Black or African American,"118,488",30.6%,    Not Hispanic or Latino,"289,516",74.8%,2010
-Oakland city,California,    Native Hawaiian and Other Pacific Islander,"3,115",0.8%,    Hispanic or Latino (of any race),"97,393",25.2%,2010
-Oakland city,California,    Native Hawaiian and Other Pacific Islander,"3,115",0.8%,    Not Hispanic or Latino,"289,516",74.8%,2010
-Oakland city,California,    Some other race,"51,436",13.3%,    Hispanic or Latino (of any race),"97,393",25.2%,2010
-Oakland city,California,    Some other race,"51,436",13.3%,    Not Hispanic or Latino,"289,516",74.8%,2010
-Oakland city,California,    White,"157,294",40.7%,    Hispanic or Latino (of any race),"97,393",25.2%,2010
-Oakland city,California,    White,"157,294",40.7%,    Not Hispanic or Latino,"289,516",74.8%,2010
-Oakland city,California,        Total population,"386,909","386,909",    Hispanic or Latino (of any race),"97,393",25.2%,2010
-Oakland city,California,        Total population,"386,909","386,909",    Not Hispanic or Latino,"289,516",74.8%,2010
-Oakland city,California,        White alone,"101,227",26.2%,    Hispanic or Latino (of any race),"97,393",25.2%,2010
-Oakland city,California,        White alone,"101,227",26.2%,    Not Hispanic or Latino,"289,516",74.8%,2010
-Portland city,Oregon,    American Indian and Alaska Native,"15,872",2.8%,    Hispanic or Latino (of any race),"49,888",8.8%,2010
-Portland city,Oregon,    American Indian and Alaska Native,"15,872",2.8%,    Not Hispanic or Latino,"516,798",91.2%,2010
-Portland city,Oregon,    Asian,"48,339",8.5%,    Hispanic or Latino (of any race),"49,888",8.8%,2010
-Portland city,Oregon,    Asian,"48,339",8.5%,    Not Hispanic or Latino,"516,798",91.2%,2010
-Portland city,Oregon,    Black or African American,"43,897",7.7%,    Hispanic or Latino (of any race),"49,888",8.8%,2010
-Portland city,Oregon,    Black or African American,"43,897",7.7%,    Not Hispanic or Latino,"516,798",91.2%,2010
-Portland city,Oregon,    Native Hawaiian and Other Pacific Islander,"4,356",0.8%,    Hispanic or Latino (of any race),"49,888",8.8%,2010
-Portland city,Oregon,    Native Hawaiian and Other Pacific Islander,"4,356",0.8%,    Not Hispanic or Latino,"516,798",91.2%,2010
-Portland city,Oregon,    Some other race,"19,826",3.5%,    Hispanic or Latino (of any race),"49,888",8.8%,2010
-Portland city,Oregon,    Some other race,"19,826",3.5%,    Not Hispanic or Latino,"516,798",91.2%,2010
-Portland city,Oregon,    White,"460,179",81.2%,    Hispanic or Latino (of any race),"49,888",8.8%,2010
-Portland city,Oregon,    White,"460,179",81.2%,    Not Hispanic or Latino,"516,798",91.2%,2010
-Portland city,Oregon,        Total population,"566,686","566,686",    Hispanic or Latino (of any race),"49,888",8.8%,2010
-Portland city,Oregon,        Total population,"566,686","566,686",    Not Hispanic or Latino,"516,798",91.2%,2010
-Portland city,Oregon,        White alone,"413,301",72.9%,    Hispanic or Latino (of any race),"49,888",8.8%,2010
-Portland city,Oregon,        White alone,"413,301",72.9%,    Not Hispanic or Latino,"516,798",91.2%,2010
-Sacramento city,California,    American Indian and Alaska Native,"11,881",2.6%,    Hispanic or Latino (of any race),"116,672",25.4%,2010
-Sacramento city,California,    American Indian and Alaska Native,"11,881",2.6%,    Not Hispanic or Latino,"342,839",74.6%,2010
-Sacramento city,California,    Asian,"96,263",20.9%,    Hispanic or Latino (of any race),"116,672",25.4%,2010
-Sacramento city,California,    Asian,"96,263",20.9%,    Not Hispanic or Latino,"342,839",74.6%,2010
-Sacramento city,California,    Black or African American,"75,113",16.3%,    Hispanic or Latino (of any race),"116,672",25.4%,2010
-Sacramento city,California,    Black or African American,"75,113",16.3%,    Not Hispanic or Latino,"342,839",74.6%,2010
-Sacramento city,California,    Native Hawaiian and Other Pacific Islander,"8,650",1.9%,    Hispanic or Latino (of any race),"116,672",25.4%,2010
-Sacramento city,California,    Native Hawaiian and Other Pacific Islander,"8,650",1.9%,    Not Hispanic or Latino,"342,839",74.6%,2010
-Sacramento city,California,    Some other race,"49,404",10.8%,    Hispanic or Latino (of any race),"116,672",25.4%,2010
-Sacramento city,California,    Some other race,"49,404",10.8%,    Not Hispanic or Latino,"342,839",74.6%,2010
-Sacramento city,California,    White,"248,557",54.1%,    Hispanic or Latino (of any race),"116,672",25.4%,2010
-Sacramento city,California,    White,"248,557",54.1%,    Not Hispanic or Latino,"342,839",74.6%,2010
-Sacramento city,California,        Total population,"459,511","459,511",    Hispanic or Latino (of any race),"116,672",25.4%,2010
-Sacramento city,California,        Total population,"459,511","459,511",    Not Hispanic or Latino,"342,839",74.6%,2010
-Sacramento city,California,        White alone,"165,972",36.1%,    Hispanic or Latino (of any race),"116,672",25.4%,2010
-Sacramento city,California,        White alone,"165,972",36.1%,    Not Hispanic or Latino,"342,839",74.6%,2010
-San Diego city,California,    American Indian and Alaska Native,"18,650",1.5%,    Hispanic or Latino (of any race),"357,799",27.9%,2010
-San Diego city,California,    American Indian and Alaska Native,"18,650",1.5%,    Not Hispanic or Latino,"925,001",72.1%,2010
-San Diego city,California,    Asian,"226,138",17.6%,    Hispanic or Latino (of any race),"357,799",27.9%,2010
-San Diego city,California,    Asian,"226,138",17.6%,    Not Hispanic or Latino,"925,001",72.1%,2010
-San Diego city,California,    Black or African American,"99,469",7.8%,    Hispanic or Latino (of any race),"357,799",27.9%,2010
-San Diego city,California,    Black or African American,"99,469",7.8%,    Not Hispanic or Latino,"925,001",72.1%,2010
-San Diego city,California,    Native Hawaiian and Other Pacific Islander,"11,681",0.9%,    Hispanic or Latino (of any race),"357,799",27.9%,2010
-San Diego city,California,    Native Hawaiian and Other Pacific Islander,"11,681",0.9%,    Not Hispanic or Latino,"925,001",72.1%,2010
-San Diego city,California,    Some other race,"93,319",7.3%,    Hispanic or Latino (of any race),"357,799",27.9%,2010
-San Diego city,California,    Some other race,"93,319",7.3%,    Not Hispanic or Latino,"925,001",72.1%,2010
-San Diego city,California,    White,"889,772",69.4%,    Hispanic or Latino (of any race),"357,799",27.9%,2010
-San Diego city,California,    White,"889,772",69.4%,    Not Hispanic or Latino,"925,001",72.1%,2010
-San Diego city,California,        Total population,"1,282,800","1,282,800",    Hispanic or Latino (of any race),"357,799",27.9%,2010
-San Diego city,California,        Total population,"1,282,800","1,282,800",    Not Hispanic or Latino,"925,001",72.1%,2010
-San Diego city,California,        White alone,"593,166",46.2%,    Hispanic or Latino (of any race),"357,799",27.9%,2010
-San Diego city,California,        White alone,"593,166",46.2%,    Not Hispanic or Latino,"925,001",72.1%,2010
-Seattle city,Washington,    American Indian and Alaska Native,"12,498",2.1%,    Hispanic or Latino (of any race),"36,467",6.1%,2010
-Seattle city,Washington,    American Indian and Alaska Native,"12,498",2.1%,    Not Hispanic or Latino,"558,773",93.9%,2010
-Seattle city,Washington,    Asian,"95,529",16.0%,    Hispanic or Latino (of any race),"36,467",6.1%,2010
-Seattle city,Washington,    Asian,"95,529",16.0%,    Not Hispanic or Latino,"558,773",93.9%,2010
-Seattle city,Washington,    Black or African American,"53,764",9.0%,    Hispanic or Latino (of any race),"36,467",6.1%,2010
-Seattle city,Washington,    Black or African American,"53,764",9.0%,    Not Hispanic or Latino,"558,773",93.9%,2010
-Seattle city,Washington,    Native Hawaiian and Other Pacific Islander,"5,477",0.9%,    Hispanic or Latino (of any race),"36,467",6.1%,2010
-Seattle city,Washington,    Native Hawaiian and Other Pacific Islander,"5,477",0.9%,    Not Hispanic or Latino,"558,773",93.9%,2010
-Seattle city,Washington,    Some other race,"14,268",2.4%,    Hispanic or Latino (of any race),"36,467",6.1%,2010
-Seattle city,Washington,    Some other race,"14,268",2.4%,    Not Hispanic or Latino,"558,773",93.9%,2010
-Seattle city,Washington,    White,"443,568",74.5%,    Hispanic or Latino (of any race),"36,467",6.1%,2010
-Seattle city,Washington,    White,"443,568",74.5%,    Not Hispanic or Latino,"558,773",93.9%,2010
-Seattle city,Washington,        Total population,"595,240","595,240",    Hispanic or Latino (of any race),"36,467",6.1%,2010
-Seattle city,Washington,        Total population,"595,240","595,240",    Not Hispanic or Latino,"558,773",93.9%,2010
-Seattle city,Washington,        White alone,"399,366",67.1%,    Hispanic or Latino (of any race),"36,467",6.1%,2010
-Seattle city,Washington,        White alone,"399,366",67.1%,    Not Hispanic or Latino,"558,773",93.9%,2010
-Los Angeles city,California,        Total population,"3,900,794","3,900,794",        Hispanic or Latino (of any race),"1,898,577",48.7%,2015
-Los Angeles city,California,        Total population,"3,900,794","3,900,794",        Not Hispanic or Latino,"2,002,217",51.3%,2015
-Los Angeles city,California,            American Indian and Alaska Native,"55,248",1.4%,        Hispanic or Latino (of any race),"1,898,577",48.7%,2015
-Los Angeles city,California,            American Indian and Alaska Native,"55,248",1.4%,        Not Hispanic or Latino,"2,002,217",51.3%,2015
-Los Angeles city,California,            Asian,"508,196",13.0%,        Hispanic or Latino (of any race),"1,898,577",48.7%,2015
-Los Angeles city,California,            Asian,"508,196",13.0%,        Not Hispanic or Latino,"2,002,217",51.3%,2015
-Los Angeles city,California,            Black or African American,"392,913",10.1%,        Hispanic or Latino (of any race),"1,898,577",48.7%,2015
-Los Angeles city,California,            Black or African American,"392,913",10.1%,        Not Hispanic or Latino,"2,002,217",51.3%,2015
-Los Angeles city,California,            Native Hawaiian and Other Pacific Islander,"14,828",0.4%,        Hispanic or Latino (of any race),"1,898,577",48.7%,2015
-Los Angeles city,California,            Native Hawaiian and Other Pacific Islander,"14,828",0.4%,        Not Hispanic or Latino,"2,002,217",51.3%,2015
-Los Angeles city,California,            Some other race,"915,884",23.5%,        Hispanic or Latino (of any race),"1,898,577",48.7%,2015
-Los Angeles city,California,            Some other race,"915,884",23.5%,        Not Hispanic or Latino,"2,002,217",51.3%,2015
-Los Angeles city,California,            White,"2,164,127",55.5%,        Hispanic or Latino (of any race),"1,898,577",48.7%,2015
-Los Angeles city,California,            White,"2,164,127",55.5%,        Not Hispanic or Latino,"2,002,217",51.3%,2015
-Los Angeles city,California,            White alone,"1,107,571",28.4%,        Hispanic or Latino (of any race),"1,898,577",48.7%,2015
-Los Angeles city,California,            White alone,"1,107,571",28.4%,        Not Hispanic or Latino,"2,002,217",51.3%,2015
-Oakland city,California,        Total population,"408,073","408,073",        Hispanic or Latino (of any race),"106,643",26.1%,2015
-Oakland city,California,        Total population,"408,073","408,073",        Not Hispanic or Latino,"301,430",73.9%,2015
-Oakland city,California,            American Indian and Alaska Native,"8,861",2.2%,        Hispanic or Latino (of any race),"106,643",26.1%,2015
-Oakland city,California,            American Indian and Alaska Native,"8,861",2.2%,        Not Hispanic or Latino,"301,430",73.9%,2015
-Oakland city,California,            Asian,"76,305",18.7%,        Hispanic or Latino (of any race),"106,643",26.1%,2015
-Oakland city,California,            Asian,"76,305",18.7%,        Not Hispanic or Latino,"301,430",73.9%,2015
-Oakland city,California,            Black or African American,"118,790",29.1%,        Hispanic or Latino (of any race),"106,643",26.1%,2015
-Oakland city,California,            Black or African American,"118,790",29.1%,        Not Hispanic or Latino,"301,430",73.9%,2015
-Oakland city,California,            Native Hawaiian and Other Pacific Islander,"4,651",1.1%,        Hispanic or Latino (of any race),"106,643",26.1%,2015
-Oakland city,California,            Native Hawaiian and Other Pacific Islander,"4,651",1.1%,        Not Hispanic or Latino,"301,430",73.9%,2015
-Oakland city,California,            Some other race,"50,243",12.3%,        Hispanic or Latino (of any race),"106,643",26.1%,2015
-Oakland city,California,            Some other race,"50,243",12.3%,        Not Hispanic or Latino,"301,430",73.9%,2015
-Oakland city,California,            White,"178,523",43.7%,        Hispanic or Latino (of any race),"106,643",26.1%,2015
-Oakland city,California,            White,"178,523",43.7%,        Not Hispanic or Latino,"301,430",73.9%,2015
-Oakland city,California,            White alone,"109,805",26.9%,        Hispanic or Latino (of any race),"106,643",26.1%,2015
-Oakland city,California,            White alone,"109,805",26.9%,        Not Hispanic or Latino,"301,430",73.9%,2015
-Portland city,Oregon,        Total population,"612,206","612,206",        Hispanic or Latino (of any race),"59,670",9.7%,2015
-Portland city,Oregon,        Total population,"612,206","612,206",        Not Hispanic or Latino,"552,536",90.3%,2015
-Portland city,Oregon,            American Indian and Alaska Native,"14,859",2.4%,        Hispanic or Latino (of any race),"59,670",9.7%,2015
-Portland city,Oregon,            American Indian and Alaska Native,"14,859",2.4%,        Not Hispanic or Latino,"552,536",90.3%,2015
-Portland city,Oregon,            Asian,"58,208",9.5%,        Hispanic or Latino (of any race),"59,670",9.7%,2015
-Portland city,Oregon,            Asian,"58,208",9.5%,        Not Hispanic or Latino,"552,536",90.3%,2015
-Portland city,Oregon,            Black or African American,"45,008",7.4%,        Hispanic or Latino (of any race),"59,670",9.7%,2015
-Portland city,Oregon,            Black or African American,"45,008",7.4%,        Not Hispanic or Latino,"552,536",90.3%,2015
-Portland city,Oregon,            Native Hawaiian and Other Pacific Islander,"5,545",0.9%,        Hispanic or Latino (of any race),"59,670",9.7%,2015
-Portland city,Oregon,            Native Hawaiian and Other Pacific Islander,"5,545",0.9%,        Not Hispanic or Latino,"552,536",90.3%,2015
-Portland city,Oregon,            Some other race,"20,212",3.3%,        Hispanic or Latino (of any race),"59,670",9.7%,2015
-Portland city,Oregon,            Some other race,"20,212",3.3%,        Not Hispanic or Latino,"552,536",90.3%,2015
-Portland city,Oregon,            White,"502,264",82.0%,        Hispanic or Latino (of any race),"59,670",9.7%,2015
-Portland city,Oregon,            White,"502,264",82.0%,        Not Hispanic or Latino,"552,536",90.3%,2015
-Portland city,Oregon,            White alone,"438,499",71.6%,        Hispanic or Latino (of any race),"59,670",9.7%,2015
-Portland city,Oregon,            White alone,"438,499",71.6%,        Not Hispanic or Latino,"552,536",90.3%,2015
-Sacramento city,California,        Total population,"480,566","480,566",        Hispanic or Latino (of any race),"134,951",28.1%,2015
-Sacramento city,California,        Total population,"480,566","480,566",        Not Hispanic or Latino,"345,615",71.9%,2015
-Sacramento city,California,            American Indian and Alaska Native,"11,150",2.3%,        Hispanic or Latino (of any race),"134,951",28.1%,2015
-Sacramento city,California,            American Indian and Alaska Native,"11,150",2.3%,        Not Hispanic or Latino,"345,615",71.9%,2015
-Sacramento city,California,            Asian,"102,597",21.3%,        Hispanic or Latino (of any race),"134,951",28.1%,2015
-Sacramento city,California,            Asian,"102,597",21.3%,        Not Hispanic or Latino,"345,615",71.9%,2015
-Sacramento city,California,            Black or African American,"79,516",16.5%,        Hispanic or Latino (of any race),"134,951",28.1%,2015
-Sacramento city,California,            Black or African American,"79,516",16.5%,        Not Hispanic or Latino,"345,615",71.9%,2015
-Sacramento city,California,            Native Hawaiian and Other Pacific Islander,"12,369",2.6%,        Hispanic or Latino (of any race),"134,951",28.1%,2015
-Sacramento city,California,            Native Hawaiian and Other Pacific Islander,"12,369",2.6%,        Not Hispanic or Latino,"345,615",71.9%,2015
-Sacramento city,California,            Some other race,"47,992",10.0%,        Hispanic or Latino (of any race),"134,951",28.1%,2015
-Sacramento city,California,            Some other race,"47,992",10.0%,        Not Hispanic or Latino,"345,615",71.9%,2015
-Sacramento city,California,            White,"264,301",55.0%,        Hispanic or Latino (of any race),"134,951",28.1%,2015
-Sacramento city,California,            White,"264,301",55.0%,        Not Hispanic or Latino,"345,615",71.9%,2015
-Sacramento city,California,            White alone,"160,778",33.5%,        Hispanic or Latino (of any race),"134,951",28.1%,2015
-Sacramento city,California,            White alone,"160,778",33.5%,        Not Hispanic or Latino,"345,615",71.9%,2015
-San Diego city,California,        Total population,"1,359,791","1,359,791",        Hispanic or Latino (of any race),"408,714",30.1%,2015
-San Diego city,California,        Total population,"1,359,791","1,359,791",        Not Hispanic or Latino,"951,077",69.9%,2015
-San Diego city,California,            American Indian and Alaska Native,"21,317",1.6%,        Hispanic or Latino (of any race),"408,714",30.1%,2015
-San Diego city,California,            American Indian and Alaska Native,"21,317",1.6%,        Not Hispanic or Latino,"951,077",69.9%,2015
-San Diego city,California,            Asian,"261,784",19.3%,        Hispanic or Latino (of any race),"408,714",30.1%,2015
-San Diego city,California,            Asian,"261,784",19.3%,        Not Hispanic or Latino,"951,077",69.9%,2015
-San Diego city,California,            Black or African American,"106,392",7.8%,        Hispanic or Latino (of any race),"408,714",30.1%,2015
-San Diego city,California,            Black or African American,"106,392",7.8%,        Not Hispanic or Latino,"951,077",69.9%,2015
-San Diego city,California,            Native Hawaiian and Other Pacific Islander,"11,100",0.8%,        Hispanic or Latino (of any race),"408,714",30.1%,2015
-San Diego city,California,            Native Hawaiian and Other Pacific Islander,"11,100",0.8%,        Not Hispanic or Latino,"951,077",69.9%,2015
-San Diego city,California,            Some other race,"103,849",7.6%,        Hispanic or Latino (of any race),"408,714",30.1%,2015
-San Diego city,California,            Some other race,"103,849",7.6%,        Not Hispanic or Latino,"951,077",69.9%,2015
-San Diego city,California,            White,"927,543",68.2%,        Hispanic or Latino (of any race),"408,714",30.1%,2015
-San Diego city,California,            White,"927,543",68.2%,        Not Hispanic or Latino,"951,077",69.9%,2015
-San Diego city,California,            White alone,"586,863",43.2%,        Hispanic or Latino (of any race),"408,714",30.1%,2015
-San Diego city,California,            White alone,"586,863",43.2%,        Not Hispanic or Latino,"951,077",69.9%,2015
-Seattle city,Washington,        Total population,"653,017","653,017",        Hispanic or Latino (of any race),"42,490",6.5%,2015
-Seattle city,Washington,        Total population,"653,017","653,017",        Not Hispanic or Latino,"610,527",93.5%,2015
-Seattle city,Washington,            American Indian and Alaska Native,"14,247",2.2%,        Hispanic or Latino (of any race),"42,490",6.5%,2015
-Seattle city,Washington,            American Indian and Alaska Native,"14,247",2.2%,        Not Hispanic or Latino,"610,527",93.5%,2015
-Seattle city,Washington,            Asian,"113,915",17.4%,        Hispanic or Latino (of any race),"42,490",6.5%,2015
-Seattle city,Washington,            Asian,"113,915",17.4%,        Not Hispanic or Latino,"610,527",93.5%,2015
-Seattle city,Washington,            Black or African American,"59,024",9.0%,        Hispanic or Latino (of any race),"42,490",6.5%,2015
-Seattle city,Washington,            Black or African American,"59,024",9.0%,        Not Hispanic or Latino,"610,527",93.5%,2015
-Seattle city,Washington,            Native Hawaiian and Other Pacific Islander,"5,933",0.9%,        Hispanic or Latino (of any race),"42,490",6.5%,2015
-Seattle city,Washington,            Native Hawaiian and Other Pacific Islander,"5,933",0.9%,        Not Hispanic or Latino,"610,527",93.5%,2015
-Seattle city,Washington,            Some other race,"15,152",2.3%,        Hispanic or Latino (of any race),"42,490",6.5%,2015
-Seattle city,Washington,            Some other race,"15,152",2.3%,        Not Hispanic or Latino,"610,527",93.5%,2015
-Seattle city,Washington,            White,"489,430",74.9%,        Hispanic or Latino (of any race),"42,490",6.5%,2015
-Seattle city,Washington,            White,"489,430",74.9%,        Not Hispanic or Latino,"610,527",93.5%,2015
-Seattle city,Washington,            White alone,"430,085",65.9%,        Hispanic or Latino (of any race),"42,490",6.5%,2015
-Seattle city,Washington,            White alone,"430,085",65.9%,        Not Hispanic or Latino,"610,527",93.5%,2015
+census year,demographic,Estimate,variable,total_population,Percent,geography,state
+2020,American Indian and Alaska Native,62817,race,3973278,0.016,Los Angeles city,California
+2020,Asian,541935,race,3973278,0.136,Los Angeles city,California
+2020,Black or African American,401039,race,3973278,0.10099999999999999,Los Angeles city,California
+2020,Native Hawaiian and Other Pacific Islander,18525,race,3973278,0.005,Los Angeles city,California
+2020,Some other race,1058349,race,3973278,0.266,Los Angeles city,California
+2020,White,2187180,race,3973278,0.55,Los Angeles city,California
+2020,American Indian and Alaska Native,10103,race,422575,0.024,Oakland city,California
+2020,Asian,79293,race,422575,0.188,Oakland city,California
+2020,Black or African American,110160,race,422575,0.261,Oakland city,California
+2020,Native Hawaiian and Other Pacific Islander,4817,race,422575,0.011000000000000001,Oakland city,California
+2020,Some other race,85214,race,422575,0.20199999999999999,Oakland city,California
+2020,White,173784,race,422575,0.41100000000000003,Oakland city,California
+2020,American Indian and Alaska Native,14064,race,650380,0.022000000000000002,Portland city,Oregon
+2020,Asian,70831,race,650380,0.109,Portland city,Oregon
+2020,Black or African American,50448,race,650380,0.078,Portland city,Oregon
+2020,Native Hawaiian and Other Pacific Islander,7175,race,650380,0.011000000000000001,Portland city,Oregon
+2020,Some other race,24983,race,650380,0.038,Portland city,Oregon
+2020,White,527845,race,650380,0.812,Portland city,Oregon
+2020,American Indian and Alaska Native,11940,race,503482,0.024,Sacramento city,California
+2020,Asian,113615,race,503482,0.226,Sacramento city,California
+2020,Black or African American,86942,race,503482,0.17300000000000001,Sacramento city,California
+2020,Native Hawaiian and Other Pacific Islander,13100,race,503482,0.026000000000000002,Sacramento city,California
+2020,Some other race,75428,race,503482,0.15,Sacramento city,California
+2020,White,257698,race,503482,0.512,Sacramento city,California
+2020,American Indian and Alaska Native,19910,race,1414545,0.013999999999999999,San Diego city,California
+2020,Asian,287949,race,1414545,0.204,San Diego city,California
+2020,Black or African American,107613,race,1414545,0.076,San Diego city,California
+2020,Native Hawaiian and Other Pacific Islander,14271,race,1414545,0.01,San Diego city,California
+2020,Some other race,130017,race,1414545,0.092,San Diego city,California
+2020,White,973601,race,1414545,0.688,San Diego city,California
+2020,American Indian and Alaska Native,15219,race,741251,0.021,Seattle city,Washington
+2020,Asian,150377,race,741251,0.203,Seattle city,Washington
+2020,Black or African American,66903,race,741251,0.09,Seattle city,Washington
+2020,Native Hawaiian and Other Pacific Islander,5357,race,741251,0.006999999999999999,Seattle city,Washington
+2020,Some other race,26571,race,741251,0.036000000000000004,Seattle city,Washington
+2020,White,539389,race,741251,0.728,Seattle city,Washington
+2010,American Indian and Alaska Native,40267,race,3772486,0.011000000000000001,Los Angeles city,California
+2010,Asian,465221,race,3772486,0.12300000000000001,Los Angeles city,California
+2010,Black or African American,396920,race,3772486,0.105,Los Angeles city,California
+2010,Native Hawaiian and Other Pacific Islander,12556,race,3772486,0.003,Los Angeles city,California
+2010,Some other race,976306,race,3772486,0.259,Los Angeles city,California
+2010,White,2000380,race,3772486,0.53,Los Angeles city,California
+2010,American Indian and Alaska Native,7858,race,386909,0.02,Oakland city,California
+2010,Asian,67513,race,386909,0.174,Oakland city,California
+2010,Black or African American,118488,race,386909,0.306,Oakland city,California
+2010,Native Hawaiian and Other Pacific Islander,3115,race,386909,0.008,Oakland city,California
+2010,Some other race,51436,race,386909,0.133,Oakland city,California
+2010,White,157294,race,386909,0.40700000000000003,Oakland city,California
+2010,American Indian and Alaska Native,15872,race,566686,0.027999999999999997,Portland city,Oregon
+2010,Asian,48339,race,566686,0.085,Portland city,Oregon
+2010,Black or African American,43897,race,566686,0.077,Portland city,Oregon
+2010,Native Hawaiian and Other Pacific Islander,4356,race,566686,0.008,Portland city,Oregon
+2010,Some other race,19826,race,566686,0.035,Portland city,Oregon
+2010,White,460179,race,566686,0.812,Portland city,Oregon
+2010,American Indian and Alaska Native,11881,race,459511,0.026000000000000002,Sacramento city,California
+2010,Asian,96263,race,459511,0.209,Sacramento city,California
+2010,Black or African American,75113,race,459511,0.163,Sacramento city,California
+2010,Native Hawaiian and Other Pacific Islander,8650,race,459511,0.019,Sacramento city,California
+2010,Some other race,49404,race,459511,0.10800000000000001,Sacramento city,California
+2010,White,248557,race,459511,0.541,Sacramento city,California
+2010,American Indian and Alaska Native,18650,race,1282800,0.015,San Diego city,California
+2010,Asian,226138,race,1282800,0.17600000000000002,San Diego city,California
+2010,Black or African American,99469,race,1282800,0.078,San Diego city,California
+2010,Native Hawaiian and Other Pacific Islander,11681,race,1282800,0.009000000000000001,San Diego city,California
+2010,Some other race,93319,race,1282800,0.073,San Diego city,California
+2010,White,889772,race,1282800,0.6940000000000001,San Diego city,California
+2010,American Indian and Alaska Native,12498,race,595240,0.021,Seattle city,Washington
+2010,Asian,95529,race,595240,0.16,Seattle city,Washington
+2010,Black or African American,53764,race,595240,0.09,Seattle city,Washington
+2010,Native Hawaiian and Other Pacific Islander,5477,race,595240,0.009000000000000001,Seattle city,Washington
+2010,Some other race,14268,race,595240,0.024,Seattle city,Washington
+2010,White,443568,race,595240,0.745,Seattle city,Washington
+2015,American Indian and Alaska Native,55248,race,3900794,0.013999999999999999,Los Angeles city,California
+2015,Asian,508196,race,3900794,0.13,Los Angeles city,California
+2015,Black or African American,392913,race,3900794,0.10099999999999999,Los Angeles city,California
+2015,Native Hawaiian and Other Pacific Islander,14828,race,3900794,0.004,Los Angeles city,California
+2015,Some other race,915884,race,3900794,0.235,Los Angeles city,California
+2015,White,2164127,race,3900794,0.555,Los Angeles city,California
+2015,American Indian and Alaska Native,8861,race,408073,0.022000000000000002,Oakland city,California
+2015,Asian,76305,race,408073,0.187,Oakland city,California
+2015,Black or African American,118790,race,408073,0.29100000000000004,Oakland city,California
+2015,Native Hawaiian and Other Pacific Islander,4651,race,408073,0.011000000000000001,Oakland city,California
+2015,Some other race,50243,race,408073,0.12300000000000001,Oakland city,California
+2015,White,178523,race,408073,0.43700000000000006,Oakland city,California
+2015,American Indian and Alaska Native,14859,race,612206,0.024,Portland city,Oregon
+2015,Asian,58208,race,612206,0.095,Portland city,Oregon
+2015,Black or African American,45008,race,612206,0.07400000000000001,Portland city,Oregon
+2015,Native Hawaiian and Other Pacific Islander,5545,race,612206,0.009000000000000001,Portland city,Oregon
+2015,Some other race,20212,race,612206,0.033,Portland city,Oregon
+2015,White,502264,race,612206,0.82,Portland city,Oregon
+2015,American Indian and Alaska Native,11150,race,480566,0.023,Sacramento city,California
+2015,Asian,102597,race,480566,0.213,Sacramento city,California
+2015,Black or African American,79516,race,480566,0.165,Sacramento city,California
+2015,Native Hawaiian and Other Pacific Islander,12369,race,480566,0.026000000000000002,Sacramento city,California
+2015,Some other race,47992,race,480566,0.1,Sacramento city,California
+2015,White,264301,race,480566,0.55,Sacramento city,California
+2015,American Indian and Alaska Native,21317,race,1359791,0.016,San Diego city,California
+2015,Asian,261784,race,1359791,0.193,San Diego city,California
+2015,Black or African American,106392,race,1359791,0.078,San Diego city,California
+2015,Native Hawaiian and Other Pacific Islander,11100,race,1359791,0.008,San Diego city,California
+2015,Some other race,103849,race,1359791,0.076,San Diego city,California
+2015,White,927543,race,1359791,0.682,San Diego city,California
+2015,American Indian and Alaska Native,14247,race,653017,0.022000000000000002,Seattle city,Washington
+2015,Asian,113915,race,653017,0.174,Seattle city,Washington
+2015,Black or African American,59024,race,653017,0.09,Seattle city,Washington
+2015,Native Hawaiian and Other Pacific Islander,5933,race,653017,0.009000000000000001,Seattle city,Washington
+2015,Some other race,15152,race,653017,0.023,Seattle city,Washington
+2015,White,489430,race,653017,0.7490000000000001,Seattle city,Washington
