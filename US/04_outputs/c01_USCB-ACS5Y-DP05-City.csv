@@ -1,109 +1,217 @@
-census year,demographic,Estimate,variable,total_population,Percent,geography,state
-2020,American Indian and Alaska Native,62817,race,3973278,0.016,Los Angeles city,California
-2020,Asian,541935,race,3973278,0.136,Los Angeles city,California
-2020,Black or African American,401039,race,3973278,0.10099999999999999,Los Angeles city,California
-2020,Native Hawaiian and Other Pacific Islander,18525,race,3973278,0.005,Los Angeles city,California
-2020,Some other race,1058349,race,3973278,0.266,Los Angeles city,California
-2020,White,2187180,race,3973278,0.55,Los Angeles city,California
-2020,American Indian and Alaska Native,10103,race,422575,0.024,Oakland city,California
-2020,Asian,79293,race,422575,0.188,Oakland city,California
-2020,Black or African American,110160,race,422575,0.261,Oakland city,California
-2020,Native Hawaiian and Other Pacific Islander,4817,race,422575,0.011000000000000001,Oakland city,California
-2020,Some other race,85214,race,422575,0.20199999999999999,Oakland city,California
-2020,White,173784,race,422575,0.41100000000000003,Oakland city,California
-2020,American Indian and Alaska Native,14064,race,650380,0.022000000000000002,Portland city,Oregon
-2020,Asian,70831,race,650380,0.109,Portland city,Oregon
-2020,Black or African American,50448,race,650380,0.078,Portland city,Oregon
-2020,Native Hawaiian and Other Pacific Islander,7175,race,650380,0.011000000000000001,Portland city,Oregon
-2020,Some other race,24983,race,650380,0.038,Portland city,Oregon
-2020,White,527845,race,650380,0.812,Portland city,Oregon
-2020,American Indian and Alaska Native,11940,race,503482,0.024,Sacramento city,California
-2020,Asian,113615,race,503482,0.226,Sacramento city,California
-2020,Black or African American,86942,race,503482,0.17300000000000001,Sacramento city,California
-2020,Native Hawaiian and Other Pacific Islander,13100,race,503482,0.026000000000000002,Sacramento city,California
-2020,Some other race,75428,race,503482,0.15,Sacramento city,California
-2020,White,257698,race,503482,0.512,Sacramento city,California
-2020,American Indian and Alaska Native,19910,race,1414545,0.013999999999999999,San Diego city,California
-2020,Asian,287949,race,1414545,0.204,San Diego city,California
-2020,Black or African American,107613,race,1414545,0.076,San Diego city,California
-2020,Native Hawaiian and Other Pacific Islander,14271,race,1414545,0.01,San Diego city,California
-2020,Some other race,130017,race,1414545,0.092,San Diego city,California
-2020,White,973601,race,1414545,0.688,San Diego city,California
-2020,American Indian and Alaska Native,15219,race,741251,0.021,Seattle city,Washington
-2020,Asian,150377,race,741251,0.203,Seattle city,Washington
-2020,Black or African American,66903,race,741251,0.09,Seattle city,Washington
-2020,Native Hawaiian and Other Pacific Islander,5357,race,741251,0.006999999999999999,Seattle city,Washington
-2020,Some other race,26571,race,741251,0.036000000000000004,Seattle city,Washington
-2020,White,539389,race,741251,0.728,Seattle city,Washington
-2010,American Indian and Alaska Native,40267,race,3772486,0.011000000000000001,Los Angeles city,California
-2010,Asian,465221,race,3772486,0.12300000000000001,Los Angeles city,California
-2010,Black or African American,396920,race,3772486,0.105,Los Angeles city,California
-2010,Native Hawaiian and Other Pacific Islander,12556,race,3772486,0.003,Los Angeles city,California
-2010,Some other race,976306,race,3772486,0.259,Los Angeles city,California
-2010,White,2000380,race,3772486,0.53,Los Angeles city,California
-2010,American Indian and Alaska Native,7858,race,386909,0.02,Oakland city,California
-2010,Asian,67513,race,386909,0.174,Oakland city,California
-2010,Black or African American,118488,race,386909,0.306,Oakland city,California
-2010,Native Hawaiian and Other Pacific Islander,3115,race,386909,0.008,Oakland city,California
-2010,Some other race,51436,race,386909,0.133,Oakland city,California
-2010,White,157294,race,386909,0.40700000000000003,Oakland city,California
-2010,American Indian and Alaska Native,15872,race,566686,0.027999999999999997,Portland city,Oregon
-2010,Asian,48339,race,566686,0.085,Portland city,Oregon
-2010,Black or African American,43897,race,566686,0.077,Portland city,Oregon
-2010,Native Hawaiian and Other Pacific Islander,4356,race,566686,0.008,Portland city,Oregon
-2010,Some other race,19826,race,566686,0.035,Portland city,Oregon
-2010,White,460179,race,566686,0.812,Portland city,Oregon
-2010,American Indian and Alaska Native,11881,race,459511,0.026000000000000002,Sacramento city,California
-2010,Asian,96263,race,459511,0.209,Sacramento city,California
-2010,Black or African American,75113,race,459511,0.163,Sacramento city,California
-2010,Native Hawaiian and Other Pacific Islander,8650,race,459511,0.019,Sacramento city,California
-2010,Some other race,49404,race,459511,0.10800000000000001,Sacramento city,California
-2010,White,248557,race,459511,0.541,Sacramento city,California
-2010,American Indian and Alaska Native,18650,race,1282800,0.015,San Diego city,California
-2010,Asian,226138,race,1282800,0.17600000000000002,San Diego city,California
-2010,Black or African American,99469,race,1282800,0.078,San Diego city,California
-2010,Native Hawaiian and Other Pacific Islander,11681,race,1282800,0.009000000000000001,San Diego city,California
-2010,Some other race,93319,race,1282800,0.073,San Diego city,California
-2010,White,889772,race,1282800,0.6940000000000001,San Diego city,California
-2010,American Indian and Alaska Native,12498,race,595240,0.021,Seattle city,Washington
-2010,Asian,95529,race,595240,0.16,Seattle city,Washington
-2010,Black or African American,53764,race,595240,0.09,Seattle city,Washington
-2010,Native Hawaiian and Other Pacific Islander,5477,race,595240,0.009000000000000001,Seattle city,Washington
-2010,Some other race,14268,race,595240,0.024,Seattle city,Washington
-2010,White,443568,race,595240,0.745,Seattle city,Washington
-2015,American Indian and Alaska Native,55248,race,3900794,0.013999999999999999,Los Angeles city,California
-2015,Asian,508196,race,3900794,0.13,Los Angeles city,California
-2015,Black or African American,392913,race,3900794,0.10099999999999999,Los Angeles city,California
-2015,Native Hawaiian and Other Pacific Islander,14828,race,3900794,0.004,Los Angeles city,California
-2015,Some other race,915884,race,3900794,0.235,Los Angeles city,California
-2015,White,2164127,race,3900794,0.555,Los Angeles city,California
-2015,American Indian and Alaska Native,8861,race,408073,0.022000000000000002,Oakland city,California
-2015,Asian,76305,race,408073,0.187,Oakland city,California
-2015,Black or African American,118790,race,408073,0.29100000000000004,Oakland city,California
-2015,Native Hawaiian and Other Pacific Islander,4651,race,408073,0.011000000000000001,Oakland city,California
-2015,Some other race,50243,race,408073,0.12300000000000001,Oakland city,California
-2015,White,178523,race,408073,0.43700000000000006,Oakland city,California
-2015,American Indian and Alaska Native,14859,race,612206,0.024,Portland city,Oregon
-2015,Asian,58208,race,612206,0.095,Portland city,Oregon
-2015,Black or African American,45008,race,612206,0.07400000000000001,Portland city,Oregon
-2015,Native Hawaiian and Other Pacific Islander,5545,race,612206,0.009000000000000001,Portland city,Oregon
-2015,Some other race,20212,race,612206,0.033,Portland city,Oregon
-2015,White,502264,race,612206,0.82,Portland city,Oregon
-2015,American Indian and Alaska Native,11150,race,480566,0.023,Sacramento city,California
-2015,Asian,102597,race,480566,0.213,Sacramento city,California
-2015,Black or African American,79516,race,480566,0.165,Sacramento city,California
-2015,Native Hawaiian and Other Pacific Islander,12369,race,480566,0.026000000000000002,Sacramento city,California
-2015,Some other race,47992,race,480566,0.1,Sacramento city,California
-2015,White,264301,race,480566,0.55,Sacramento city,California
-2015,American Indian and Alaska Native,21317,race,1359791,0.016,San Diego city,California
-2015,Asian,261784,race,1359791,0.193,San Diego city,California
-2015,Black or African American,106392,race,1359791,0.078,San Diego city,California
-2015,Native Hawaiian and Other Pacific Islander,11100,race,1359791,0.008,San Diego city,California
-2015,Some other race,103849,race,1359791,0.076,San Diego city,California
-2015,White,927543,race,1359791,0.682,San Diego city,California
-2015,American Indian and Alaska Native,14247,race,653017,0.022000000000000002,Seattle city,Washington
-2015,Asian,113915,race,653017,0.174,Seattle city,Washington
-2015,Black or African American,59024,race,653017,0.09,Seattle city,Washington
-2015,Native Hawaiian and Other Pacific Islander,5933,race,653017,0.009000000000000001,Seattle city,Washington
-2015,Some other race,15152,race,653017,0.023,Seattle city,Washington
-2015,White,489430,race,653017,0.7490000000000001,Seattle city,Washington
+geography,state,census demographic,census estimate,census percent,variable,census year,total_population,coc_number
+Los Angeles,California,Hispanic or Latino (of any race),1909808,0.48100000000000004,ethnicity,2020,3973278,CA-600
+Los Angeles,California,Not Hispanic or Latino,2063470,0.519,ethnicity,2020,3973278,CA-600
+Los Angeles,California,American Indian and Alaska Native,62817,0.016,race alone or in combination,2020,3973278,CA-600
+Los Angeles,California,Asian,541935,0.136,race alone or in combination,2020,3973278,CA-600
+Los Angeles,California,Black or African American,401039,0.10099999999999999,race alone or in combination,2020,3973278,CA-600
+Los Angeles,California,Native Hawaiian and Other Pacific Islander,18525,0.005,race alone or in combination,2020,3973278,CA-600
+Los Angeles,California,Some other race,1058349,0.266,race alone or in combination,2020,3973278,CA-600
+Los Angeles,California,White,2187180,0.55,race alone or in combination,2020,3973278,CA-600
+Los Angeles,California,White alone,1132606,0.285,race alone or in combination,2020,3973278,CA-600
+Oakland,California,Hispanic or Latino (of any race),113901,0.27,ethnicity,2020,422575,CA-502
+Oakland,California,Not Hispanic or Latino,308674,0.73,ethnicity,2020,422575,CA-502
+Oakland,California,American Indian and Alaska Native,10103,0.024,race alone or in combination,2020,422575,CA-502
+Oakland,California,Asian,79293,0.188,race alone or in combination,2020,422575,CA-502
+Oakland,California,Black or African American,110160,0.261,race alone or in combination,2020,422575,CA-502
+Oakland,California,Native Hawaiian and Other Pacific Islander,4817,0.011000000000000001,race alone or in combination,2020,422575,CA-502
+Oakland,California,Some other race,85214,0.20199999999999999,race alone or in combination,2020,422575,CA-502
+Oakland,California,White,173784,0.41100000000000003,race alone or in combination,2020,422575,CA-502
+Oakland,California,White alone,120547,0.285,race alone or in combination,2020,422575,CA-502
+Portland,Oregon,Hispanic or Latino (of any race),63809,0.098,ethnicity,2020,650380,OR-501
+Portland,Oregon,Not Hispanic or Latino,586571,0.902,ethnicity,2020,650380,OR-501
+Portland,Oregon,American Indian and Alaska Native,14064,0.022000000000000002,race alone or in combination,2020,650380,OR-501
+Portland,Oregon,Asian,70831,0.109,race alone or in combination,2020,650380,OR-501
+Portland,Oregon,Black or African American,50448,0.078,race alone or in combination,2020,650380,OR-501
+Portland,Oregon,Native Hawaiian and Other Pacific Islander,7175,0.011000000000000001,race alone or in combination,2020,650380,OR-501
+Portland,Oregon,Some other race,24983,0.038,race alone or in combination,2020,650380,OR-501
+Portland,Oregon,White,527845,0.812,race alone or in combination,2020,650380,OR-501
+Portland,Oregon,White alone,451999,0.695,race alone or in combination,2020,650380,OR-501
+Sacramento,California,Hispanic or Latino (of any race),142417,0.28300000000000003,ethnicity,2020,503482,CA-503
+Sacramento,California,Not Hispanic or Latino,361065,0.7170000000000001,ethnicity,2020,503482,CA-503
+Sacramento,California,American Indian and Alaska Native,11940,0.024,race alone or in combination,2020,503482,CA-503
+Sacramento,California,Asian,113615,0.226,race alone or in combination,2020,503482,CA-503
+Sacramento,California,Black or African American,86942,0.17300000000000001,race alone or in combination,2020,503482,CA-503
+Sacramento,California,Native Hawaiian and Other Pacific Islander,13100,0.026000000000000002,race alone or in combination,2020,503482,CA-503
+Sacramento,California,Some other race,75428,0.15,race alone or in combination,2020,503482,CA-503
+Sacramento,California,White,257698,0.512,race alone or in combination,2020,503482,CA-503
+Sacramento,California,White alone,160986,0.32,race alone or in combination,2020,503482,CA-503
+San Diego,California,Hispanic or Latino (of any race),425269,0.301,ethnicity,2020,1414545,CA-601
+San Diego,California,Not Hispanic or Latino,989276,0.6990000000000001,ethnicity,2020,1414545,CA-601
+San Diego,California,American Indian and Alaska Native,19910,0.013999999999999999,race alone or in combination,2020,1414545,CA-601
+San Diego,California,Asian,287949,0.204,race alone or in combination,2020,1414545,CA-601
+San Diego,California,Black or African American,107613,0.076,race alone or in combination,2020,1414545,CA-601
+San Diego,California,Native Hawaiian and Other Pacific Islander,14271,0.01,race alone or in combination,2020,1414545,CA-601
+San Diego,California,Some other race,130017,0.092,race alone or in combination,2020,1414545,CA-601
+San Diego,California,White,973601,0.688,race alone or in combination,2020,1414545,CA-601
+San Diego,California,White alone,598293,0.423,race alone or in combination,2020,1414545,CA-601
+Seattle,Washington,Hispanic or Latino (of any race),52767,0.071,ethnicity,2020,741251,WA-500
+Seattle,Washington,Not Hispanic or Latino,688484,0.929,ethnicity,2020,741251,WA-500
+Seattle,Washington,American Indian and Alaska Native,15219,0.021,race alone or in combination,2020,741251,WA-500
+Seattle,Washington,Asian,150377,0.203,race alone or in combination,2020,741251,WA-500
+Seattle,Washington,Black or African American,66903,0.09,race alone or in combination,2020,741251,WA-500
+Seattle,Washington,Native Hawaiian and Other Pacific Islander,5357,0.006999999999999999,race alone or in combination,2020,741251,WA-500
+Seattle,Washington,Some other race,26571,0.036000000000000004,race alone or in combination,2020,741251,WA-500
+Seattle,Washington,White,539389,0.728,race alone or in combination,2020,741251,WA-500
+Seattle,Washington,White alone,463833,0.626,race alone or in combination,2020,741251,WA-500
+Los Angeles,California,Hispanic or Latino (of any race),1922409,0.485,ethnicity,2019,3966936,CA-600
+Los Angeles,California,Not Hispanic or Latino,2044527,0.515,ethnicity,2019,3966936,CA-600
+Los Angeles,California,American Indian and Alaska Native,59208,0.015,race alone or in combination,2019,3966936,CA-600
+Los Angeles,California,Asian,527369,0.133,race alone or in combination,2019,3966936,CA-600
+Los Angeles,California,Black or African American,399316,0.10099999999999999,race alone or in combination,2019,3966936,CA-600
+Los Angeles,California,Native Hawaiian and Other Pacific Islander,16939,0.004,race alone or in combination,2019,3966936,CA-600
+Los Angeles,California,Some other race,942791,0.23800000000000002,race alone or in combination,2019,3966936,CA-600
+Los Angeles,California,White,2184066,0.551,race alone or in combination,2019,3966936,CA-600
+Los Angeles,California,White alone,1129956,0.285,race alone or in combination,2019,3966936,CA-600
+Oakland,California,Hispanic or Latino (of any race),114942,0.27,ethnicity,2019,425097,CA-502
+Oakland,California,Not Hispanic or Latino,310155,0.73,ethnicity,2019,425097,CA-502
+Oakland,California,American Indian and Alaska Native,9606,0.023,race alone or in combination,2019,425097,CA-502
+Oakland,California,Asian,78508,0.185,race alone or in combination,2019,425097,CA-502
+Oakland,California,Black or African American,114403,0.26899999999999996,race alone or in combination,2019,425097,CA-502
+Oakland,California,Native Hawaiian and Other Pacific Islander,5233,0.012,race alone or in combination,2019,425097,CA-502
+Oakland,California,Some other race,78093,0.184,race alone or in combination,2019,425097,CA-502
+Oakland,California,White,172631,0.406,race alone or in combination,2019,425097,CA-502
+Oakland,California,White alone,120225,0.28300000000000003,race alone or in combination,2019,425097,CA-502
+Portland,Oregon,Hispanic or Latino (of any race),62696,0.09699999999999999,ethnicity,2019,645291,OR-501
+Portland,Oregon,Not Hispanic or Latino,582595,0.903,ethnicity,2019,645291,OR-501
+Portland,Oregon,American Indian and Alaska Native,14486,0.022000000000000002,race alone or in combination,2019,645291,OR-501
+Portland,Oregon,Asian,67283,0.10400000000000001,race alone or in combination,2019,645291,OR-501
+Portland,Oregon,Black or African American,48412,0.075,race alone or in combination,2019,645291,OR-501
+Portland,Oregon,Native Hawaiian and Other Pacific Islander,6714,0.01,race alone or in combination,2019,645291,OR-501
+Portland,Oregon,Some other race,15235,0.024,race alone or in combination,2019,645291,OR-501
+Portland,Oregon,White,531111,0.823,race alone or in combination,2019,645291,OR-501
+Portland,Oregon,White alone,455320,0.706,race alone or in combination,2019,645291,OR-501
+Sacramento,California,Hispanic or Latino (of any race),144582,0.289,ethnicity,2019,500930,CA-503
+Sacramento,California,Not Hispanic or Latino,356348,0.711,ethnicity,2019,500930,CA-503
+Sacramento,California,American Indian and Alaska Native,10979,0.022000000000000002,race alone or in combination,2019,500930,CA-503
+Sacramento,California,Asian,109839,0.21899999999999997,race alone or in combination,2019,500930,CA-503
+Sacramento,California,Black or African American,82280,0.16399999999999998,race alone or in combination,2019,500930,CA-503
+Sacramento,California,Native Hawaiian and Other Pacific Islander,13397,0.027000000000000003,race alone or in combination,2019,500930,CA-503
+Sacramento,California,Some other race,67000,0.134,race alone or in combination,2019,500930,CA-503
+Sacramento,California,White,259723,0.518,race alone or in combination,2019,500930,CA-503
+Sacramento,California,White alone,162471,0.324,race alone or in combination,2019,500930,CA-503
+San Diego,California,Hispanic or Latino (of any race),427586,0.303,ethnicity,2019,1409573,CA-601
+San Diego,California,Not Hispanic or Latino,981987,0.6970000000000001,ethnicity,2019,1409573,CA-601
+San Diego,California,American Indian and Alaska Native,17821,0.013000000000000001,race alone or in combination,2019,1409573,CA-601
+San Diego,California,Asian,277145,0.19699999999999998,race alone or in combination,2019,1409573,CA-601
+San Diego,California,Black or African American,110785,0.079,race alone or in combination,2019,1409573,CA-601
+San Diego,California,Native Hawaiian and Other Pacific Islander,13286,0.009000000000000001,race alone or in combination,2019,1409573,CA-601
+San Diego,California,Some other race,92050,0.065,race alone or in combination,2019,1409573,CA-601
+San Diego,California,White,980420,0.696,race alone or in combination,2019,1409573,CA-601
+San Diego,California,White alone,602690,0.428,race alone or in combination,2019,1409573,CA-601
+Seattle,Washington,Hispanic or Latino (of any race),48229,0.067,ethnicity,2019,724305,WA-500
+Seattle,Washington,Not Hispanic or Latino,676076,0.9329999999999999,ethnicity,2019,724305,WA-500
+Seattle,Washington,American Indian and Alaska Native,14059,0.019,race alone or in combination,2019,724305,WA-500
+Seattle,Washington,Asian,140672,0.19399999999999998,race alone or in combination,2019,724305,WA-500
+Seattle,Washington,Black or African American,66970,0.092,race alone or in combination,2019,724305,WA-500
+Seattle,Washington,Native Hawaiian and Other Pacific Islander,5199,0.006999999999999999,race alone or in combination,2019,724305,WA-500
+Seattle,Washington,Some other race,19984,0.027999999999999997,race alone or in combination,2019,724305,WA-500
+Seattle,Washington,White,532241,0.735,race alone or in combination,2019,724305,WA-500
+Seattle,Washington,White alone,462426,0.638,race alone or in combination,2019,724305,WA-500
+Los Angeles,California,Hispanic or Latino (of any race),1813852,0.48100000000000004,ethnicity,2010,3772486,CA-600
+Los Angeles,California,Not Hispanic or Latino,1958634,0.519,ethnicity,2010,3772486,CA-600
+Los Angeles,California,American Indian and Alaska Native,40267,0.011000000000000001,race alone or in combination,2010,3772486,CA-600
+Los Angeles,California,Asian,465221,0.12300000000000001,race alone or in combination,2010,3772486,CA-600
+Los Angeles,California,Black or African American,396920,0.105,race alone or in combination,2010,3772486,CA-600
+Los Angeles,California,Native Hawaiian and Other Pacific Islander,12556,0.003,race alone or in combination,2010,3772486,CA-600
+Los Angeles,California,Some other race,976306,0.259,race alone or in combination,2010,3772486,CA-600
+Los Angeles,California,White,2000380,0.53,race alone or in combination,2010,3772486,CA-600
+Los Angeles,California,White alone,1094791,0.29,race alone or in combination,2010,3772486,CA-600
+Oakland,California,Hispanic or Latino (of any race),97393,0.252,ethnicity,2010,386909,CA-502
+Oakland,California,Not Hispanic or Latino,289516,0.748,ethnicity,2010,386909,CA-502
+Oakland,California,American Indian and Alaska Native,7858,0.02,race alone or in combination,2010,386909,CA-502
+Oakland,California,Asian,67513,0.174,race alone or in combination,2010,386909,CA-502
+Oakland,California,Black or African American,118488,0.306,race alone or in combination,2010,386909,CA-502
+Oakland,California,Native Hawaiian and Other Pacific Islander,3115,0.008,race alone or in combination,2010,386909,CA-502
+Oakland,California,Some other race,51436,0.133,race alone or in combination,2010,386909,CA-502
+Oakland,California,White,157294,0.40700000000000003,race alone or in combination,2010,386909,CA-502
+Oakland,California,White alone,101227,0.262,race alone or in combination,2010,386909,CA-502
+Portland,Oregon,Hispanic or Latino (of any race),49888,0.08800000000000001,ethnicity,2010,566686,OR-501
+Portland,Oregon,Not Hispanic or Latino,516798,0.912,ethnicity,2010,566686,OR-501
+Portland,Oregon,American Indian and Alaska Native,15872,0.027999999999999997,race alone or in combination,2010,566686,OR-501
+Portland,Oregon,Asian,48339,0.085,race alone or in combination,2010,566686,OR-501
+Portland,Oregon,Black or African American,43897,0.077,race alone or in combination,2010,566686,OR-501
+Portland,Oregon,Native Hawaiian and Other Pacific Islander,4356,0.008,race alone or in combination,2010,566686,OR-501
+Portland,Oregon,Some other race,19826,0.035,race alone or in combination,2010,566686,OR-501
+Portland,Oregon,White,460179,0.812,race alone or in combination,2010,566686,OR-501
+Portland,Oregon,White alone,413301,0.7290000000000001,race alone or in combination,2010,566686,OR-501
+Sacramento,California,Hispanic or Latino (of any race),116672,0.254,ethnicity,2010,459511,CA-503
+Sacramento,California,Not Hispanic or Latino,342839,0.746,ethnicity,2010,459511,CA-503
+Sacramento,California,American Indian and Alaska Native,11881,0.026000000000000002,race alone or in combination,2010,459511,CA-503
+Sacramento,California,Asian,96263,0.209,race alone or in combination,2010,459511,CA-503
+Sacramento,California,Black or African American,75113,0.163,race alone or in combination,2010,459511,CA-503
+Sacramento,California,Native Hawaiian and Other Pacific Islander,8650,0.019,race alone or in combination,2010,459511,CA-503
+Sacramento,California,Some other race,49404,0.10800000000000001,race alone or in combination,2010,459511,CA-503
+Sacramento,California,White,248557,0.541,race alone or in combination,2010,459511,CA-503
+Sacramento,California,White alone,165972,0.361,race alone or in combination,2010,459511,CA-503
+San Diego,California,Hispanic or Latino (of any race),357799,0.27899999999999997,ethnicity,2010,1282800,CA-601
+San Diego,California,Not Hispanic or Latino,925001,0.721,ethnicity,2010,1282800,CA-601
+San Diego,California,American Indian and Alaska Native,18650,0.015,race alone or in combination,2010,1282800,CA-601
+San Diego,California,Asian,226138,0.17600000000000002,race alone or in combination,2010,1282800,CA-601
+San Diego,California,Black or African American,99469,0.078,race alone or in combination,2010,1282800,CA-601
+San Diego,California,Native Hawaiian and Other Pacific Islander,11681,0.009000000000000001,race alone or in combination,2010,1282800,CA-601
+San Diego,California,Some other race,93319,0.073,race alone or in combination,2010,1282800,CA-601
+San Diego,California,White,889772,0.6940000000000001,race alone or in combination,2010,1282800,CA-601
+San Diego,California,White alone,593166,0.462,race alone or in combination,2010,1282800,CA-601
+Seattle,Washington,Hispanic or Latino (of any race),36467,0.061,ethnicity,2010,595240,WA-500
+Seattle,Washington,Not Hispanic or Latino,558773,0.9390000000000001,ethnicity,2010,595240,WA-500
+Seattle,Washington,American Indian and Alaska Native,12498,0.021,race alone or in combination,2010,595240,WA-500
+Seattle,Washington,Asian,95529,0.16,race alone or in combination,2010,595240,WA-500
+Seattle,Washington,Black or African American,53764,0.09,race alone or in combination,2010,595240,WA-500
+Seattle,Washington,Native Hawaiian and Other Pacific Islander,5477,0.009000000000000001,race alone or in combination,2010,595240,WA-500
+Seattle,Washington,Some other race,14268,0.024,race alone or in combination,2010,595240,WA-500
+Seattle,Washington,White,443568,0.745,race alone or in combination,2010,595240,WA-500
+Seattle,Washington,White alone,399366,0.6709999999999999,race alone or in combination,2010,595240,WA-500
+Los Angeles,California,Hispanic or Latino (of any race),1898577,0.48700000000000004,ethnicity,2015,3900794,CA-600
+Los Angeles,California,Not Hispanic or Latino,2002217,0.513,ethnicity,2015,3900794,CA-600
+Los Angeles,California,American Indian and Alaska Native,55248,0.013999999999999999,race alone or in combination,2015,3900794,CA-600
+Los Angeles,California,Asian,508196,0.13,race alone or in combination,2015,3900794,CA-600
+Los Angeles,California,Black or African American,392913,0.10099999999999999,race alone or in combination,2015,3900794,CA-600
+Los Angeles,California,Native Hawaiian and Other Pacific Islander,14828,0.004,race alone or in combination,2015,3900794,CA-600
+Los Angeles,California,Some other race,915884,0.235,race alone or in combination,2015,3900794,CA-600
+Los Angeles,California,White,2164127,0.555,race alone or in combination,2015,3900794,CA-600
+Los Angeles,California,White alone,1107571,0.284,race alone or in combination,2015,3900794,CA-600
+Oakland,California,Hispanic or Latino (of any race),106643,0.261,ethnicity,2015,408073,CA-502
+Oakland,California,Not Hispanic or Latino,301430,0.7390000000000001,ethnicity,2015,408073,CA-502
+Oakland,California,American Indian and Alaska Native,8861,0.022000000000000002,race alone or in combination,2015,408073,CA-502
+Oakland,California,Asian,76305,0.187,race alone or in combination,2015,408073,CA-502
+Oakland,California,Black or African American,118790,0.29100000000000004,race alone or in combination,2015,408073,CA-502
+Oakland,California,Native Hawaiian and Other Pacific Islander,4651,0.011000000000000001,race alone or in combination,2015,408073,CA-502
+Oakland,California,Some other race,50243,0.12300000000000001,race alone or in combination,2015,408073,CA-502
+Oakland,California,White,178523,0.43700000000000006,race alone or in combination,2015,408073,CA-502
+Oakland,California,White alone,109805,0.26899999999999996,race alone or in combination,2015,408073,CA-502
+Portland,Oregon,Hispanic or Latino (of any race),59670,0.09699999999999999,ethnicity,2015,612206,OR-501
+Portland,Oregon,Not Hispanic or Latino,552536,0.903,ethnicity,2015,612206,OR-501
+Portland,Oregon,American Indian and Alaska Native,14859,0.024,race alone or in combination,2015,612206,OR-501
+Portland,Oregon,Asian,58208,0.095,race alone or in combination,2015,612206,OR-501
+Portland,Oregon,Black or African American,45008,0.07400000000000001,race alone or in combination,2015,612206,OR-501
+Portland,Oregon,Native Hawaiian and Other Pacific Islander,5545,0.009000000000000001,race alone or in combination,2015,612206,OR-501
+Portland,Oregon,Some other race,20212,0.033,race alone or in combination,2015,612206,OR-501
+Portland,Oregon,White,502264,0.82,race alone or in combination,2015,612206,OR-501
+Portland,Oregon,White alone,438499,0.716,race alone or in combination,2015,612206,OR-501
+Sacramento,California,Hispanic or Latino (of any race),134951,0.281,ethnicity,2015,480566,CA-503
+Sacramento,California,Not Hispanic or Latino,345615,0.7190000000000001,ethnicity,2015,480566,CA-503
+Sacramento,California,American Indian and Alaska Native,11150,0.023,race alone or in combination,2015,480566,CA-503
+Sacramento,California,Asian,102597,0.213,race alone or in combination,2015,480566,CA-503
+Sacramento,California,Black or African American,79516,0.165,race alone or in combination,2015,480566,CA-503
+Sacramento,California,Native Hawaiian and Other Pacific Islander,12369,0.026000000000000002,race alone or in combination,2015,480566,CA-503
+Sacramento,California,Some other race,47992,0.1,race alone or in combination,2015,480566,CA-503
+Sacramento,California,White,264301,0.55,race alone or in combination,2015,480566,CA-503
+Sacramento,California,White alone,160778,0.335,race alone or in combination,2015,480566,CA-503
+San Diego,California,Hispanic or Latino (of any race),408714,0.301,ethnicity,2015,1359791,CA-601
+San Diego,California,Not Hispanic or Latino,951077,0.6990000000000001,ethnicity,2015,1359791,CA-601
+San Diego,California,American Indian and Alaska Native,21317,0.016,race alone or in combination,2015,1359791,CA-601
+San Diego,California,Asian,261784,0.193,race alone or in combination,2015,1359791,CA-601
+San Diego,California,Black or African American,106392,0.078,race alone or in combination,2015,1359791,CA-601
+San Diego,California,Native Hawaiian and Other Pacific Islander,11100,0.008,race alone or in combination,2015,1359791,CA-601
+San Diego,California,Some other race,103849,0.076,race alone or in combination,2015,1359791,CA-601
+San Diego,California,White,927543,0.682,race alone or in combination,2015,1359791,CA-601
+San Diego,California,White alone,586863,0.43200000000000005,race alone or in combination,2015,1359791,CA-601
+Seattle,Washington,Hispanic or Latino (of any race),42490,0.065,ethnicity,2015,653017,WA-500
+Seattle,Washington,Not Hispanic or Latino,610527,0.935,ethnicity,2015,653017,WA-500
+Seattle,Washington,American Indian and Alaska Native,14247,0.022000000000000002,race alone or in combination,2015,653017,WA-500
+Seattle,Washington,Asian,113915,0.174,race alone or in combination,2015,653017,WA-500
+Seattle,Washington,Black or African American,59024,0.09,race alone or in combination,2015,653017,WA-500
+Seattle,Washington,Native Hawaiian and Other Pacific Islander,5933,0.009000000000000001,race alone or in combination,2015,653017,WA-500
+Seattle,Washington,Some other race,15152,0.023,race alone or in combination,2015,653017,WA-500
+Seattle,Washington,White,489430,0.7490000000000001,race alone or in combination,2015,653017,WA-500
+Seattle,Washington,White alone,430085,0.659,race alone or in combination,2015,653017,WA-500

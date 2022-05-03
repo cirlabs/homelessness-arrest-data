@@ -1,115 +1,49 @@
-census year,demographic,Estimate,variable,total_population,Percent,geography,state
-2010,American Indian and Alaska Native,102527,race,8963473,0.01143831191325059,Los Angeles County*,California
-2010,Asian,1326930,race,8963473,0.14803748502394107,Los Angeles County*,California
-2010,Black or African American,844211,race,8963473,0.09418347107198292,Los Angeles County*,California
-2010,Hispanic or Latino (of any race),4331506,ethnicity,8963473,0.4832396996119696,Los Angeles County*,California
-2010,Native Hawaiian and Other Pacific Islander,36805,race,8963473,0.004106109317225589,Los Angeles County*,California
-2010,Not Hispanic or Latino,4631967,ethnicity,8963473,0.5167603003880304,Los Angeles County*,California
-2010,Some other race,2209685,race,8963473,0.24652107503419712,Los Angeles County*,California
-2010,White,4742968,race,8963473,0.5291440047847525,Los Angeles County*,California
-2015,American Indian and Alaska Native,137724,race,9228489,0.014923786548372111,Los Angeles County*,California
-2015,Asian,1441749,race,9228489,0.15622806723830954,Los Angeles County*,California
-2015,Black or African American,847602,race,9228489,0.09184623831702027,Los Angeles County*,California
-2015,Hispanic or Latino (of any race),4560903,ethnicity,9228489,0.494219909673187,Los Angeles County*,California
-2015,Native Hawaiian and Other Pacific Islander,44225,race,9228489,0.004792225466162445,Los Angeles County*,California
-2015,Not Hispanic or Latino,4667586,ethnicity,9228489,0.5057800903268129,Los Angeles County*,California
-2015,Some other race,1991985,race,9228489,0.21585169576514637,Los Angeles County*,California
-2015,White,5149976,race,9228489,0.5580519194420669,Los Angeles County*,California
-2020,American Indian and Alaska Native,135969,race,7659776,0.01775104128371378,Los Angeles County*,California
-2020,Asian,1259124,race,7659776,0.16438130827846664,Los Angeles County*,California
-2020,Black or African American,697860,race,7659776,0.09110710287089335,Los Angeles County*,California
-2020,Hispanic or Latino (of any race),3890484,ethnicity,7659776,0.5079109362989205,Los Angeles County*,California
-2020,Native Hawaiian and Other Pacific Islander,43499,race,7659776,0.005678886693292337,Los Angeles County*,California
-2020,Not Hispanic or Latino,3769292,ethnicity,7659776,0.4920890637010795,Los Angeles County*,California
-2020,Some other race,2061608,race,7659776,0.26914729621336186,Los Angeles County*,California
-2020,White,4067048,race,7659776,0.5309617409177501,Los Angeles County*,California
-2020,American Indian and Alaska Native,28833,race,1661584,0.017,Alameda County,California
-2020,Asian,578885,race,1661584,0.348,Alameda County,California
-2020,Black or African American,204606,race,1661584,0.12300000000000001,Alameda County,California
-2020,Native Hawaiian and Other Pacific Islander,25897,race,1661584,0.016,Alameda County,California
-2020,Some other race,231659,race,1661584,0.139,Alameda County,California
-2020,White,738232,race,1661584,0.444,Alameda County,California
-2020,American Indian and Alaska Native,44933,race,2225064,0.02,King County,Washington
-2020,Asian,485570,race,2225064,0.218,King County,Washington
-2020,Black or African American,188483,race,2225064,0.085,King County,Washington
-2020,Native Hawaiian and Other Pacific Islander,29141,race,2225064,0.013000000000000001,King County,Washington
-2020,Some other race,130273,race,2225064,0.059000000000000004,King County,Washington
-2020,White,1525759,race,2225064,0.6859999999999999,King County,Washington
-2020,American Indian and Alaska Native,19199,race,809869,0.024,Multnomah County,Oregon
-2020,Asian,80146,race,809869,0.099,Multnomah County,Oregon
-2020,Black or African American,60106,race,809869,0.07400000000000001,Multnomah County,Oregon
-2020,Native Hawaiian and Other Pacific Islander,8875,race,809869,0.011000000000000001,Multnomah County,Oregon
-2020,Some other race,34438,race,809869,0.043,Multnomah County,Oregon
-2020,White,664873,race,809869,0.821,Multnomah County,Oregon
-2020,American Indian and Alaska Native,35536,race,1537948,0.023,Sacramento County,California
-2020,Asian,305142,race,1537948,0.198,Sacramento County,California
-2020,Black or African American,196664,race,1537948,0.128,Sacramento County,California
-2020,Native Hawaiian and Other Pacific Islander,28487,race,1537948,0.019,Sacramento County,California
-2020,Some other race,171810,race,1537948,0.11199999999999999,Sacramento County,California
-2020,White,958106,race,1537948,0.623,Sacramento County,California
-2020,American Indian and Alaska Native,58175,race,3323970,0.018000000000000002,San Diego County,California
-2020,Asian,496937,race,3323970,0.15,San Diego County,California
-2020,Black or African American,215223,race,3323970,0.065,San Diego County,California
-2020,Native Hawaiian and Other Pacific Islander,34446,race,3323970,0.01,San Diego County,California
-2020,Some other race,356278,race,3323970,0.107,San Diego County,California
-2020,White,2473828,race,3323970,0.7440000000000001,San Diego County,California
-2010,American Indian and Alaska Native,24107,race,1477980,0.016,Alameda County,California
-2010,Asian,416276,race,1477980,0.282,Alameda County,California
-2010,Black or African American,208983,race,1477980,0.141,Alameda County,California
-2010,Native Hawaiian and Other Pacific Islander,18642,race,1477980,0.013000000000000001,Alameda County,California
-2010,Some other race,157966,race,1477980,0.107,Alameda County,California
-2010,White,730054,race,1477980,0.494,Alameda County,California
-2010,American Indian and Alaska Native,36342,race,1879189,0.019,King County,Washington
-2010,Asian,305613,race,1879189,0.163,King County,Washington
-2010,Black or African American,137606,race,1879189,0.073,King County,Washington
-2010,Native Hawaiian and Other Pacific Islander,20934,race,1879189,0.011000000000000001,King County,Washington
-2010,Some other race,67633,race,1879189,0.036000000000000004,King County,Washington
-2010,White,1404150,race,1879189,0.747,King County,Washington
-2010,American Indian and Alaska Native,20268,race,712036,0.027999999999999997,Multnomah County,Oregon
-2010,Asian,56890,race,712036,0.08,Multnomah County,Oregon
-2010,Black or African American,49308,race,712036,0.069,Multnomah County,Oregon
-2010,Native Hawaiian and Other Pacific Islander,5266,race,712036,0.006999999999999999,Multnomah County,Oregon
-2010,Some other race,26915,race,712036,0.038,Multnomah County,Oregon
-2010,White,583806,race,712036,0.82,Multnomah County,Oregon
-2010,American Indian and Alaska Native,32477,race,1395144,0.023,Sacramento County,California
-2010,Asian,227146,race,1395144,0.163,Sacramento County,California
-2010,Black or African American,168362,race,1395144,0.121,Sacramento County,California
-2010,Native Hawaiian and Other Pacific Islander,19139,race,1395144,0.013999999999999999,Sacramento County,California
-2010,Some other race,130175,race,1395144,0.09300000000000001,Sacramento County,California
-2010,White,897331,race,1395144,0.643,Sacramento County,California
-2010,American Indian and Alaska Native,48168,race,3022468,0.016,San Diego County,California
-2010,Asian,381426,race,3022468,0.126,San Diego County,California
-2010,Black or African American,181287,race,3022468,0.06,San Diego County,California
-2010,Native Hawaiian and Other Pacific Islander,25533,race,3022468,0.008,San Diego County,California
-2010,Some other race,264849,race,3022468,0.08800000000000001,San Diego County,California
-2010,White,2255026,race,3022468,0.746,San Diego County,California
-2015,American Indian and Alaska Native,26132,race,1584983,0.016,Alameda County,California
-2015,Asian,491276,race,1584983,0.31,Alameda County,California
-2015,Black or African American,213949,race,1584983,0.135,Alameda County,California
-2015,Native Hawaiian and Other Pacific Islander,24048,race,1584983,0.015,Alameda County,California
-2015,Some other race,153383,race,1584983,0.09699999999999999,Alameda County,California
-2015,White,784501,race,1584983,0.495,Alameda County,California
-2015,American Indian and Alaska Native,45053,race,2045756,0.022000000000000002,King County,Washington
-2015,Asian,376657,race,2045756,0.184,King County,Washington
-2015,Black or African American,163756,race,2045756,0.08,King County,Washington
-2015,Native Hawaiian and Other Pacific Islander,26723,race,2045756,0.013000000000000001,King County,Washington
-2015,Some other race,71011,race,2045756,0.035,King County,Washington
-2015,White,1495137,race,2045756,0.731,King County,Washington
-2015,American Indian and Alaska Native,18859,race,768418,0.025,Multnomah County,Oregon
-2015,Asian,67810,race,768418,0.08800000000000001,Multnomah County,Oregon
-2015,Black or African American,53688,race,768418,0.07,Multnomah County,Oregon
-2015,Native Hawaiian and Other Pacific Islander,8083,race,768418,0.011000000000000001,Multnomah County,Oregon
-2015,Some other race,28108,race,768418,0.037000000000000005,Multnomah County,Oregon
-2015,White,634925,race,768418,0.826,Multnomah County,Oregon
-2015,American Indian and Alaska Native,34640,race,1465832,0.024,Sacramento County,California
-2015,Asian,261225,race,1465832,0.17800000000000002,Sacramento County,California
-2015,Black or African American,182479,race,1465832,0.124,Sacramento County,California
-2015,Native Hawaiian and Other Pacific Islander,26841,race,1465832,0.018000000000000002,Sacramento County,California
-2015,Some other race,119835,race,1465832,0.08199999999999999,Sacramento County,California
-2015,White,950502,race,1465832,0.648,Sacramento County,California
-2015,American Indian and Alaska Native,53253,race,3223096,0.017,San Diego County,California
-2015,Asian,443075,race,3223096,0.13699999999999998,San Diego County,California
-2015,Black or African American,204183,race,3223096,0.063,San Diego County,California
-2015,Native Hawaiian and Other Pacific Islander,29759,race,3223096,0.009000000000000001,San Diego County,California
-2015,Some other race,248685,race,3223096,0.077,San Diego County,California
-2015,White,2414382,race,3223096,0.7490000000000001,San Diego County,California
+census year,census demographic,census estimate,variable,total_population,census percent,geography,state,county_fips
+2019,American Indian and Alaska Native,67610,one race,10098810,0.006694848204887507,Los Angeles County*,California,06037
+2019,Asian,1355587,one race,10098810,0.13423235014818577,Los Angeles County*,California,06037
+2019,Black or African American,745050,one race,10098810,0.07377601915473209,Los Angeles County*,California,06037
+2019,Hispanic or Latino (of any race),4603241,ethnicity,10098810,0.4558201411849515,Los Angeles County*,California,06037
+2019,Native Hawaiian and Other Pacific Islander,23460,one race,10098810,0.00232304598264548,Los Angeles County*,California,06037
+2019,Not Hispanic or Latino,4667500,ethnicity,10098810,0.4621831681158473,Los Angeles County*,California,06037
+2019,White,4707974,one race,10098810,0.46619096705453417,Los Angeles County*,California,06037
+2019,White alone,2335886,one race,10098810,0.23130309412693179,Los Angeles County*,California,06037
+2019,Hispanic or Latino (of any race),371019,ethnicity,1656754,0.22399999999999998,Alameda County,California,06001
+2019,Not Hispanic or Latino,1285735,ethnicity,1656754,0.7759999999999999,Alameda County,California,06001
+2019,American Indian and Alaska Native,11120,one race,1656754,0.006999999999999999,Alameda County,California,06001
+2019,Asian,499382,one race,1656754,0.301,Alameda County,California,06001
+2019,Black or African American,175751,one race,1656754,0.106,Alameda County,California,06001
+2019,Native Hawaiian and Other Pacific Islander,13900,one race,1656754,0.008,Alameda County,California,06001
+2019,White,670364,one race,1656754,0.405,Alameda County,California,06001
+2019,White alone,520447,one race,1656754,0.314,Alameda County,California,06001
+2019,Hispanic or Latino (of any race),212241,ethnicity,2195502,0.09699999999999999,King County,Washington,53033
+2019,Not Hispanic or Latino,1983261,ethnicity,2195502,0.903,King County,Washington,53033
+2019,American Indian and Alaska Native,13057,one race,2195502,0.006,King County,Washington,53033
+2019,Asian,386404,one race,2195502,0.17600000000000002,King County,Washington,53033
+2019,Black or African American,141790,one race,2195502,0.065,King County,Washington,53033
+2019,Native Hawaiian and Other Pacific Islander,16944,one race,2195502,0.008,King County,Washington,53033
+2019,White,1404324,one race,2195502,0.64,King County,Washington,53033
+2019,White alone,1308660,one race,2195502,0.596,King County,Washington,53033
+2019,Hispanic or Latino (of any race),93276,ethnicity,804606,0.11599999999999999,Multnomah County,Oregon,41051
+2019,Not Hispanic or Latino,711330,ethnicity,804606,0.884,Multnomah County,Oregon,41051
+2019,American Indian and Alaska Native,7217,one race,804606,0.009000000000000001,Multnomah County,Oregon,41051
+2019,Asian,59715,one race,804606,0.07400000000000001,Multnomah County,Oregon,41051
+2019,Black or African American,43988,one race,804606,0.055,Multnomah County,Oregon,41051
+2019,Native Hawaiian and Other Pacific Islander,5199,one race,804606,0.006,Multnomah County,Oregon,41051
+2019,White,627124,one race,804606,0.779,Multnomah County,Oregon,41051
+2019,White alone,560762,one race,804606,0.6970000000000001,Multnomah County,Oregon,41051
+2019,Hispanic or Latino (of any race),353318,ethnicity,1524553,0.23199999999999998,Sacramento County,California,06067
+2019,Not Hispanic or Latino,1171235,ethnicity,1524553,0.768,Sacramento County,California,06067
+2019,American Indian and Alaska Native,10111,one race,1524553,0.006999999999999999,Sacramento County,California,06067
+2019,Asian,239447,one race,1524553,0.157,Sacramento County,California,06067
+2019,Black or African American,149891,one race,1524553,0.098,Sacramento County,California,06067
+2019,Native Hawaiian and Other Pacific Islander,17400,one race,1524553,0.011000000000000001,Sacramento County,California,06067
+2019,White,873905,one race,1524553,0.573,Sacramento County,California,06067
+2019,White alone,681829,one race,1524553,0.447,Sacramento County,California,06067
+2019,Hispanic or Latino (of any race),1117517,ethnicity,3316073,0.337,San Diego County,California,06073
+2019,Not Hispanic or Latino,2198556,ethnicity,3316073,0.6629999999999999,San Diego County,California,06073
+2019,American Indian and Alaska Native,22524,one race,3316073,0.006999999999999999,San Diego County,California,06073
+2019,Asian,394742,one race,3316073,0.11900000000000001,San Diego County,California,06073
+2019,Black or African American,166750,one race,3316073,0.05,San Diego County,California,06073
+2019,Native Hawaiian and Other Pacific Islander,13867,one race,3316073,0.004,San Diego County,California,06073
+2019,White,2345667,one race,3316073,0.7070000000000001,San Diego County,California,06073
+2019,White alone,1510756,one race,3316073,0.456,San Diego County,California,06073

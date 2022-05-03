@@ -10,9 +10,11 @@ The population of unhoused people who sleep outside (e.g. unsheltered) has boome
 
 ## Folder structure
 
-For each jurisdiction, you can expect the following:
+For each jurisdiction, you can expect the following. Oregon and Washington are as simple as this because I only analyzed data for one city within each.
 
 [![](https://mermaid.ink/img/pako:eNqFz8FqwzAMBuBXMdplhQaSJlDIoIeynQdbb3MxwvZWjcQuiswIIe--NKGlt94k8elHGsBG56GG7yb-2ROyqMNeB6XePwzHKMOg4TcxdY6sUAxP1fZFwziqLMt2yhGbvHj-0pAXhsI5SbeA4-qScUu505tZb4xtPIZHuJxxaTBg03f0MLyafWVikvtbYA2t5xbJTY8Ol2UNcvKt11BPZfBJGBsNOowTTWeH4t8cSWSohZNfAyaJn32w134xr4Q_jO0yHP8BsaNoyw)](https://mermaid.live/edit/#pako:eNqFz8FqwzAMBuBXMdplhQaSJlDIoIeynQdbb3MxwvZWjcQuiswIIe--NKGlt94k8elHGsBG56GG7yb-2ROyqMNeB6XePwzHKMOg4TcxdY6sUAxP1fZFwziqLMt2yhGbvHj-0pAXhsI5SbeA4-qScUu505tZb4xtPIZHuJxxaTBg03f0MLyafWVikvtbYA2t5xbJTY8Ol2UNcvKt11BPZfBJGBsNOowTTWeH4t8cSWSohZNfAyaJn32w134xr4Q_jO0yHP8BsaNoyw)
+
+### US
 
 ### California
 
