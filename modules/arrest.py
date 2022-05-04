@@ -1,10 +1,12 @@
 import re
+import string
 
 import pandas as pd
 import shortuuid
 
+
 class Subject:
-    def __init__(self, gender, race, surname=None, given_name=None, full_name=None, dob=None, age=None, ethnicity=None):
+    def __init__(self, gender, race, surname=None, given_name=None,full_name=None, dob=None, age=None, ethnicity=None):
         """Create a new Subject object with surname, given_name, dob, gender, race, ethnicity."""
         if full_name is None:
             self.full_name = given_name + surname
@@ -303,3 +305,13 @@ def format_unique(values):
     s = set([x for x in string_values if x != '' and x != 'nan'])
     text = ', '.join(s)
     return text
+
+export_columns = ['_person_id', '_census_race', '_census_ethnicity',
+          '_gender', '_arrest_age', '_housing_status', '_arrest_id',
+          '_arrest_date', '_original_charge_code',
+          '_original_charge_description', '_code_type', '_section',
+          '_meta_code', '_charge_reconstructed', '_municipal',
+          '_offense_level', '_charge_description', '_incongruity', '_violent',
+          '_warrant', '_fta', '_supervision', '_felony', '_federal',
+          '_potential_offense_levels', '_levels_congruent',
+          '_code_type_of_felony', '_pcs', '_disorder']
