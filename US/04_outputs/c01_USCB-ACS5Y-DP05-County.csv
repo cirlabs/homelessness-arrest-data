@@ -1,12 +1,12 @@
-census year,census demographic,census estimate,variable,total_population,census percent,geography,state,county_fips
-2019,American Indian and Alaska Native,67610,one race,10098810,0.006694848204887507,Los Angeles County*,California,06037
-2019,Asian,1355587,one race,10098810,0.13423235014818577,Los Angeles County*,California,06037
-2019,Black or African American,745050,one race,10098810,0.07377601915473209,Los Angeles County*,California,06037
-2019,Hispanic or Latino (of any race),4603241,ethnicity,10098810,0.4558201411849515,Los Angeles County*,California,06037
-2019,Native Hawaiian and Other Pacific Islander,23460,one race,10098810,0.00232304598264548,Los Angeles County*,California,06037
-2019,Not Hispanic or Latino,4667500,ethnicity,10098810,0.4621831681158473,Los Angeles County*,California,06037
-2019,White,4707974,one race,10098810,0.46619096705453417,Los Angeles County*,California,06037
-2019,White alone,2335886,one race,10098810,0.23130309412693179,Los Angeles County*,California,06037
+ACS Year,ACS Demographic,ACS Estimate,variable,ACS Total County/CoC Population,ACS Percent,geography,state,county_fips
+2019,American Indian and Alaska Native,67610,one race,10098810,0.006694848204887507,Los Angeles Continuum of Care,California,06037
+2019,Asian,1355587,one race,10098810,0.13423235014818577,Los Angeles Continuum of Care,California,06037
+2019,Black or African American,745050,one race,10098810,0.07377601915473209,Los Angeles Continuum of Care,California,06037
+2019,Hispanic or Latino (of any race),4603241,ethnicity,10098810,0.4558201411849515,Los Angeles Continuum of Care,California,06037
+2019,Native Hawaiian and Other Pacific Islander,23460,one race,10098810,0.00232304598264548,Los Angeles Continuum of Care,California,06037
+2019,Non-Hispanic White,2335886,ethnicity,10098810,0.23130309412693179,Los Angeles Continuum of Care,California,06037
+2019,Not Hispanic or Latino,4667500,ethnicity,10098810,0.4621831681158473,Los Angeles Continuum of Care,California,06037
+2019,White,4707974,one race,10098810,0.46619096705453417,Los Angeles Continuum of Care,California,06037
 2019,Hispanic or Latino (of any race),371019,ethnicity,1656754,0.22399999999999998,Alameda County,California,06001
 2019,Not Hispanic or Latino,1285735,ethnicity,1656754,0.7759999999999999,Alameda County,California,06001
 2019,American Indian and Alaska Native,11120,one race,1656754,0.006999999999999999,Alameda County,California,06001
@@ -14,7 +14,7 @@ census year,census demographic,census estimate,variable,total_population,census 
 2019,Black or African American,175751,one race,1656754,0.106,Alameda County,California,06001
 2019,Native Hawaiian and Other Pacific Islander,13900,one race,1656754,0.008,Alameda County,California,06001
 2019,White,670364,one race,1656754,0.405,Alameda County,California,06001
-2019,White alone,520447,one race,1656754,0.314,Alameda County,California,06001
+2019,Non-Hispanic White,520447,one race,1656754,0.314,Alameda County,California,06001
 2019,Hispanic or Latino (of any race),212241,ethnicity,2195502,0.09699999999999999,King County,Washington,53033
 2019,Not Hispanic or Latino,1983261,ethnicity,2195502,0.903,King County,Washington,53033
 2019,American Indian and Alaska Native,13057,one race,2195502,0.006,King County,Washington,53033
@@ -22,7 +22,7 @@ census year,census demographic,census estimate,variable,total_population,census 
 2019,Black or African American,141790,one race,2195502,0.065,King County,Washington,53033
 2019,Native Hawaiian and Other Pacific Islander,16944,one race,2195502,0.008,King County,Washington,53033
 2019,White,1404324,one race,2195502,0.64,King County,Washington,53033
-2019,White alone,1308660,one race,2195502,0.596,King County,Washington,53033
+2019,Non-Hispanic White,1308660,one race,2195502,0.596,King County,Washington,53033
 2019,Hispanic or Latino (of any race),93276,ethnicity,804606,0.11599999999999999,Multnomah County,Oregon,41051
 2019,Not Hispanic or Latino,711330,ethnicity,804606,0.884,Multnomah County,Oregon,41051
 2019,American Indian and Alaska Native,7217,one race,804606,0.009000000000000001,Multnomah County,Oregon,41051
@@ -30,7 +30,7 @@ census year,census demographic,census estimate,variable,total_population,census 
 2019,Black or African American,43988,one race,804606,0.055,Multnomah County,Oregon,41051
 2019,Native Hawaiian and Other Pacific Islander,5199,one race,804606,0.006,Multnomah County,Oregon,41051
 2019,White,627124,one race,804606,0.779,Multnomah County,Oregon,41051
-2019,White alone,560762,one race,804606,0.6970000000000001,Multnomah County,Oregon,41051
+2019,Non-Hispanic White,560762,one race,804606,0.6970000000000001,Multnomah County,Oregon,41051
 2019,Hispanic or Latino (of any race),353318,ethnicity,1524553,0.23199999999999998,Sacramento County,California,06067
 2019,Not Hispanic or Latino,1171235,ethnicity,1524553,0.768,Sacramento County,California,06067
 2019,American Indian and Alaska Native,10111,one race,1524553,0.006999999999999999,Sacramento County,California,06067
@@ -38,7 +38,7 @@ census year,census demographic,census estimate,variable,total_population,census 
 2019,Black or African American,149891,one race,1524553,0.098,Sacramento County,California,06067
 2019,Native Hawaiian and Other Pacific Islander,17400,one race,1524553,0.011000000000000001,Sacramento County,California,06067
 2019,White,873905,one race,1524553,0.573,Sacramento County,California,06067
-2019,White alone,681829,one race,1524553,0.447,Sacramento County,California,06067
+2019,Non-Hispanic White,681829,one race,1524553,0.447,Sacramento County,California,06067
 2019,Hispanic or Latino (of any race),1117517,ethnicity,3316073,0.337,San Diego County,California,06073
 2019,Not Hispanic or Latino,2198556,ethnicity,3316073,0.6629999999999999,San Diego County,California,06073
 2019,American Indian and Alaska Native,22524,one race,3316073,0.006999999999999999,San Diego County,California,06073
@@ -46,4 +46,4 @@ census year,census demographic,census estimate,variable,total_population,census 
 2019,Black or African American,166750,one race,3316073,0.05,San Diego County,California,06073
 2019,Native Hawaiian and Other Pacific Islander,13867,one race,3316073,0.004,San Diego County,California,06073
 2019,White,2345667,one race,3316073,0.7070000000000001,San Diego County,California,06073
-2019,White alone,1510756,one race,3316073,0.456,San Diego County,California,06073
+2019,Non-Hispanic White,1510756,one race,3316073,0.456,San Diego County,California,06073
