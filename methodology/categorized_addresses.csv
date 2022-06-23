@@ -1,0 +1,617 @@
+city,_housing_status,_subcategory,_categorized_address_data,_source,arrests
+Sacramento,unhoused,transient,TRASIENT,regex,1.0
+Sacramento,unhoused,transient,GENERALDELIVERY,regex,1.0
+Sacramento,unhoused,transient,GERERAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,GERNAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,GNERAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,HOMELESS,regex,1.0
+Sacramento,unhoused,transient,GENERAL DELIVEY,regex,1.0
+Sacramento,unhoused,transient,TRANIENTS,regex,1.0
+Sacramento,unhoused,transient,GENERAL DELIV ERY,regex,1.0
+Sacramento,unhoused,transient,TRANSIENT **TH ST ALHAMBRA BLVD,regex,1.0
+Sacramento,unhoused,transient,TRANSIENT **TH FOLSOM BLVD,regex,1.0
+Sacramento,unhoused,transient,GENERNAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,GENERAL DELEVERY,regex,1.0
+Sacramento,unhoused,transient,GENERAL,regex,1.0
+Sacramento,unhoused,transient,GENERAL DELIEVRY,regex,1.0
+Sacramento,unhoused,transient,TRANSIENT I 80,regex,1.0
+Sacramento,unhoused,transient,00 GENERAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,0000 TRANSIENT,regex,1.0
+Sacramento,unhoused,transient,GENAERAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,GEMERAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,DENERAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,1GENERAL DELIVERY,regex,1.0
+Sacramento,unhoused,transient,GENERA DELIVERY,regex,1.0
+Sacramento,unhoused,transient,TRANIENT,regex,2.0
+Sacramento,unhoused,transient,GENERAL DELIVRY,regex,2.0
+Sacramento,unhoused,transient,GENERAL DELIVERYY,regex,2.0
+Sacramento,unhoused,transient,GENREAL DELIVERY,regex,2.0
+Sacramento,unhoused,transient,GENDERAL DELIVERY,regex,2.0
+Sacramento,unhoused,transient,GENEAL DELIVERY,regex,2.0
+Sacramento,unhoused,transient,GENERAL DELIVEREY,regex,2.0
+Sacramento,unhoused,transient,GENERAL DELIVEERY,regex,3.0
+Sacramento,unhoused,transient,GENERAL DELIERY,regex,3.0
+Sacramento,unhoused,transient,GENERAL DEIVERY,regex,3.0
+Sacramento,unhoused,transient,GENERAL DLIVERY,regex,3.0
+Sacramento,unhoused,transient,GENERAL DEILVERY,regex,3.0
+Sacramento,unhoused,transient,GENEERAL DELIVERY,regex,3.0
+Sacramento,unhoused,transient,1 GENERAL DELIVERY,regex,4.0
+Sacramento,unhoused,transient,GENERAL DELIEVERY,regex,4.0
+Sacramento,unhoused,transient,GENEREAL DELIVERY,regex,4.0
+Sacramento,unhoused,transient,GENEREL DELIVERY,regex,4.0
+Sacramento,unhoused,transient,GENERL DELIVERY,regex,4.0
+Sacramento,unhoused,transient,GENERAL DELVERY,regex,5.0
+Sacramento,unhoused,transient,GENERAL DELLIVERY,regex,5.0
+Sacramento,unhoused,transient,GENERAL DELIVER,regex,5.0
+Sacramento,unhoused,transient,TRANSEINT,regex,6.0
+Sacramento,unhoused,transient,GENERAL DELILVERY,regex,6.0
+Sacramento,unhoused,transient,GENRAL DELIVERY,regex,6.0
+Sacramento,unhoused,transient,GERNERAL DELIVERY,regex,7.0
+Sacramento,unhoused,transient,GENERAL DELIIVERY,regex,7.0
+Sacramento,unhoused,transient,GENERAL DLEIVERY,regex,8.0
+Sacramento,unhoused,transient,GENERAL DELVIERY,regex,15.0
+Sacramento,unhoused,transient,TRANSINET,regex,19.0
+Sacramento,unhoused,transient,TRANSIENT,regex,864.0
+Sacramento,unhoused,transient,GENERAL DELIVERY,regex,16803.0
+Los Angeles,unhoused,transient,1942 TRANSDIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENET,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENMT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT **TH,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT ACE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT NEWT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT RAMP,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT STEE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT STR,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT1,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT5 AVE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT**TH,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTAVV,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTC,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIEND,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTL OLYM,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTQ,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTR,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTSTREET,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTW,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTWAYY,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIET AVE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIETNT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSINE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSINT ST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIOENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIRNT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSOIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENTN,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENBT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIEBT,regex,1.0
+Los Angeles,unhoused,transient,1942 1942,regex,1.0
+Los Angeles,unhoused,transient,1942 HAWAII,regex,1.0
+Los Angeles,unhoused,transient,1942 RANSIENT ST,regex,1.0
+Los Angeles,unhoused,transient,1942 RANSIENTT,regex,1.0
+Los Angeles,unhoused,transient,1942 TARANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TARNSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TARSNIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TERANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TR4ANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRAINEST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRAINSIET,regex,1.0
+Los Angeles,unhoused,transient,1942 TRAISENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRAMNSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIEMT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRAN,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANIENT STREE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANIENT STRET,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANIESN,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANISIENT STRE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANISNET AVE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANKSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANNSIENT AVE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANS AVE,regex,1.0
+Los Angeles,unhoused,transient,F1942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSEANT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSENT ST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIANT BL,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIDENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANIENT ST,regex,1.0
+Los Angeles,unhoused,transient,194 TRANSEINT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSTIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANTSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942Y TRANSIETN,regex,1.0
+Los Angeles,unhoused,transient,19432 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,19442 TRANSIENT ST,regex,1.0
+Los Angeles,unhoused,transient,1945 TRAMSIENT,regex,1.0
+Los Angeles,unhoused,transient,1945 TRANIENT,regex,1.0
+Los Angeles,unhoused,transient,1946 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1949 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1952 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,19542 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1961 TRANS ST,regex,1.0
+Los Angeles,unhoused,transient,1961 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1964 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1965 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942S TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1973 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1992 TRANSIENT ST,regex,1.0
+Los Angeles,unhoused,transient,19942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,2127 1942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,2369 TRANSIT,regex,1.0
+Los Angeles,unhoused,transient,3426 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,**** CLINTON HOMELES,regex,1.0
+Los Angeles,unhoused,transient,4192 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,4212 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,4219 TRANS,regex,1.0
+Los Angeles,unhoused,transient,4942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,5701 1942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,7942 TRANSIENT ST,regex,1.0
+Los Angeles,unhoused,transient,9142 TRANSCIENT,regex,1.0
+Los Angeles,unhoused,transient,1974 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANTIENT,regex,1.0
+Los Angeles,unhoused,transient,1942Q TRANSIENT ST,regex,1.0
+Los Angeles,unhoused,transient,1942Q TRANSIENT AVE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRAQNSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASIENST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASIENT STREET,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASIENTREFUSE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASMIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASNEINT ST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASNIENT AV,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASNIENT AVE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASNIETN,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASNINT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASNSIENT ST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRASNSIENT STRE,regex,1.0
+Los Angeles,unhoused,transient,1942 TRAWS,regex,1.0
+Los Angeles,unhoused,transient,1942Q TRANSIENT FROM,regex,1.0
+Los Angeles,unhoused,transient,1942 TREANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRNASIENT ST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRNSIENT ST,regex,1.0
+Los Angeles,unhoused,transient,1942 TRSANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRSIENT,regex,1.0
+Los Angeles,unhoused,transient,19420 TRANSIENE,regex,1.0
+Los Angeles,unhoused,transient,19420 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,19421 1942 TRANSIT,regex,1.0
+Los Angeles,unhoused,transient,19421 TRANSIENT AVE,regex,1.0
+Los Angeles,unhoused,transient,19421 TRANSIENT ST,regex,1.0
+Los Angeles,unhoused,transient,19425 TRANSINET,regex,1.0
+Los Angeles,unhoused,transient,1942A TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942F TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942O TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRIENSENT ST,regex,1.0
+Los Angeles,unhoused,transient,194 TRANS,regex,1.0
+Los Angeles,unhoused,transient,G1942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1542 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,14942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,142 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,142 TRANS,regex,1.0
+Los Angeles,unhoused,transient,1412 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,11942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1042 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,0610 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,01942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,00000 GENERAL DELIVER,regex,1.0
+Los Angeles,unhoused,transient, 1942 TRANSIETN,regex,1.0
+Los Angeles,unhoused,transient,1234 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1600 1942 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1914 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,19112 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,18450 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1928 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1842 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1792 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,19142 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1642 TRASIENT,regex,1.0
+Los Angeles,unhoused,transient,1610 TRANSIENT,regex,1.0
+Los Angeles,unhoused,transient,1942 TRANSIENT LA,regex,2.0
+Los Angeles,unhoused,transient,1948 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSINT STREET,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSOENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIENT PL,regex,2.0
+Los Angeles,unhoused,transient,19425 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIENT SOW,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIET ST,regex,2.0
+Los Angeles,unhoused,transient,19452 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIENY,regex,2.0
+Los Angeles,unhoused,transient,1945 TRASIENT,regex,2.0
+Los Angeles,unhoused,transient,19424 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1943 TRANSIENT ST,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIENTSTST,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIENT SOE,regex,2.0
+Los Angeles,unhoused,transient,1942 TRASIET,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSSIENT,regex,2.0
+Los Angeles,unhoused,transient,19412 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRTANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1442 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANISNT,regex,2.0
+Los Angeles,unhoused,transient,1942 1942TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 1942 TRASIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRASNIENT ST,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSEIENT,regex,2.0
+Los Angeles,unhoused,transient,1920 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANIENTS,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIENR,regex,2.0
+Los Angeles,unhoused,transient,1 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,19421 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,16942 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIEBNT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRANSIEENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRAINSENT,regex,2.0
+Los Angeles,unhoused,transient,1742 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRASNEINT,regex,2.0
+Los Angeles,unhoused,transient,1942 TRASINET,regex,2.0
+Los Angeles,unhoused,transient,4219 TRANSIENT,regex,2.0
+Los Angeles,unhoused,transient,1942 LA TRANSIENT,regex,3.0
+Los Angeles,unhoused,transient,19642 TRANSIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRANSINET ST,regex,3.0
+Los Angeles,unhoused,transient,1942T TRANSIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRANSINENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRRANSIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRANSISENT,regex,3.0
+Los Angeles,unhoused,transient,1940 TRANSIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRNASIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 REFUSE,regex,3.0
+Los Angeles,unhoused,transient,1942 TRAANSIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRANSIENT BLVD,regex,3.0
+Los Angeles,unhoused,transient,1942 TRANSIENT LN,regex,3.0
+Los Angeles,unhoused,transient,19742 TRANSIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRANSIENT STRE,regex,3.0
+Los Angeles,unhoused,transient,1942 TRASIENT ST,regex,3.0
+Los Angeles,unhoused,transient,1942 TRANISENT STREE,regex,3.0
+Los Angeles,unhoused,transient,19442 TRANSIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRANASIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRSNSIENT,regex,3.0
+Los Angeles,unhoused,transient,1942 TRASNSIENT,regex,4.0
+Los Angeles,unhoused,transient,1942 TRASIENT AVE,regex,4.0
+Los Angeles,unhoused,transient,1947 TRANSIENT,regex,4.0
+Los Angeles,unhoused,transient,1942 TRANCIENT,regex,4.0
+Los Angeles,unhoused,transient,1642 TRANSIENT,regex,4.0
+Los Angeles,unhoused,transient,1942 TRANSIEN ST,regex,4.0
+Los Angeles,unhoused,transient, 1942,regex,4.0
+Los Angeles,unhoused,transient,1942 TRANNSIENT,regex,4.0
+Los Angeles,unhoused,transient,1942 TRANDIENT,regex,4.0
+Los Angeles,unhoused,transient,1945 TRANSIENT ST,regex,4.0
+Los Angeles,unhoused,transient,1942 TRANSIENT WAY,regex,4.0
+Los Angeles,unhoused,transient,1942 TRANSIENTAVEE,regex,4.0
+Los Angeles,unhoused,transient,9142 TRANSIENT,regex,4.0
+Los Angeles,unhoused,transient,1942 TRANSIENTST,regex,4.0
+Los Angeles,unhoused,transient,1942 HOMELESS,regex,4.0
+Los Angeles,unhoused,transient,1942 TTRANSIENT,regex,5.0
+Los Angeles,unhoused,transient,1910 TRANSIENT,regex,5.0
+Los Angeles,unhoused,transient,1941 TRANSIENT,regex,5.0
+Los Angeles,unhoused,transient,1943 TRANSIENT,regex,5.0
+Los Angeles,unhoused,transient,1942 TRANSEINT ST,regex,5.0
+Los Angeles,unhoused,transient,1942 TRANISENT ST,regex,5.0
+Los Angeles,unhoused,transient,9442 TRANSIENT,regex,6.0
+Los Angeles,unhoused,transient,1972 TRANSIENT,regex,7.0
+Los Angeles,unhoused,transient,19422 TRANSIENT,regex,7.0
+Los Angeles,unhoused,transient,942 TRANSIENT,regex,7.0
+Los Angeles,unhoused,transient,1924 TRANSIENT,regex,7.0
+Los Angeles,unhoused,transient,1942 TRANSIT,regex,7.0
+Los Angeles,unhoused,transient,1492 TRANSIENT,regex,7.0
+Los Angeles,unhoused,transient,1942 TRABSIENT,regex,8.0
+Los Angeles,unhoused,transient,194 TRANSIENT,regex,8.0
+Los Angeles,unhoused,transient,1942 RANSIENT,regex,8.0
+Los Angeles,unhoused,transient,1942 TRANSINT,regex,9.0
+Los Angeles,unhoused,transient,1942 TRANSIENTE,regex,9.0
+Los Angeles,unhoused,transient,1942 TRANISIENT,regex,9.0
+Los Angeles,unhoused,transient,1942 TRAINSIENT,regex,10.0
+Los Angeles,unhoused,transient, TRANSIENT,regex,10.0
+Los Angeles,unhoused,transient,1942 TRANSIENTSTT,regex,12.0
+Los Angeles,unhoused,transient,192 TRANSIENT,regex,12.0
+Los Angeles,unhoused,transient,1942 TRAMSIENT,regex,12.0
+Los Angeles,unhoused,transient,1942 TRANSIEN,regex,14.0
+Los Angeles,unhoused,transient,1942 TRANSCIENT,regex,15.0
+Los Angeles,unhoused,transient,1942 TRANSIETN,regex,16.0
+Los Angeles,unhoused,transient,1942 TRANSIENTS,regex,16.0
+Los Angeles,unhoused,transient,1942Q TRANSIENT,regex,18.0
+Los Angeles,unhoused,transient,1942 TRANSIENT DR,regex,19.0
+Los Angeles,unhoused,transient,1942 TRNSIENT,regex,19.0
+Los Angeles,unhoused,transient,1945 TRANSIENT,regex,28.0
+Los Angeles,unhoused,transient,1942 TRASNIENT,regex,28.0
+Los Angeles,unhoused,transient,1942 TRANSENT,regex,28.0
+Los Angeles,unhoused,transient,1942 TRANSIANT,regex,31.0
+Los Angeles,unhoused,transient,1942 TRANSINET,regex,33.0
+Los Angeles,unhoused,transient,1942 TRANIENT,regex,39.0
+Los Angeles,unhoused,transient,1942 TANSIENT,regex,39.0
+Los Angeles,unhoused,transient,1942 TRANSIET,regex,47.0
+Los Angeles,unhoused,transient,1942 TRANSIENT FROM,regex,53.0
+Los Angeles,unhoused,transient, 1942 TRANSIENT,regex,59.0
+Los Angeles,unhoused,transient,1942 TRANSIENT STREE,regex,62.0
+Los Angeles,unhoused,transient,1942 TRANSIENT AV,regex,72.0
+Los Angeles,unhoused,transient,1942 1942 TRANSIENT,regex,80.0
+Los Angeles,unhoused,transient,1942 TRANS,regex,84.0
+Los Angeles,unhoused,transient,1942 TRANSEINT,regex,85.0
+Los Angeles,unhoused,transient,1942 TRANISENT,regex,153.0
+Los Angeles,unhoused,transient,1942 TRASIENT,regex,236.0
+Los Angeles,unhoused,transient,1942 TRANSIENT AVE,regex,405.0
+Los Angeles,unhoused,transient,1942 TRANSIENT ST,regex,1693.0
+Los Angeles,unhoused,transient,1942 TRANSIENT,regex,49294.0
+San Diego,unhoused,transient,0 TRANSIENT **** TOMMY,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT **** NEWPORT,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT **** SPORTS ARENA,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT **TH AND LOGAN,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT **TH AND IMPERIAL,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT **** EL DORADO AVE,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT CENTRAL,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENGT,regex,1.0
+San Diego,unhoused,transient,0 TRANSEIENT,regex,1.0
+San Diego,unhoused,transient,0 TRANSCIENT,regex,1.0
+San Diego,unhoused,transient,0 MICHAEL ADAMS GENERAL DELIVERY,regex,1.0
+San Diego,unhoused,transient,0 HOMLESS SLEEPS IN LINDA VISTA NEAR **** ULRIC,regex,1.0
+San Diego,unhoused,transient,0 HOMELESSSOUTHEAST,regex,1.0
+San Diego,unhoused,transient,0 HOMELESS299,regex,1.0
+San Diego,unhoused,transient,0 TRANSENT,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT DOWNTOWN,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT IN SAN DIEGO,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT NONE,regex,1.0
+San Diego,unhoused,transient,**** IMPERIAL TRANSIENT,regex,1.0
+San Diego,unhoused,transient,*** **TH TRANSIENT,regex,1.0
+San Diego,unhoused,transient,**** MIDWAY DR GENERAL DELIVERY,regex,1.0
+San Diego,unhoused,transient,**** IMPERIAL HOMELESS,regex,1.0
+San Diego,unhoused,transient,1 TRANSIENT,regex,1.0
+San Diego,unhoused,transient,0 UNKNOWNTRANSIENT,regex,1.0
+San Diego,unhoused,transient,0 TRNSIENT,regex,1.0
+San Diego,unhoused,transient,0 TRANSINET,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENTUNMARKED TRAILER,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENTUNKNOWN,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENTS,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENTREFUSED,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT WHO FREQUENTS BALBOA PARK,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT STAYS AROUND **** BACON STREET**** NEWPORT,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT NORTH PARK REC,regex,1.0
+San Diego,unhoused,transient,0 HOMELESS STAYS AROUND **** BACON,regex,1.0
+San Diego,unhoused,transient,0 HOMELESS SD AREA,regex,1.0
+San Diego,unhoused,transient,0 PO BOX ***** TRANSENT,regex,1.0
+San Diego,unhoused,transient,0 HOMELESS OCEAN BEACH AREA,regex,1.0
+San Diego,unhoused,transient,0 HOMELESS SAN DIEGO,regex,1.0
+San Diego,unhoused,transient,0 HOMELESS GENERALLY IN BEAT,regex,1.0
+San Diego,unhoused,transient,0 TRANSIENT SAN DIEGO,regex,2.0
+San Diego,unhoused,transient,0 TRANSIENT OCEAN BEACH AREA,regex,2.0
+San Diego,unhoused,transient,0 TRANSIENT REFUSED,regex,2.0
+San Diego,unhoused,transient,0 TRANSIENT PACIFIC BEACH,regex,2.0
+San Diego,unhoused,transient,99999 TRANSIENT,regex,2.0
+San Diego,unhoused,transient,0 TRANSEINT,regex,2.0
+San Diego,unhoused,transient,0 TRANS,regex,2.0
+San Diego,unhoused,transient,0 TRANIENT,regex,2.0
+San Diego,unhoused,transient,0 HOMELESS OCEAN BEACH,regex,2.0
+San Diego,unhoused,transient,0 HOMELESS IN OCEAN BEACH,regex,2.0
+San Diego,unhoused,transient,0 TRANSIENT **** PACIFICA,regex,2.0
+San Diego,unhoused,transient,*** **TH STREET TRANSIENT,regex,3.0
+San Diego,unhoused,transient,**** CLAIREMONT MESA BLVD TRANSIENT,regex,3.0
+San Diego,unhoused,transient,0 NONE TRANSIENT,regex,3.0
+San Diego,unhoused,transient,0 TRASNIENT,regex,3.0
+San Diego,unhoused,transient,0 TRANISENT,regex,4.0
+San Diego,unhoused,transient,0 TRANSIET,regex,5.0
+San Diego,unhoused,transient,0 TRASIENT,regex,6.0
+San Diego,unhoused,transient,0 HOMELSS,regex,7.0
+San Diego,unhoused,transient,0 HOMELESS WO MAILING ADDRESS,regex,8.0
+San Diego,unhoused,transient,0 HOMLESS,regex,11.0
+San Diego,unhoused,transient,1 HOMELESS,regex,23.0
+San Diego,unhoused,transient,0 HOMELESS,regex,277.0
+San Diego,unhoused,transient,0 TRANSIENT,regex,3034.0
+Oakland,unhoused,transient,TRANSIETN,regex,1.0
+Oakland,unhoused,transient,TRANSIENT SACRAMENT,regex,1.0
+Oakland,unhoused,transient,TRANIENT,regex,1.0
+Oakland,unhoused,transient,TRANSINET,regex,1.0
+Oakland,unhoused,transient,TRASIENT,regex,1.0
+Oakland,unhoused,transient,,regex,17.0
+Oakland,unhoused,transient,TRANSIENT,regex,1582.0
+Portland,unhoused,unsheltered,FLOP HOUSE,regex,1.0
+Portland,unhoused,unsheltered,COFFEE CREEK,regex,1.0
+Portland,unhoused,unsheltered,HOMELESS OUT OF TRUCK,regex,1.0
+Portland,unhoused,unsheltered,HOUSE LESS,regex,1.0
+Portland,unhoused,unsheltered,HOUSELERSS,regex,1.0
+Portland,unhoused,unsheltered,HOUSELESS CAMP,regex,1.0
+Portland,unhoused,unsheltered,HOUSELESS TRANSIENT,regex,1.0
+Portland,unhoused,unsheltered,HOUSELESSS,regex,1.0
+Portland,unhoused,unsheltered,HOUSELSSS,regex,1.0
+Portland,unhoused,unsheltered,NW *** *** BRIDGE,regex,1.0
+Portland,unhoused,unsheltered,SE *** AVE *** ST RAMP,regex,1.0
+Portland,unhoused,unsheltered,SW *** BRG *** ST RAMP,regex,1.0
+Portland,unhoused,unsheltered,TRANSIENT CAMP,regex,1.0
+Portland,unhoused,unsheltered,TRANSIENTDOWNTOWN PDX,regex,1.0
+Portland,unhoused,unsheltered,TRANSIENTS,regex,1.0
+Portland,unhoused,unsheltered,TRANSIET,regex,1.0
+Portland,unhoused,unsheltered,TRANSIETN,regex,1.0
+Portland,unhoused,unsheltered,TRNASIENT,regex,1.0
+Portland,unhoused,unsheltered,UNHOUSED,regex,1.0
+Portland,unhoused,unsheltered,UNSHELTERED BARRIERS TO HOUSING,regex,1.0
+Portland,unhoused,unsheltered,CAMPING *** CREEK,regex,1.0
+Portland,unhoused,unsheltered,*** PARK,regex,1.0
+Portland,unhoused,unsheltered,XSIENT,regex,1.0
+Portland,unhoused,unsheltered,RESIDENTIALLY CHALLENGED,regex,2.0
+Portland,unhoused,unsheltered,NO FIXED ADDRESS,regex,2.0
+Portland,unhoused,unsheltered,NO ADDRESS,regex,2.0
+Portland,unhoused,unsheltered,,regex,2.0
+Portland,unhoused,unsheltered,HOUSELESS COMMUNITY MEMBER,regex,2.0
+Portland,unhoused,unsheltered,EXPERIENCING HOMELESSNESS,regex,2.0
+Portland,unhoused,unsheltered,VAGRANT,regex,2.0
+Portland,unhoused,unsheltered,TRANSEINT,regex,2.0
+Portland,unhoused,unsheltered,TRANS,regex,3.0
+Portland,unhoused,unsheltered,HOUSELESS CITIZEN,regex,3.0
+Portland,unhoused,unsheltered,HOUSELSS,regex,3.0
+Portland,unhoused,unsheltered,TRANISENT,regex,5.0
+Portland,unhoused,unsheltered,HOUSLESS,regex,11.0
+Portland,unhoused,unsheltered,UNSHELTERED,regex,37.0
+Portland,unhoused,unsheltered,HOMELESS,regex,1253.0
+Portland,unhoused,unsheltered,HOUSELESS,regex,4658.0
+Portland,unhoused,unsheltered,TRANSIENT,regex,25255.0
+Sacramento,unhoused,emergency shelter,1351 N C ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Sacramento,unhoused,emergency shelter,1400 N A ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Sacramento,unhoused,emergency shelter,1200 N B ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Sacramento,unhoused,emergency shelter,700 N 5TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,2712 W VERNON AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1345 TURNBULL CANYON RD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,8756 CANBY AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1034 KEARNY ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,10511 MILLS AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,4200 E COMPTON BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,8822 CANBY AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,10601 SAN FERNANDO RD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,918 N AZUSA AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,8720 S FIGUEROA ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,10975 S VERMONT AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,5171 S VERMONT AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,2808 W 85TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,3350 AEROJET AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,14545 LANARK ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1422 S WILTON PL,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,5136 W WASHINGTON BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,12860 ARROYO ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,832 JAMES M WOOD BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,3606 EXPOSITION BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,8124 S WESTERN AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,400 W SANTA ANA BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,2079 EL MOLINO AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,222 S HILL ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,2551 MOTOR AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,10264 RINCON AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,831 E 85TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,4077 N MISSION RD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,77 S WASHINGTON ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,530 E 5TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1001 POLK ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,220 W 49TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,5700 S HOOVER ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,8224 S BROADWAY,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,5617 FERNWOOD AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,8511 S VERMONT AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,412 F ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,290 TURK ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,11111 BLOOMFIELD AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,3352 AEROJET AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,5965 S ST ANDREWS PL,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,207 N BREED ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,211 E ALONDRA BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,628 SAN JULIAN ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,8686 VENICE BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1533 SCHRADER BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,171 S GLESS ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1117 E 108TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,3910 WALTON AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,17600 S SANTA FE AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,2001 RIVER AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1032 W 18TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,2615 S GRAND AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,services,5701 S WESTERN AVE,https://web.archive.org/web/20210414113759/http://www.chirpla.org/page/about-chirpla,
+Los Angeles,unhoused,emergency shelter,1215 LODI PL,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,100 SUNSET AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1335 PACIFIC AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,434 E 81ST ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,1130 W 40TH PL,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,2040 W HOLT AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,5314 ARLINGTON AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,day center,412 RAYMOND DR,https://web.archive.org/web/20210825184732/https://lapl.org/stable-living/resource-centers/union-station-homeless-services,
+Los Angeles,unhoused,emergency shelter,2105 CRENSHAW BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,4930 W WASHINGTON BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,5600 RICKENBACKER RD,https://web.archive.org/web/20201130234003/https://www.shelterlistings.org/details/37520,
+Los Angeles,unhoused,emergency shelter,1740 E GAGE AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,3833 S VERMONT AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,4915 W WASHINGTON BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,711 N ALAMEDA ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,2601 WILSHIRE BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,517 S SAN JULIAN ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,21415 PLUMMER ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,525 BROAD AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,8300 S VERMONT AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,services,627 SAN JULIAN ST,https://web.archive.org/web/20210116170121/https://www.thepeopleconcern.org/mollie-lowery-and-frank-rice-center-opening/,
+Los Angeles,unhoused,emergency shelter,527 S CROCKER ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,7555 VAN NUYS BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,811 WILSHIRE BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,17600 SANTA FE AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,services,5850 HOLLYWOOD BLVD,https://web.archive.org/web/20220125080816/https://www.myfriendsplace.org/,
+Los Angeles,unhoused,emergency shelter,2855 E OLYMPIC BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,3804 S BROADWAY PL,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,10728 S CENTRAL AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,services,2307 W 6TH ST,https://web.archive.org/web/20210817024350/https://oshpd.ca.gov/facility/healthright-360/,
+Los Angeles,unhoused,emergency shelter,682 S CORONADO ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,503 OLYMPIC BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,emergency shelter,11110 W PICO BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Los Angeles,unhoused,government service,9188 GLENOAKS BLVD,http://my.dpss.lacounty.gov/dpss/offices/default.cfm?orgid=386,
+Los Angeles,unhoused,government service,813 E 4TH PL,https://web.archive.org/web/20210816224416/https://my.dpss.lacounty.gov/dpss/offices/default.cfm?orgid=355,
+Los Angeles,unhoused,government service,2415 W 6TH ST,http://my.dpss.lacounty.gov/dpss/offices/default.cfm?orgid=336,
+Los Angeles,unhoused,government service,2707 S GRAND AVE,http://my.dpss.lacounty.gov/dpss/offices/default.cfm?orgid=408,
+Los Angeles,unhoused,services,515 S CROCKER ST,https://www.yelp.com/biz/5-breads-2-fish-los-angeles-2,
+San Diego,unhoused,emergency shelter,1402 COMMERCIAL ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+San Diego,unhoused,services,299 17TH STEREET,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17TH STREET,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17TH STRET,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17TRH,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17TH ST SAN DIEGO CA,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,1675 GARNET AVE SAN DIEGO CA,https://web.archive.org/web/20220130074307/http://www.pbpres.org/contact,
+San Diego,unhoused,services,1675 GARNET VE,https://web.archive.org/web/20220130074307/http://www.pbpres.org/contact,
+San Diego,unhoused,services,299 17TH ST SAN DIEGO,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17TH STREEET,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17TH STREE,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17T,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,0 29917TH,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,2083 SUNSETT CLIFF,https://edsd.org/,
+San Diego,unhoused,services,2083 SUNSET CLIFFS BLV,https://edsd.org/,
+San Diego,unhoused,services,2083 SUNSET CLFFS,https://edsd.org/,
+San Diego,unhoused,services,2083 SUNSET,https://edsd.org/,
+San Diego,unhoused,emergency shelter,4271 CLAIREMONT MESA BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+San Diego,unhoused,services,299 17TH ST,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,299 17TH STEET,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,1675 GARNETTE,https://web.archive.org/web/20220130074307/http://www.pbpres.org/contact,
+San Diego,unhoused,emergency shelter,1449 9TH AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+San Diego,unhoused,services,299 17 TH,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+San Diego,unhoused,services,1675 GARNETT,https://web.archive.org/web/20220130074307/http://www.pbpres.org/contact,
+San Diego,unhoused,services,2083 SUNSET CLIFF,https://edsd.org/,
+San Diego,unhoused,emergency shelter,2459 MARKET ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+San Diego,unhoused,services,2083 SUNSET CLIFFS,https://edsd.org/,
+San Diego,unhoused,services,1675 GARNET,https://web.archive.org/web/20220130074307/http://www.pbpres.org/contact,
+San Diego,unhoused,services,299 17TH,https://web.archive.org/web/20211223193231/https://sandiego.networkofcare.org/mh/services/agency.aspx?pid=FatherJoesVillagesSanDiegoDayCenter_61_2_0,
+Oakland,unhoused,emergency shelter,1001 POLK ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,899 GUERRERO ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,869 ELLIS ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,722 WASHINGTON ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,7070 S HARLAN RD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,663 VALENCIA ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,525 5TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,3547 S GOLDEN STATE BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,4848 INTERNATIONAL BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,1401 W 4TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,17600 SANTA FE AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,2166 SACRAMENTO ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,211 13TH ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,1395 BANCROFT AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,330 ELLIS ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,190 MILL ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,2260 SAN PABLO AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,2794 GARDEN ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,2047 ARNOLD INDUSTRIAL WAY,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,6330 THORNTON AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,290 TURK ST,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,1744 UNIVERSITY AVE,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Oakland,unhoused,emergency shelter,6118 INTERNATIONAL BLVD,https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/,
+Portland,unhoused,social service,400 BLOCK W BURNSIDE ST,,
+Portland,unhoused,emergency shelter,PORTLAND RESCUE MISSION,,
+Portland,unhoused,social service,999 N THUNDERBIRD WAY,https://goo.gl/maps/MGMeFes9NTLbU8UaA,
+Portland,unhoused,social service,5600 NE GLISAN ST,https://multco.us/sites/default/files/health/documents/community_resource_list.pdf,
+Portland,unhoused,social service,627 SW 18TH AVE,http://www.homeforward.org/find-a-home/get-an-apartment/yards-union-station,
+Portland,unhoused,social service,1131 SE OAK ST,https://goo.gl/maps/VUmMCdVHRev7sgE38,
+Portland,unhoused,social service,310 NW GLISAN ST,http://brittanyplacecr.com/,
+Portland,unhoused,incarceration,11540 NE INVERNESS DR,https://multco.us/sites/default/files/health/documents/community_resource_list.pdf,
+Portland,unhoused,social service,727 W BURNSIDE ST,https://web.archive.org/web/20210116020217/http://homeforward.org/find-a-home/get-an-apartment/sellwood-center,
+Portland,unhoused,incarceration,260 SW ADAMS AVE,https://dignityvillage.org/,
+Portland,unhoused,incarceration,1120 SW 3RD AVE,,
+Portland,unhoused,emergency shelter,111 E BURNSIDE ST,https://www.streetroots.org/contact,
+Portland,unhoused,social service,9401 NE SUNDERLAND AVE,http://www.homeforward.org/find-a-home/get-an-apartment/fountain-place,
+Portland,unhoused,social service,2941 NE AINSWORTH ST,,
+Portland,unhoused,social service,5120 SE MILWAUKIE AVE,,
+Portland,unhoused,social service,475 NW GLISAN ST,https://www.tprojects.org/sites/default/files/2020-05/FAQ%20Clark%20Center%20May%202020.pdf,
+Portland,unhoused,social service,627 NW 18TH AVE,http://www.homeforward.org/find-a-home/get-an-apartment/yards-union-station,
+Portland,unhoused,social service,8800 SE 80TH AVE,https://www.oregonmetro.gov/sites/default/files/2018/12/12/EastBurnsideApartments.pdf,
+Portland,unhoused,social service,211 NW DAVIS ST,http://innovativehousinginc.com/housing/musolf.html,
+Portland,unhoused,social service,310 NW FLANDERS ST,https://npiprofile.com/npi/1962589259,
+Portland,unhoused,social service,665 NW HOYT ST,https://www.eastonridgeapts.com/,
+Portland,unhoused,corrections,421 SW 5TH AVE,https://www.pearmentor.org/,
+Portland,unhoused,social service,314 SW 9TH AVE,https://multco.us/sites/default/files/health/documents/community_resource_list.pdf,
+Portland,unhoused,social service,650 NW HOYT ST,http://www.homeforward.org/find-a-home/get-an-apartment/martha-washington,
+Portland,unhoused,social service,338 NW 6TH AVE,https://multco.us/sites/default/files/health/documents/community_resource_list.pdf,
+Portland,unhoused,social service,1132 SW 13TH AVE,https://outsidein.org/about-us/contact-us/,
+Portland,unhoused,social service,1435 NE 81ST AVE,http://www.homeforward.org/sites/default/files/The-Directory_BW_1.pdf,
+Portland,unhoused,emergency shelter,111 W BURNSIDE ST,https://www.streetroots.org/contact,
+Portland,unhoused,social service,650 NW IRVING ST,https://centralcityconcern.org/housing-location/miracles-central/,
