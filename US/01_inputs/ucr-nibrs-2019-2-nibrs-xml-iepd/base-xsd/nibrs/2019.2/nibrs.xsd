@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document: $Id: nibrs.xsd $
+    NIEM version  : 3.2
+    NIBRS version : 2019.1
+    Namespace    : xmlns:nibrs="http://fbi.gov/cjis/nibrs/2019"
+    Description     : NIBRS 2019.1 Extension Schema
+-->
+<xsd:schema  xmlns:nibrs="http://fbi.gov/cjis/nibrs/2019.2" 
+    xmlns:cjis="http://fbi.gov/cjis/2.1"
+    xmlns:cjiscodes="http://fbi.gov/cjis/cjis-codes/2.1"
+    xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0"
+    xmlns:i="http://release.niem.gov/niem/appinfo/3.0/" 
+    xmlns:ucr="http://release.niem.gov/niem/codes/fbi_ucr/3.2/" 
+    xmlns:j="http://release.niem.gov/niem/domains/jxdm/5.2/" 
+    xmlns:term="http://release.niem.gov/niem/localTerminology/3.0/" 
+    xmlns:nc="http://release.niem.gov/niem/niem-core/3.0/"
+    xmlns:niem-xsd="http://release.niem.gov/niem/proxy/xsd/3.0/"
+    xmlns:s="http://release.niem.gov/niem/structures/3.0/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:nibrscodes="http://fbi.gov/cjis/nibrs/nibrs-codes/2019.2"
+    targetNamespace="http://fbi.gov/cjis/nibrs/2019.2" version="2019.2" ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/#ExtensionSchemaDocument">
+    <xsd:annotation>
+        <xsd:documentation>NIBRS Exchange Schema</xsd:documentation>
+    </xsd:annotation>
+    <xsd:import namespace="http://fbi.gov/cjis/nibrs/nibrs-codes/2019.2" schemaLocation="nibrs-codes.xsd"/>
+    <xsd:import namespace="http://fbi.gov/cjis/2.1" schemaLocation="../../cjis/2.1/cjis.xsd"/>
+    <xsd:import namespace="http://fbi.gov/cjis/cjis-codes/2.1" schemaLocation="../../cjis/2.1/cjis-codes.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/codes/fbi_ucr/3.2/" schemaLocation="../../niem/codes/fbi_ucr/3.2/fbi_ucr.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/conformanceTargets/3.0/" schemaLocation="../../niem/conformanceTargets/3.0/conformanceTargets.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/domains/jxdm/5.2/" schemaLocation="../../niem/domains/jxdm/5.2/jxdm.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/localTerminology/3.0/" schemaLocation="../../niem/localTerminology/3.0/localTerminology.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/niem-core/3.0/" schemaLocation="../../niem/niem-core/3.0/niem-core.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/proxy/xsd/3.0/" schemaLocation="../../niem/proxy/xsd/3.0/xs.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/structures/3.0/" schemaLocation="../../niem/structures/3.0/structures.xsd"/>
+
+    <xsd:complexType name="ReportType">
+        <xsd:annotation>
+            <xsd:documentation>A data type for a CJIS report</xsd:documentation>
+        </xsd:annotation>
+        <xsd:complexContent>
+            <xsd:extension base="s:ObjectType">
+                <xsd:sequence>  
+                    <xsd:element ref="nibrs:ReportHeader" minOccurs="1" maxOccurs="1"/>
+                    <xsd:element ref="nc:Incident" minOccurs="0" maxOccurs="1"/>
+                    <xsd:element ref="j:Offense" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="nc:Location" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="nc:Item" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="nc:Substance" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="nc:Person" minOccurs="0" maxOccurs="unbounded" />
+                    <xsd:element ref="j:EnforcementOfficial" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="j:Victim" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="j:Subject" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="j:Arrestee" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="j:Arrest" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="j:ArrestSubjectAssociation" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="j:OffenseLocationAssociation" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="j:OffenseVictimAssociation" minOccurs="0" maxOccurs="unbounded"/>
+                    <xsd:element ref="j:SubjectVictimAssociation" minOccurs="0" maxOccurs="unbounded"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+    <xsd:complexType name="ReportHeaderType">
+       <xsd:annotation>
+           <xsd:documentation>A data type for header information for the report.</xsd:documentation>
+       </xsd:annotation>
+       <xsd:complexContent>
+           <xsd:extension base="s:ObjectType">
+               <xsd:sequence>
+                   <xsd:element ref="nibrs:NIBRSReportCategoryCode" minOccurs="1" maxOccurs="1"/>
+                   <xsd:element ref="nibrs:ReportActionCategoryCode" minOccurs="1" maxOccurs="1"/>
+                   <xsd:element ref="nibrs:ReportDate" minOccurs="1" maxOccurs="1"/>
+                   <xsd:element ref="nibrs:ReportingAgency" minOccurs="1" maxOccurs="1"/>
+               </xsd:sequence>
+           </xsd:extension>
+       </xsd:complexContent>
+   </xsd:complexType>
+
+    <xsd:complexType name="SubmissionType">
+        <xsd:annotation>
+            <xsd:documentation>The root element for a NIBRS exchange</xsd:documentation>
+        </xsd:annotation>
+        <xsd:complexContent>
+            <xsd:extension base="s:ObjectType">
+                <xsd:sequence>
+                    <xsd:element ref="cjis:MessageMetadata" minOccurs="1" maxOccurs="1"/>
+                    <xsd:element ref="nibrs:Report" minOccurs="1" maxOccurs="1"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType> 
+    
+       <xsd:element name="VictimToSubjectRelationshipCode" type="nibrscodes:VictimToSubjectRelationshipCodeType" substitutionGroup="j:VictimToSubjectRelationship">
+        <xsd:annotation>
+            <xsd:documentation>A code that identifies the victim's relationship to subject who perpetrated a crime against them, depicting who the victim was to the offender.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="ChargeUCRCode" type="nibrscodes:OffenseCodeType" nillable="false" substitutionGroup="j:ChargeUCR">
+        <xsd:annotation>
+            <xsd:documentation>An offense within the Uniform Crime Report (UCR) system.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+   
+    <xsd:element name="CriminalActivityCategoryCode" type="nibrscodes:CriminalActivityCategoryCodeType" nillable="false" substitutionGroup="j:CriminalActivityCategory">
+        <xsd:annotation>
+            <xsd:documentation>A kind of criminal activity.</xsd:documentation>
+        </xsd:annotation>
+    
+    </xsd:element>
+    
+    <xsd:element name="LocationCategoryCode" type="nibrscodes:LocationCategoryCodeType" nillable="false" substitutionGroup="nc:LocationCategory">
+        <xsd:annotation>
+            <xsd:documentation>A kind or functional description of a location.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="NIBRSReportCategoryCode" type="nibrscodes:NIBRSReportCategoryCodeType" nillable="false">
+        <xsd:annotation>
+            <xsd:documentation>A kind of Report for the National Incident Based Reporting System (NIBRS).</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="OffenseUCRCode" type="nibrscodes:OffenseCodeType" nillable="false" substitutionGroup="j:OffenseDesignation">
+        <xsd:annotation>
+            <xsd:documentation>An offense designation as specified by FBI's Uniform Crime Reporting (UCR) program.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="Report" type="nibrs:ReportType" nillable="false">
+        <xsd:annotation>
+            <xsd:documentation>A report being submitted tot he National Incident Based Report System (NIBRS) program.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="ReportActionCategoryCode" type="nibrscodes:ReportActionCategoryCodeType" nillable="false">
+        <xsd:annotation>
+            <xsd:documentation>A kind of action to be performed by the NIBRS system, on the submitted report.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="ReportDate" type="nc:DateType">
+        <xsd:annotation>
+            <xsd:documentation>The date the report was created.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="ReportingAgency" type="nc:OrganizationType">
+        <xsd:annotation>
+            <xsd:documentation>The agency that created the report.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="ReportHeader" type="nibrs:ReportHeaderType">
+        <xsd:annotation>
+            <xsd:documentation>A container for header information for the report.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    
+    <xsd:element name="Submission" type="nibrs:SubmissionType">
+        <xsd:annotation>
+            <xsd:documentation>A NIBRS data submission.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+</xsd:schema>

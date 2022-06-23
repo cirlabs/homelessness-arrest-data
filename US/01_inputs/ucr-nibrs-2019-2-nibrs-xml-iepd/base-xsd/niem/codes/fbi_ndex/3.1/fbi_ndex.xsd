@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<xs:schema targetNamespace="http://release.niem.gov/niem/codes/fbi_ndex/3.1/" version="1" xsi:schemaLocation="http://release.niem.gov/niem/appinfo/3.0/ ../../../appinfo/3.0/appinfo.xsd http://release.niem.gov/niem/conformanceTargets/3.0/ ../../../conformanceTargets/3.0/conformanceTargets.xsd" ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/#ReferenceSchemaDocument" xmlns:structures="http://release.niem.gov/niem/structures/3.0/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:appinfo="http://release.niem.gov/niem/appinfo/3.0/" xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0/" xmlns:ndex="http://release.niem.gov/niem/codes/fbi_ndex/3.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xs:annotation>
+    <xs:documentation>Source: FBI Crminal Justice Information Systems (CJIS) Division; 
+Publication: National Data Exchange (N-Dex) Specification (a NIEM IEPD); 
+Version: 2.2; 
+Date: 2013; 
+http://www.it.ojp.gov/framesets/iepd-clearinghouse-noClose.htm</xs:documentation>
+  </xs:annotation>
+  <xs:import schemaLocation="../../../structures/3.0/structures.xsd" namespace="http://release.niem.gov/niem/structures/3.0/"/>
+  <xs:simpleType name="BiasMotivationCodeSimpleType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies the type of bias that motivated the offense, if any. Includes all NIBRS codes, plus additional codes.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="ANTIAMERICAN INDIAN_ ALASKAN NATIVE">
+        <xs:annotation>
+          <xs:documentation>Anti-American Indian or Alaskan Native_race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIARAB">
+        <xs:annotation>
+          <xs:documentation>Anti-Arab_race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIASIAN">
+        <xs:annotation>
+          <xs:documentation>Anti-Asian_race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIATHEIST_AGNOSTIC">
+        <xs:annotation>
+          <xs:documentation>Anti-Atheist or Agnostic_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIBISEXUAL">
+        <xs:annotation>
+          <xs:documentation>Anti-Bisexual</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIBLACK_AFRICAN AMERICAN">
+        <xs:annotation>
+          <xs:documentation>Anti-Black or African American_race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIBUDDHIST">
+        <xs:annotation>
+          <xs:documentation>Anti-Buddhist_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTICATHOLIC">
+        <xs:annotation>
+          <xs:documentation>Anti-Catholic religion_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIEASTERNORTHODOX">
+        <xs:annotation>
+          <xs:documentation>Anti-Eastern Orthodox (Russian, Greek, Other)_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIFEMALE">
+        <xs:annotation>
+          <xs:documentation>Anti-Female_gender bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIFEMALE HOMOSEXUAL">
+        <xs:annotation>
+          <xs:documentation>Anti-Female Homosexual (Lesbian) _sexual orientation bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIGENDER_NONCONFORMING">
+        <xs:annotation>
+          <xs:documentation>Anti-Gender Non-Conforming</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIHETEROSEXUAL">
+        <xs:annotation>
+          <xs:documentation>Anti-Heterosexual _sexual orientation bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIHINDU">
+        <xs:annotation>
+          <xs:documentation>Anti-Hindu_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIHISPANIC_LATINO">
+        <xs:annotation>
+          <xs:documentation>Anti-Hispanic or Latino_race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIHOMOSEXUAL">
+        <xs:annotation>
+          <xs:documentation>Anti-Homosexual, e.g., Lesbian, Gay, Bisexual, and transgender (mixed group), _sexual orientation bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIISLAMIC">
+        <xs:annotation>
+          <xs:documentation>Anti-Islamic, includes muslim_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIJEHOVAHWITNESS">
+        <xs:annotation>
+          <xs:documentation>Anti-Jehovah's Witness_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIJEWISH">
+        <xs:annotation>
+          <xs:documentation>Anti-Jewish_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIMALE">
+        <xs:annotation>
+          <xs:documentation>Anti-Male_gender bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIMALE HOMOSEXUAL">
+        <xs:annotation>
+          <xs:documentation>Anti-Male Homosexual (Gay) _sexual orientation bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIMENTAL DISABILITY">
+        <xs:annotation>
+          <xs:documentation>Anti-Mental Disability_disability bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIMORMON">
+        <xs:annotation>
+          <xs:documentation>Anti-Mormon_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIMULTIRACIAL GROUP">
+        <xs:annotation>
+          <xs:documentation>Anti-Multi-Racial Group, e.g., Arab and Asian and American Indian and White and etc._race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIMULTIRELIGIOUS GROUP">
+        <xs:annotation>
+          <xs:documentation>Anti-Multi-Religious Group, e.g., Catholic and Mormon and Islamic and etc._religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTINATIVEHAWAIIAN_OTHERPACIFICISLANDER">
+        <xs:annotation>
+          <xs:documentation>Anti-Native Hawaiian or Other Pacific Islander_race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIOTHER CHRISTIAN">
+        <xs:annotation>
+          <xs:documentation>Anti-Other Christian_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIOTHER ETHNICITY_NATIONAL ORIGIN">
+        <xs:annotation>
+          <xs:documentation>Anti-Other Race, Ethnicity, Ancestry, or National Origin_race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIOTHER RELIGION">
+        <xs:annotation>
+          <xs:documentation>Anti-Other Religion_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIPHYSICAL DISABILITY">
+        <xs:annotation>
+          <xs:documentation>Anti-Physical Disability_disability bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIPROTESTANT">
+        <xs:annotation>
+          <xs:documentation>Anti-Protestant_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTISIKH">
+        <xs:annotation>
+          <xs:documentation>Anti-Sikh_religious bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTITRANSGENDER">
+        <xs:annotation>
+          <xs:documentation>Anti-Transgender_gender identity</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="ANTIWHITE">
+        <xs:annotation>
+          <xs:documentation>Anti-White_race ethnicity bias</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="NONE">
+        <xs:annotation>
+          <xs:documentation>None (no bias)</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="UNKNOWN">
+        <xs:annotation>
+          <xs:documentation>Unknown (offender's motivation not known)</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="BiasMotivationCodeType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies the type of bias that motivated the offense, if any. Includes all NIBRS codes, plus additional codes.</xs:documentation>
+    </xs:annotation>
+    <xs:simpleContent>
+      <xs:extension base="ndex:BiasMotivationCodeSimpleType">
+        <xs:attributeGroup ref="structures:SimpleObjectAttributeGroup"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:simpleType name="CriminalActivityCategoryNDExCodeSimpleType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies additional information on criminal activity of offenders in the offense. N-Dex code list includes all NIBRS codes, plus additional codes.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:token"/>
+  </xs:simpleType>
+  <xs:complexType name="CriminalActivityCategoryNDExCodeType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies additional information on criminal activity of offenders in the offense. N-Dex code list includes all NIBRS codes, plus additional codes.</xs:documentation>
+    </xs:annotation>
+    <xs:simpleContent>
+      <xs:extension base="ndex:CriminalActivityCategoryNDExCodeSimpleType">
+        <xs:attributeGroup ref="structures:SimpleObjectAttributeGroup"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:simpleType name="IncidentStatusCodeSimpleType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies the current disposition of the incident.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:token"/>
+  </xs:simpleType>
+  <xs:complexType name="IncidentStatusCodeType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies the current disposition of the incident.</xs:documentation>
+    </xs:annotation>
+    <xs:simpleContent>
+      <xs:extension base="ndex:IncidentStatusCodeSimpleType">
+        <xs:attributeGroup ref="structures:SimpleObjectAttributeGroup"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:simpleType name="JuvenileDispositionCodeSimpleType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies the disposition of the arrest if the arrestee was a juvenile at the time of arrest.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="H">
+        <xs:annotation>
+          <xs:documentation>Handled Within Department </xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="R">
+        <xs:annotation>
+          <xs:documentation>Referred to Other Authorities</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="JuvenileDispositionCodeType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies the disposition of the arrest if the arrestee was a juvenile at the time of arrest.</xs:documentation>
+    </xs:annotation>
+    <xs:simpleContent>
+      <xs:extension base="ndex:JuvenileDispositionCodeSimpleType">
+        <xs:attributeGroup ref="structures:SimpleObjectAttributeGroup"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:simpleType name="RACCodeSimpleType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies the race of the person.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="A">
+        <xs:annotation>
+          <xs:documentation>ASIAN:  A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="B">
+        <xs:annotation>
+          <xs:documentation>BLACK:  A person having origins in any of the black racial groups of Africa.</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="I">
+        <xs:annotation>
+          <xs:documentation>AMERICAN INDIAN or ALASKAN NATIVE:  A person having origins in any of the original peoples of the Americas and maintaining cultural identification through tribal affiliations or community recognition.</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="P">
+        <xs:annotation>
+          <xs:documentation>NATIVE HAWAIIAN or OTHER PACIFIC ISLANDER:  A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.  The term "Native Hawaiian" does not include individuals who are native to the State of Hawaii by virtue of being born there.  However, the following Pacific Islander groups are included:  Carolinian, Fijian, Kosraean, Melanesian, Micronesian, Northern Mariana Islander, Palauan, Papua New Guinean, Ponapean (Pohnpelan), Polynesian, Solomon Islander, Tahitian, Tarawa Islander, Tokelauan, Tongan, Trukese (Chuukese), and Yapese.</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="U">
+        <xs:annotation>
+          <xs:documentation>UNKNOWN</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="W">
+        <xs:annotation>
+          <xs:documentation>WHITE:  A person having origins in any of the original peoples of Europe, North Africa, or Middle East.</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="RACCodeType">
+    <xs:annotation>
+      <xs:documentation>A data type for a code that identifies the race of the person.</xs:documentation>
+    </xs:annotation>
+    <xs:simpleContent>
+      <xs:extension base="ndex:RACCodeSimpleType">
+        <xs:attributeGroup ref="structures:SimpleObjectAttributeGroup"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+</xs:schema>

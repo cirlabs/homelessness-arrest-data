@@ -1,0 +1,32 @@
+NIEM Conformance Assertion
+
+Assertion:  This NIEM IEPD is certified to conform to the following NIEM specifications:
+•	Conformance Specification 3.0, 
+URI = http://reference.niem.gov/niem/specification/conformance/3.0/
+•	Naming and Design Rules 3.0, 
+URI = http://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/
+•	Conformance Targets Attribute Specification 3.0, 
+URI = http://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/ 
+•	Model Package Description 3.0, 
+URI = http://reference.niem.gov/niem/specification/model-package-description/3.0/
+
+mpdURI= http://fbi.gov/cjis/nibrs/2019.2
+Authored by:  Enterprise Technology Services Unit, Information Technology Management Section, FBI CJIS
+Certified by:  Enterprise Service Integration and Standards Group
+Certification Date:  03 May 2019
+Details of conformance verification
+
+1.	How NIEM conformance was verified:
+a.	Automatic (tool) checks were performed with NIEM-aware and XML Schema tools identified below.
+b.	Manual (subjective) checks on conformance rules were performed by the author/certifier. 
+c.	A general manual (subjective) cross-check for adherence to conformance rules and quality assurance was performed by several of the author’s colleagues who understand NIEM and XML Schema. 
+d.	Business requirements associated with the information exchange defined by this IEPD were verified by two subject matter experts who are colleagues of the author. 
+
+2.	Tools employed:
+a.	NIEM Schema Subset Generator (SSGT) (for NIEM 3.2) generated all subset schema documents.
+b.	oXygen XML Editor v16.1 was used to cross-validate XML schemas and XML instances.
+
+3.	Results:  
+a.	No known major issues remain. 
+b.	All XML artifacts are well-formed and valid. 
+c.	Author and SMEs verified that several warnings by tools are not relevant to this IEPD. 

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:cjiscodes="http://fbi.gov/cjis/cjis-codes/2.1" 
+    xmlns:s="http://release.niem.gov/niem/structures/3.0/" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+    xmlns:i="http://niem.gov/niem/appinfo/3.0"
+    xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0/"
+    targetNamespace="http://fbi.gov/cjis/cjis-codes/2.1" version="2.1"
+    ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/#ExtensionSchemaDocument">
+    <xsd:annotation>
+        <xsd:documentation>A collection of code lists for use in CJIS IEPDs.</xsd:documentation>
+    </xsd:annotation>
+    <xsd:import namespace="http://release.niem.gov/niem/appinfo/3.0/" 
+schemaLocation="../../niem/appinfo/3.0/appinfo.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/structures/3.0/" 
+schemaLocation="../../niem/structures/3.0/structures.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/conformanceTargets/3.0/"
+        schemaLocation="../../niem/conformanceTargets/3.0/conformanceTargets.xsd"/>
+    
+    <xsd:simpleType name="ItemStatusCodeSimpleType">
+        <xsd:annotation>
+            <xsd:documentation>A data type for a code that identifies the status of property.  Expands the NIBRS PropertyLoss code list.</xsd:documentation>
+            <xsd:appinfo>
+                <i:Base i:namespace="http://niem.gov/niem/structures/3.0" i:name="Object"/>
+            </xsd:appinfo>
+        </xsd:annotation>
+        <xsd:restriction base="xsd:token">
+            <xsd:enumeration value="BURNED">
+                <xsd:annotation>
+                    <xsd:documentation>Burned</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="COUNTERFEITED">
+                <xsd:annotation>
+                    <xsd:documentation>Counterfeited, includes forged</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="DESTROYED_DAMAGED_VANDALIZED">
+                <xsd:annotation>
+                    <xsd:documentation>Destroyed_Damaged_Vandalized</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NONE">
+                <xsd:annotation>
+                    <xsd:documentation>None</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="RECOVERED">
+                <xsd:annotation>
+                    <xsd:documentation>Recovered  (To impound property previously stolen)</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="SEIZED">
+                <xsd:annotation>
+                    <xsd:documentation>Seized (To impound property not previously stolen)</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="STOLEN">
+                <xsd:annotation>
+                    <xsd:documentation>Stolen</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="UNKNOWN">
+                <xsd:annotation>
+                    <xsd:documentation>Unknown</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:complexType name="ItemStatusCodeType">
+        <xsd:annotation>
+            <xsd:documentation>A data type for a code that identifies the status of property.  Expands the NIBRS PropertyLoss code list.</xsd:documentation>
+            <xsd:appinfo>
+                <i:Base i:namespace="http://niem.gov/niem/structures/3.0" i:name="Object"/>
+            </xsd:appinfo>
+        </xsd:annotation>
+        <xsd:simpleContent>
+            <xsd:extension base="cjiscodes:ItemStatusCodeSimpleType">
+                <xsd:attributeGroup ref="s:SimpleObjectAttributeGroup"/>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+    <xsd:simpleType name="JudicialDistrictCodeSimpleType">
+        <xsd:annotation>
+            <xsd:documentation>A data type for Judicial Districts</xsd:documentation>
+            <xsd:appinfo>
+                <i:Base i:namespace="http://niem.gov/niem/structures/4.0" i:name="Object"/>
+            </xsd:appinfo>
+        </xsd:annotation>
+        <xsd:restriction base="xsd:token">
+            <xsd:enumeration value="ALABAMA_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN ALABAMA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ALABAMA_MIDDLE">
+                <xsd:annotation>
+                    <xsd:documentation>MIDDLE ALABAMA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ALABAMA_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN ALABAMA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="FLORIDA_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN FLORIDA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MARIANA ISLANDS_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN MARIANA ISLANDS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ALASKA">
+                <xsd:annotation>
+                    <xsd:documentation>ALASKA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ARIZONA">
+                <xsd:annotation>
+                    <xsd:documentation>ARIZONA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ARKANSAS_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN ARKANSAS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ARKANSAS_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN ARKANSAS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="CALIFORNIA_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN CALIFORNIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="CALIFORNIA_CENTRAL">
+                <xsd:annotation>
+                    <xsd:documentation>CENTRAL CALIFORNIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="COLORADO">
+                <xsd:annotation>
+                    <xsd:documentation>COLORADO</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="CONNECTICUT">
+                <xsd:annotation>
+                    <xsd:documentation>CONNECTICUT</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="DELAWARE">
+                <xsd:annotation>
+                    <xsd:documentation>DELAWARE</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="WASHINGTON DC">
+                <xsd:annotation>
+                    <xsd:documentation>DISTRICT OF COLUMBIA DISTRICT COURT</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="FLORIDA_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN FLORIDA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="FLORIDA_MIDDLE">
+                <xsd:annotation>
+                    <xsd:documentation>MIDDLE FLORIDA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="GEORGIA_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN GEORGIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="GEORGIA_MIDDLE">
+                <xsd:annotation>
+                    <xsd:documentation>MIDDLE GEORGIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="GEORGIA_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN GEORGIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="HAWAII">
+                <xsd:annotation>
+                    <xsd:documentation>HAWAII</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="IDAHO">
+                <xsd:annotation>
+                    <xsd:documentation>IDAHO</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ILLINOIS_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN ILLINOIS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ILLINOIS_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN ILLINOIS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="ILLINOIS_CENTRAL">
+                <xsd:annotation>
+                    <xsd:documentation>CENTRAL ILLINOIS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="INDIANA_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN INDIANA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="INDIANA_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN INDIANA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="IOWA_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN IOWA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="IOWA_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN IOWA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="KANSAS">
+                <xsd:annotation>
+                    <xsd:documentation>KANSAS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="KENTUCKY_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN KENTUCKY</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="KENTUCKY_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN KENTUCKY</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="LOUISIANA_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN LOUISIANA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="LOUISIANA_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN LOUISIANA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MAINE">
+                <xsd:annotation>
+                    <xsd:documentation>MAINE</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MARYLAND">
+                <xsd:annotation>
+                    <xsd:documentation>MARYLAND</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MASSACHUSETTS">
+                <xsd:annotation>
+                    <xsd:documentation>MASSACHUSETTS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MICHIGAN_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN MICHIGAN</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MICHIGAN_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN MICHIGAN</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MINNESOTA">
+                <xsd:annotation>
+                    <xsd:documentation>MINNESOTA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MISSISSIPPI_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN MISSISSIPPI</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MISSISSIPPI_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN MISSISSIPPI</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MISSOURI_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN MISSOURI</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MISSOURI_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN MISSOURI</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="MONTANA">
+                <xsd:annotation>
+                    <xsd:documentation>MONTANA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEBRASKA">
+                <xsd:annotation>
+                    <xsd:documentation>NEBRASKA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEVADA">
+                <xsd:annotation>
+                    <xsd:documentation>NEVADA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEW HAMPSHIRE">
+                <xsd:annotation>
+                    <xsd:documentation>NEW HAMPSHIRE</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEW JERSEY">
+                <xsd:annotation>
+                    <xsd:documentation>NEW JERSEY</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEW MEXICO">
+                <xsd:annotation>
+                    <xsd:documentation>NEW MEXICO</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEW YORK_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN NEW YORK</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEW YORK_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN NEW YORK</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEW YORK_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN NEW YORK</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NEW YORK_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN NEW YORK</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NORTH CAROLINA_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN NORTH CAROLINA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NORTH CAROLINA_MIDDLE">
+                <xsd:annotation>
+                    <xsd:documentation>MIDDLE NORTH CAROLINA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NORTH CAROLINA_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN NORTH CAROLINA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="NORTH DAKOTA">
+                <xsd:annotation>
+                    <xsd:documentation>NORTH DAKOTA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="OHIO_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN OHIO</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="OHIO_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN OHIO</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="OKLAHOMA_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN OKLAHOMA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="OKLAHOMA_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN OKLAHOMA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="OKLAHOMA_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN OKLAHOMA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="OREGON">
+                <xsd:annotation>
+                    <xsd:documentation>OREGON</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="PENNSYLVANIA_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN PENNSYLVANIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="PENNSYLVANIA_MIDDLE">
+                <xsd:annotation>
+                    <xsd:documentation>MIDDLE PENNSYLVANIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="PENNSYLVANIA_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN PENNSYLVANIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="PUERTO RICO">
+                <xsd:annotation>
+                    <xsd:documentation>PUERTO RICO</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="RHODE ISLAND">
+                <xsd:annotation>
+                    <xsd:documentation>RHODE ISLAND</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="SOUTH CAROLINA">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTH CAROLINA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="SOUTH DAKOTA">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTH DAKOTA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="TENNESSEE_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN TENNESSEE</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="TENNESSEE_MIDDLE">
+                <xsd:annotation>
+                    <xsd:documentation>MIDDLE TENNESSEE</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="TENNESSEE_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN TENNESSEE</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="TEXAS_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN TEXAS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="TEXAS_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN TEXAS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="TEXAS_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN TEXAS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="TEXAS_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN TEXAS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="UTAH">
+                <xsd:annotation>
+                    <xsd:documentation>UTAH</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="VERMONT">
+                <xsd:annotation>
+                    <xsd:documentation>VERMONT</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="VIRGINIA_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN VIRGINIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="VIRGINIA_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN VIRGINIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="WASHINGTON_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN WASHINGTON</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="WASHINGTON_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN WASHINGTON</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="WEST VIRGINIA_NORTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>NORTHERN WEST VIRGINIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="WEST VIRGINIA_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN WEST VIRGINIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="WISCONSIN_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN WISCONSIN</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="WISCONSIN_WESTERN">
+                <xsd:annotation>
+                    <xsd:documentation>WESTERN WISCONSIN</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="WYOMING">
+                <xsd:annotation>
+                    <xsd:documentation>WYOMING</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="GUAM">
+                <xsd:annotation>
+                    <xsd:documentation>GUAM</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="VIRGIN ISLANDS">
+                <xsd:annotation>
+                    <xsd:documentation>VIRGIN ISLANDS</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="LOUISIANA_MIDDLE">
+                <xsd:annotation>
+                    <xsd:documentation>MIDDLE LOUISIANA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="CALIFORNIA_EASTERN">
+                <xsd:annotation>
+                    <xsd:documentation>EASTERN CALIFORNIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+            <xsd:enumeration value="CALIFORNIA_SOUTHERN">
+                <xsd:annotation>
+                    <xsd:documentation>SOUTHERN CALIFORNIA</xsd:documentation>
+                </xsd:annotation>
+            </xsd:enumeration>
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:complexType name="JudicialDistrictCodeType">
+        <xsd:annotation>
+            <xsd:documentation>A data type for Judicial Districts.</xsd:documentation>
+            <xsd:appinfo>
+                <i:Base i:namespace="http://niem.gov/niem/structures/4.0" i:name="Object"/>
+            </xsd:appinfo>
+        </xsd:annotation>
+        <xsd:simpleContent>
+            <xsd:extension base="cjiscodes:JudicialDistrictCodeSimpleType">
+                <xsd:attributeGroup ref="s:SimpleObjectAttributeGroup"/>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+</xsd:schema>

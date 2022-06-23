@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- $Id: mpd-catalog.xml 46285 2018-06-18 15:12:36Z jw7 $ -->
+<c:Catalog 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:nibrs="http://fbi.gov/cjis/nibrs/2019.2"
+	xmlns:ucr="http://release.niem.gov/niem/codes/fbi_ucr/3.2/" 
+    xmlns:j="http://release.niem.gov/niem/domains/jxdm/5.2/" 
+	xmlns:cjis="http://fbi.gov/cjis/2.0"
+    xmlns:cjiscodes="http://fbi.gov/cjis/cjis-codes/2.0"
+	xmlns:c="http://reference.niem.gov/niem/resource/mpd/catalog/3.0/" 
+	xmlns:s="http://release.niem.gov/niem/structures/3.0/"
+	xmlns:nc="http://release.niem.gov/niem/niem-core/3.0/">
+	
+	<c:MPD 
+		c:mpdURI="http://fbi.gov/cjis/nibrs/2019.2" 
+	    c:mpdClassURIList="http://reference.niem.gov/niem/specification/model-package-description/3.0/#MPD
+	                       http://reference.niem.gov/niem/specification/model-package-description/3.0/#IEPD" 
+	    c:mpdName="nibrs" 
+	    c:mpdVersionID="2019.2">
+		<nc:DescriptionText>This Information Exchange Package Documentation (IEPD) documents the National Incident Based Reporting System exchange specification.</nc:DescriptionText>
+		<c:MPDInformation>
+			<c:AuthoritativeSource>
+				<nc:EntityOrganization>
+					<nc:OrganizationName>FBI CJIS</nc:OrganizationName>
+					<nc:OrganizationPrimaryContactInformation>
+						<nc:ContactEmailID>nibrs@ic.fbi.gov</nc:ContactEmailID>
+						<nc:ContactMailingAddress>
+							<nc:AddressFullText>1000 Custer Hollow Road, Clarksburg, WV 26306</nc:AddressFullText>
+						</nc:ContactMailingAddress>
+						<nc:ContactTelephoneNumber>
+							<nc:FullTelephoneNumber>
+								<nc:TelephoneNumberFullID>304-625-4357</nc:TelephoneNumberFullID>
+							</nc:FullTelephoneNumber>
+						</nc:ContactTelephoneNumber>
+					</nc:OrganizationPrimaryContactInformation>
+				</nc:EntityOrganization>
+			</c:AuthoritativeSource>
+			<c:CreationDate>2018-06-18-03:16</c:CreationDate>
+			<c:StatusText>rc</c:StatusText>
+			<c:KeywordText>FBI, CJIS, NIBRS, UCR</c:KeywordText>
+			<c:DomainText>Justice, Homeland Security, UCR</c:DomainText>
+		</c:MPDInformation>
+		<c:IEPConformanceTarget s:id="NIBRS_2019.2_Submission">
+			<nc:DescriptionText>Submission of information to NIBRS when no response or acknowledgement is expected.</nc:DescriptionText>
+			<c:HasDocumentElement c:qualifiedNameList="nibrs:Submission"/>
+			<c:XMLSchemaValid>
+				<c:XMLSchemaDocument c:pathURI="base-xsd/nibrs/2019.2/nibrs.xsd"/>
+			</c:XMLSchemaValid>
+			<c:IEPSampleXMLDocument c:pathURI="iep-sample/nibrs_AllFields_Sample.xml"/>
+			<c:IEPSampleXMLDocument c:pathURI="iep-sample/nibrs_GroupAIncident_Sample.xml"/>
+			<c:IEPSampleXMLDocument c:pathURI="iep-sample/nibrs_GroupAReplace_Sample.xml"/>
+			<c:IEPSampleXMLDocument c:pathURI="iep-sample/nibrs_GroupBArrest_Sample.xml"/>
+			<c:IEPSampleXMLDocument c:pathURI="iep-sample/nibrs_GroupBArrestDelete_Sample.xml"/>
+			<c:IEPSampleXMLDocument c:pathURI="iep-sample/nibrs_IncidentDelete_Sample.xml"/>
+			<c:IEPSampleXMLDocument c:pathURI="iep-sample/nibrs_ZeroReport_Sample.xml"/>
+		</c:IEPConformanceTarget>
+		<c:ReadMe c:pathURI="readme.txt"/>
+		<c:MPDChangeLog c:pathURI="changelog.txt"/>
+		<c:ConformanceAssertion c:pathURI="nibrs_ConformanceAssertion.txt"/>
+		<c:Wantlist c:pathURI="base-xsd/wantlist.xml">
+			<nc:DescriptionText>NIEM 3.2 wantlist for NIBRS 2019.2</nc:DescriptionText>
+		</c:Wantlist>
+		<c:ExtensionSchemaDocument c:pathURI="base-xsd/nibrs/2019.2/nibrs-codes.xsd"/>
+		<c:ExtensionSchemaDocument c:pathURI="base-xsd/nibrs/2019.2/nibrs.xsd"/>
+	</c:MPD>
+</c:Catalog>

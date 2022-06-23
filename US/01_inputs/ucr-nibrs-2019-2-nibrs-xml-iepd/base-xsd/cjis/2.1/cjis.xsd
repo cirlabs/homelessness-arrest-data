@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Document: $Id: cjis.xsd $
+    NIEM version  : 3.2
+    CJIS version : 2.1
+    Namespace    : xmlns:cjis="http://fbi.gov/cjis/2.1"
+    Description     : CJIS 2.1 Subset Extension Schema
+-->
+<xsd:schema xmlns:cjis="http://fbi.gov/cjis/2.1"
+    xmlns:cjiscodes="http://fbi.gov/cjis/cjis-codes/2.1"
+    xmlns:i="http://release.niem.gov/niem/appinfo/3.0/"
+    xmlns:ucr="http://release.niem.gov/niem/codes/fbi_ucr/3.2/"
+    xmlns:j="http://release.niem.gov/niem/domains/jxdm/5.2/"
+    xmlns:term="http://release.niem.gov/niem/localTerminology/3.0/"
+    xmlns:nc="http://release.niem.gov/niem/niem-core/3.0/"
+    xmlns:niem-xsd="http://release.niem.gov/niem/proxy/xsd/3.0/"
+    xmlns:s="http://release.niem.gov/niem/structures/3.0/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:ct="http://release.niem.gov/niem/conformanceTargets/3.0/"
+    targetNamespace="http://fbi.gov/cjis/2.1"
+    version="2.1"
+    ct:conformanceTargets="http://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/#ExtensionSchemaDocument">
+    <xsd:annotation>
+        <xsd:documentation>CJIS Extension Schema</xsd:documentation>
+    </xsd:annotation>
+    <xsd:import namespace="http://release.niem.gov/niem/appinfo/3.0/"
+        schemaLocation="../../niem/appinfo/3.0/appinfo.xsd"/>
+    <xsd:import namespace="http://fbi.gov/cjis/cjis-codes/2.1" schemaLocation="cjis-codes.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/codes/fbi_ucr/3.2/"
+        schemaLocation="../../niem/codes/fbi_ucr/3.2/fbi_ucr.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/conformanceTargets/3.0/"
+        schemaLocation="../../niem/conformanceTargets/3.0/conformanceTargets.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/domains/jxdm/5.2/"
+        schemaLocation="../../niem/domains/jxdm/5.2/jxdm.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/localTerminology/3.0/"
+        schemaLocation="../../niem/localTerminology/3.0/localTerminology.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/niem-core/3.0/"
+        schemaLocation="../../niem/niem-core/3.0/niem-core.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/proxy/xsd/3.0/"
+        schemaLocation="../../niem/proxy/xsd/3.0/xs.xsd"/>
+    <xsd:import namespace="http://release.niem.gov/niem/structures/3.0/"
+        schemaLocation="../../niem/structures/3.0/structures.xsd"/>
+
+    <xsd:complexType name="IncidentAugmentationType">
+        <xsd:annotation>
+            <xsd:documentation>A data type that supplements nc:IncidentType.</xsd:documentation>
+            <xsd:appinfo>
+                <i:Base i:namespace="http://niem.gov/niem/structures/2.0" i:name="AugmentationType"/>
+            </xsd:appinfo>
+        </xsd:annotation>
+        <xsd:complexContent>
+            <xsd:extension base="s:AugmentationType">
+                <xsd:sequence>
+                    <xsd:element ref="cjis:IncidentReportDateIndicator" minOccurs="0" maxOccurs="1"/>
+                    <xsd:element ref="j:OffenseCargoTheftIndicator" minOccurs="0" maxOccurs="1"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+    <xsd:element name="JudicialDistrictCode" type="cjiscodes:JudicialDistrictCodeType"
+        substitutionGroup="nc:LocaleJudicialDistrict" nillable="true">
+        <xsd:annotation>
+            <xsd:documentation>A judicial district or legal district denoting the territorial area for which a legal court has jurisdiction.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:complexType name="MessageMetadataType">
+        <xsd:annotation>
+            <xsd:documentation>A data type for Metadata for a message.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:complexContent>
+            <xsd:extension base="s:MetadataType">
+                <xsd:sequence>
+                    <xsd:element ref="cjis:MessageDateTime"/>
+                    <xsd:element ref="cjis:MessageIdentification"/>
+                    <xsd:element ref="cjis:MessageImplementationVersion"/>
+                    <xsd:element ref="cjis:MessageSubmittingOrganization"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+    <xsd:complexType name="OrganizationAugmentationType">
+        <xsd:annotation>
+            <xsd:documentation>A data type that supplements nc:OrganizationType.</xsd:documentation>
+            <xsd:appinfo>
+                <i:Base i:namespace="http://niem.gov/niem/structures/2.0" i:name="AugmentationType"/>
+            </xsd:appinfo>
+        </xsd:annotation>
+        <xsd:complexContent>
+            <xsd:extension base="s:AugmentationType">
+                <xsd:sequence>
+                    <xsd:element ref="cjis:DirectReportingCityIdentification" minOccurs="0"
+                        maxOccurs="unbounded"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+    <xsd:complexType name="SubjectAugmentationType">
+        <xsd:annotation>
+            <xsd:documentation>Augmentation for j:SubjectAugmenationPoint</xsd:documentation>
+        </xsd:annotation>
+        <xsd:complexContent>
+            <xsd:extension base="s:AugmentationType">
+                <xsd:sequence>
+                    <xsd:element ref="j:SubjectArmedWith"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+
+    <xsd:element name="DirectReportingCityIdentification" type="nc:IdentificationType"
+        nillable="false">
+        <xsd:annotation>
+            <xsd:documentation>A code assigned by the FBI to cities that submit directly to the FBI because their UCR Program does not participate in the NIBRS</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="IncidentAugmentation" type="cjis:IncidentAugmentationType"
+        substitutionGroup="nc:IncidentAugmentationPoint">
+        <xsd:annotation>
+            <xsd:documentation>Additional information about an incident</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element> 
+    <xsd:element name="IncidentReportDateIndicator" type="niem-xsd:boolean" nillable="false">
+        <xsd:annotation>
+            <xsd:documentation>True if the report date was used for the incident date; false otherwise</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="ItemStatusCode" type="cjiscodes:ItemStatusCodeType"
+        substitutionGroup="nc:StatusDesignator" nillable="false">
+        <xsd:annotation>
+            <xsd:documentation>A code that identifies the status of property.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="MessageMetadata" type="cjis:MessageMetadataType">
+        <xsd:annotation>
+            <xsd:documentation>Metadata for the CJIS message</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="MessageDateTime" type="niem-xsd:dateTime">
+        <xsd:annotation>
+            <xsd:documentation>The date and time the message was created.</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="MessageIdentification" type="nc:IdentificationType">
+        <xsd:annotation>
+            <xsd:documentation>A number that uniquely identifies a message from a specific application or service provider</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="MessageImplementationVersion" type="nc:TextType">
+        <xsd:annotation>
+            <xsd:documentation>The version of the implementation of the CJIS IEPD used for the message</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="MessageSubmittingOrganization" type="nc:OrganizationType">
+        <xsd:annotation>
+            <xsd:documentation>The organization submitting the message</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="OrganizationAugmentation" type="cjis:OrganizationAugmentationType"
+        substitutionGroup="nc:OrganizationAugmentationPoint" nillable="false">
+        <xsd:annotation>
+            <xsd:documentation>Additional information about an organization</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+    <xsd:element name="SubjectAugmentation" type="cjis:SubjectAugmentationType"
+        substitutionGroup="j:SubjectAugmentationPoint">
+        <xsd:annotation>
+            <xsd:documentation>Additional information about a subject</xsd:documentation>
+        </xsd:annotation>
+    </xsd:element>
+
+</xsd:schema>

@@ -1,0 +1,82 @@
+2016-10-26 
+*Initial Release NIBRS IEPD v4.0.
+2017-02-10 
+*Added Date element for incidents where time is unknown.
+*Added Facet "A" for Add based on TOU from legacy system.
+*Changed Person Age Measure to NIEM standard and removed from NIBRS.
+*Moved Location Category Code to NIBRS to add "58" Cyberspace Facet.
+2017-03-23
+*Changed to most current NIEM 3.2 release.
+2017-04-04
+*Updated sample iep files.
+*Added Facet "R" for Replace based on new system request.
+*Removed BiasMotivation codes: "Gender Bias" and "ANTIDISABLED" based on TOU.
+*Removed UCRCharge codes: "90I"  based on TOU.
+*Removed PropertyCategory code: "99" based on TOU.
+*Edited cardinality for all elements.
+*Updated documentation for all changes made.
+2017-04-21
+*removed NIEM LocationCategoryCode and VictimConnectedtoUCRCode Duplicate.
+*updated code tables to better match Technical Specification.
+2017-05-02
+*Release of NIBRS IEPD v4.1.
+2017-05-23
+*Changed cardinality to match or allow for Technical Specification rules. 
+*Removed Aggravated Assault codes: 09A, 09B, and 09C values.
+*Extended VictimToSubjectRelationshipCode removed "Girlfriend" and added "Boyfriend_Girlfriend" values.
+2017-06-06
+*Changed naming to 4.2.
+*Updated documentation to 4.2.
+2017-06-19
+*Release of NIBRS IEPD 4.2 DRAFT for User Review
+2017-07-20
+*removed unused schema elements.
+*matched all codes to 3.2 redlined technical specification.
+2017-08-23
+* removed appinfo tags and added conformance target domain import with new value; within the nibrs and cjis domains.
+* changed MessageImplementationVersion in cjis.xsd to nc:TextType for NIEM conformance.
+*packaged NIBRS IEPD 4.2 Release Candidate for Review.
+2017-09-08
+* updated JuvenileDispositionCode to reflect Technical Specification.
+* removed substitution group for VictimtoSubjectRelationshipCode.
+2017-09-26
+* set nillable to false to prevent blank tags generated from JaxB.
+* modified sample files to reflect change in VictimtoSubjectRelationshipCode.
+2018-02-09
+* added anti-homosexual back into code table spreadsheet
+2018-03-26
+* added Ex_Relationship facet to VictimtoSubjectRelationshipCode.
+* updated Group B sample to contain a Group B offense.
+2018-03-28
+* updated VictimAggravatedAssaultHomicideFactorCode facet "06" description from "Lovers' Quarrel" to "Domestic Violence" in code table spreadsheet.  ^
+* updated OffenseFactorCode facet "C" description from "Computer Equipment" to "Computer Equipment/Handheld Device" in code table spreadsheet. ^
+* updated ForceCategoryCode facet "35" description from "Motor Vehicle" to "Motor Vehicle/Vessel" in code table spreadsheet. ^
+* added VictimToSubjectRelationshipCode facet "Ex_Relationship" and description to code table spreadsheet.
+2018-06-18
+* removed multiple arrestee count from group B sample.
+* created subset to cjis_codes/cjis.xsd and updated to 2.0.
+* updated NIBRS namespace to 2019 in all sample files.
+* added Judicial District code to CJIS domain for Federal Submissions.
+* updated sample files with Judicial District Code for Federal Submissions.
+2018-07-24
+* Removed GROUP A INCIDENT REPORT_LEOKA from the NIBRSReportCategoryCode tab of the nibrs_codestable spreadsheet.
+* Removed j:ArresteeClearanceIndicator from nibrs_GroupBArrest_Sample.xml.
+* Removed Element 44 from the GroupBArrest table of the mapping spreadsheet.
+2018-08-15
+* Removed ChargeUCRCode element from wantlist.
+* Removed OffenseCodeSimpleType from wantlist.
+* Removed Judicial District code to CJIS domain for Federal Submissions.
+* updated sample files, removed Judicial District Code for Federal Submissions.
+2018-08-16
+* added nibrs:Submission element to xpaths in mapping spreadsheet.
+
+*** Version 2019.2 Updates ***
+2019-05-09
+* updated cjis schemas to version 2.1 to include Federal Judicial District
+* updated NIEM wantlist to add LocaleJudicialDistrict abstract
+* added Federal Offense Codes to nibrs_codes.xsd
+* updated nibrs_CodesTables.xlsx with new code values
+* updated nibrs_XMLMapping_Spreadsheet.xlsx with Federal Judicial District
+* corrected cardinality for Group A Incidents in nibrs_XMLMapping_Spreadsheet.xlsx
+* updated nibrs_MasterDocument to reflect changes
+* updated Offense Codes to use names instead of numbers in nibrs_codes.xsd, nibrs_CodesTables.xlsx, and samples 
