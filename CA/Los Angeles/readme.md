@@ -4,7 +4,7 @@
 
 Los Angeles provided data on arrests from January 2009 through January 2021.
 
-![Bar chart depicting the years that of data provided by each jurisdiction](methodology/visuals/arrest_dates.png)
+![Bar chart depicting the years that of data provided by each jurisdiction](../../methodology/visuals/arrest_dates.png)
 
 
 ## Fields
